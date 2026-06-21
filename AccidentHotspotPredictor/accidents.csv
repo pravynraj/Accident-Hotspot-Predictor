@@ -1,0 +1,1116 @@
+ID,Source,Severity,Description,Street,City,County,State,Zipcode,Country,Timezone,Airport_Code,Weather_Timestamp,Temperature(F),Weather_Condition
+A-1,Source2,3,Right lane blocked due to accident on I-70 Eastbound at Exit 41 OH-235 State Route 4.,I-70 E,Dayton,Montgomery,OH,45424,US,US/Eastern,KFFO,2/8/2016 5:58,36.9,Light Rain
+A-2,Source2,2,Accident on Brice Rd at Tussing Rd. Expect delays.,Brice Rd,Reynoldsburg,Franklin,OH,43068-3402,US,US/Eastern,KCMH,2/8/2016 5:51,37.9,Light Rain
+A-3,Source2,2,Accident on OH-32 State Route 32 Westbound at Dela Palma Rd. Expect delays.,State Route 32,Williamsburg,Clermont,OH,45176,US,US/Eastern,KI69,2/8/2016 6:56,36,Overcast
+A-4,Source2,3,Accident on I-75 Southbound at Exits 52 52B US-35. Expect delays.,I-75 S,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,2/8/2016 7:38,35.1,Mostly Cloudy
+A-5,Source2,2,Accident on McEwen Rd at OH-725 Miamisburg Centerville Rd. Expect delays.,Miamisburg Centerville Rd,Dayton,Montgomery,OH,45459,US,US/Eastern,KMGY,2/8/2016 7:53,36,Mostly Cloudy
+A-6,Source2,3,Accident on I-270 Outerbelt Northbound near Exit 29 OH-3 State St. Expect delays.,Westerville Rd,Westerville,Franklin,OH,43081,US,US/Eastern,KCMH,2/8/2016 7:51,37.9,Light Rain
+A-7,Source2,2,Accident on Oakridge Dr at Woodward Ave. Expect delays.,N Woodward Ave,Dayton,Montgomery,OH,45417-2476,US,US/Eastern,KDAY,2/8/2016 7:56,34,Overcast
+A-8,Source2,3,Accident on I-75 Southbound at Exit 54B Grand Ave. Expect delays.,N Main St,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,2/8/2016 7:56,34,Overcast
+A-9,Source2,2,Accident on Notre Dame Ave at Warner Ave. Expect delays.,Notre Dame Ave,Dayton,Montgomery,OH,45404-1923,US,US/Eastern,KFFO,2/8/2016 7:58,33.3,Mostly Cloudy
+A-10,Source2,3,Right hand shoulder blocked due to accident on I-270 Outerbelt Westbound at Exit 29 OH-3 State St.,Westerville Rd,Westerville,Franklin,OH,43081,US,US/Eastern,KCMH,2/8/2016 8:28,37.4,Light Rain
+A-11,Source2,3,Accident on I-270 Outerbelt Northbound at Exits 7 7A 7B US-40 Broad St. Expect delays.,Outerbelt S,Columbus,Franklin,OH,43228,US,US/Eastern,KTZR,2/8/2016 7:50,35.6,Rain
+A-12,Source2,3,One lane blocked due to accident on I-70 Westbound at Exits 110 110A 110B Brice Rd. Expect delays.,I-70 E,Reynoldsburg,Franklin,OH,43068,US,US/Eastern,KCMH,2/8/2016 8:28,37.4,Light Rain
+A-13,Source2,2,Accident on Revere Ave at Watervliet Ave. Expect delays.,Watervliet Ave,Dayton,Montgomery,OH,45420-1863,US,US/Eastern,KFFO,2/8/2016 8:28,33.8,Overcast
+A-14,Source2,2,Accident on Salem Ave at Hillcrest Ave / Kensington Dr. Expect delays.,Salem Ave,Dayton,Montgomery,OH,45406-2708,US,US/Eastern,KDAY,2/8/2016 8:56,36,Mostly Cloudy
+A-15,Source2,2,Accident on OH-16 Broad St at James Rd. Expect delays.,E Broad St,Columbus,Franklin,OH,43213-1006,US,US/Eastern,KCMH,2/8/2016 8:28,37.4,Light Rain
+A-16,Source2,2,Accident on Wayne Ave at Glencoe Ave. Expect delays.,Glencoe Ave,Dayton,Montgomery,OH,45410-1721,US,US/Eastern,KFFO,2/8/2016 8:28,33.8,Overcast
+A-17,Source2,2,Accident on James H McGee Blvd at US-35. Expect delays.,S James H McGee Blvd,Dayton,Montgomery,OH,45402,US,US/Eastern,KFFO,2/8/2016 8:58,35.6,Mostly Cloudy
+A-18,Source2,2,Accident on Delphos Ave at Brooklyn Ave. Expect delays.,Delphos Ave,Dayton,Montgomery,OH,45417-1727,US,US/Eastern,KDAY,2/8/2016 8:56,36,Mostly Cloudy
+A-19,Source2,2,Accident on Stewart St near Rubicon St. Expect delays.,Rubicon St,Dayton,Montgomery,OH,45409-2659,US,US/Eastern,KFFO,2/8/2016 9:38,37.4,Overcast
+A-20,Source2,2,Accident on Hillcrest Ave at Piccadilly Ave. Expect delays.,W Hillcrest Ave,Dayton,Montgomery,OH,45406-2640,US,US/Eastern,KDAY,2/8/2016 9:56,36,Mostly Cloudy
+A-21,Source2,2,Accident on Brookhill Dr at Glenhurst Ct.,Brookhill Dr,Columbus,Franklin,OH,43230-1765,US,US/Eastern,KCMH,2/8/2016 10:14,33.8,Light Snow
+A-22,Source2,2,Accident on Princeton Dr at Catalpa Dr. Expect delays.,Princeton Dr,Dayton,Montgomery,OH,45406-4736,US,US/Eastern,KDAY,2/8/2016 9:56,36,Mostly Cloudy
+A-23,Source2,2,Accident on OH-741 Springboro Pike at Lyons Rd. Expect delays.,Springboro Pike,Miamisburg,Montgomery,OH,45342,US,US/Eastern,KMGY,2/8/2016 11:53,35.1,Overcast
+A-24,Source2,3,Accident on I-71 Northbound at Exit 113 Silver Dr. On exit ramp.,North Fwy S,Columbus,Franklin,OH,43211,US,US/Eastern,KCMH,2/8/2016 11:51,37,Overcast
+A-25,Source2,2,Accident on Hoover Ave at Elmhurst Rd.,Hoover Ave,Dayton,Montgomery,OH,45417-1117,US,US/Eastern,KDAY,2/8/2016 12:20,37.9,Overcast
+A-26,Source2,2,Accident on County Hwy-16 Sportsman Club Rd between Liberty Ridge Ct and Nichols Ln.,Sportsman Club Rd,Johnstown,Licking,OH,43031-9133,US,US/Eastern,KCMH,2/8/2016 12:51,37.9,Light Snow
+A-27,Source2,2,Accident on Irving Ave at Wilmington Ave.,Irving Ave,Dayton,Montgomery,OH,45419-4148,US,US/Eastern,KMGY,2/8/2016 12:53,36,Light Snow
+A-28,Source2,2,Accident on Helena St at OH-48 Main St.,W Helena St,Dayton,Montgomery,OH,45405-4326,US,US/Eastern,KDAY,2/8/2016 13:56,39.9,Mostly Cloudy
+A-29,Source2,2,Accident on Salem Ave at Litchfield Ave.,Litchfield Ave,Dayton,Montgomery,OH,45406-2701,US,US/Eastern,KDAY,2/8/2016 14:56,39.9,Mostly Cloudy
+A-30,Source2,2,Accident on 4th St at Wayne Ave.,E 4th St,Dayton,Montgomery,OH,45402,US,US/Eastern,KFFO,2/8/2016 15:46,39.2,Mostly Cloudy
+A-31,Source2,2,Accident on Frantz Rd Southbound at Bradenton Ave.,Frantz Rd,Dublin,Franklin,OH,43017-2552,US,US/Eastern,KOSU,2/8/2016 15:53,37,Overcast
+A-32,Source2,2,Accident on Powell Rd at Bellefontaine Rd. Approach with care.,Bellefontaine Rd,Dayton,Montgomery,OH,45424-4132,US,US/Eastern,KFFO,2/8/2016 17:58,34.2,Light Rain
+A-33,Source2,3,Left lane blocked due to accident on I-71 Southbound at Exit 115 Cooke Rd.,North Fwy S,Columbus,Franklin,OH,43224,US,US/Eastern,KCMH,2/8/2016 18:43,33.8,Overcast
+A-34,Source2,3,Right lane blocked due to accident on I-270 Outerbelt Northbound at Exit 39 OH-16 Broad St.,Outerbelt N,Columbus,Franklin,OH,43213,US,US/Eastern,KCMH,2/8/2016 19:51,34,Overcast
+A-35,Source2,2,Accident on OH-315 Olentangy Fwy Eastbound at Cannon Dr.,Olentangy Fwy N,Columbus,Franklin,OH,43212,US,US/Eastern,KOSU,2/8/2016 20:27,33.1,Light Snow
+A-36,Source2,2,Right lane blocked due to accident on OH-315 Olentangy Fwy Northbound between Cannon Dr and Lane Ave.,Olentangy Fwy S,Columbus,Franklin,OH,43210,US,US/Eastern,KOSU,2/8/2016 20:39,33.1,Overcast
+A-37,Source2,2,Accident on OH-48 Main St at Fairground Ave. Expect delays.,S Main St,Dayton,Montgomery,OH,45409-2616,US,US/Eastern,KFFO,2/9/2016 4:28,23,Light Snow
+A-38,Source2,2,Accident on US-33 Columbus Lancaster Rd Eastbound at County Hwy-18 Diley Rd. Expect delays.,Diley Rd,Canal Winchester,Fairfield,OH,43110,US,US/Eastern,KLCK,2/9/2016 4:55,23,Light Snow
+A-39,Source2,2,Accident on Leo St at Kiser St. Expect delays.,Kiser St,Dayton,Montgomery,OH,45404-1672,US,US/Eastern,KFFO,2/9/2016 4:58,22.8,Light Snow
+A-40,Source2,3,Accident on I-670 Northeast Fwy Eastbound near I-270 Outerbelt Exits 35A 35B. Expect delays.,Stelzer Rd,Columbus,Franklin,OH,43219-3504,US,US/Eastern,KCMH,2/9/2016 5:27,26.6,Light Snow
+A-41,Source2,2,Accident on Monroe Rd near Shaker Run Rd. Expect delays.,Monroe Rd,Lebanon,Warren,OH,45036,US,US/Eastern,KMGY,2/9/2016 5:45,21,Light Snow
+A-42,Source2,2,Accident on Stanley Ave at Kuntz Rd.,Air City Ave,Dayton,Montgomery,OH,45404-1255,US,US/Eastern,KFFO,2/9/2016 5:58,23,Light Snow
+A-43,Source2,2,Accident on OH-72 State Route 72 Northbound at Point Isabel Rd.,S State Route 72,Sabina,Clinton,OH,45169,US,US/Eastern,KILN,2/9/2016 5:54,19.9,Light Snow
+A-44,Source2,3,Accident on I-270 Outerbelt near Exit 39 OH-16 Broad St.,E Broad St,Columbus,Franklin,OH,43213,US,US/Eastern,KCMH,2/9/2016 5:51,25,Light Snow
+A-45,Source2,3,Accident on I-75 Northbound at Exit 59 Wyse Rd. Expect delays.,Benchwood Rd,Dayton,Montgomery,OH,45414,US,US/Eastern,KDAY,2/9/2016 6:03,23,Light Snow
+A-46,Source2,3,Accident on I-70 Eastbound at Exit 102 Kelton Ave. Expect delays.,East Fwy W,Columbus,Franklin,OH,43205,US,US/Eastern,KCMH,2/9/2016 5:51,25,Light Snow
+A-47,Source2,2,Accident on Kenny Rd at Henderson Rd. Expect delays.,Kenny Rd,Columbus,Franklin,OH,43220,US,US/Eastern,KOSU,2/9/2016 6:22,26.1,Light Snow
+A-48,Source2,3,Right hand shoulder blocked due to accident on I-70 Westbound at Exits 107 107A 107B OH-317 Hamilton Rd.,S Hamilton Rd,Columbus,Franklin,OH,43232,US,US/Eastern,KCMH,2/9/2016 6:36,24.8,Light Snow
+A-49,Source2,2,Accident on Stanley Ave at OH-201 Brandt St. Expect delays.,Brandt St,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,2/9/2016 6:51,23,Light Snow
+A-50,Source2,3,Accident on I-75 Northbound at Exits 54A 54B OH-4. Expect delays.,I-75 S,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,2/9/2016 6:51,23,Light Snow
+A-51,Source2,2,Accident on OH-48 Main St at Burton Ave. Expect delays.,N Main St,Dayton,Montgomery,OH,45405-4141,US,US/Eastern,KDAY,2/9/2016 6:56,21.9,Light Snow
+A-52,Source2,2,Accident on Riverside Dr at Pointview Ave. Expect delays.,Riverside Dr,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,2/9/2016 6:56,21.9,Light Snow
+A-53,Source2,3,Accident on I-75 Northbound at Exit 54B Grand Ave. Expect delays.,N Main St,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,2/9/2016 6:56,21.9,Light Snow
+A-54,Source2,3,Accident on I-70 Eastbound at Exits 93 93A 93B I-270 Outerbelt. Expect delays.,Outerbelt S,Columbus,Franklin,OH,43204,US,US/Eastern,KTZR,2/9/2016 7:20,21.2,Light Snow
+A-55,Source2,3,Accident on I-75 Southbound at Exit 44 OH-725 Miamisburg Centerville Rd. Expect delays.,Miamisburg Centerville Rd,Dayton,Montgomery,OH,45449,US,US/Eastern,KMGY,2/9/2016 7:12,21,Light Snow
+A-56,Source2,2,Accident on OH-28 State Route 28 at Wood St. Expect delays.,Wood St,Goshen,Clermont,OH,45122,US,US/Eastern,KI69,2/9/2016 6:56,21,Light Snow
+A-57,Source2,2,Accident on McCall St at Abbey Ave. Expect delays.,Dearborn Ave,Dayton,Montgomery,OH,45417-2002,US,US/Eastern,KDAY,2/9/2016 7:08,21.9,Light Snow
+A-58,Source2,2,Accident on Brown St at Fairground Ave. Expect delays.,Brown St,Dayton,Montgomery,OH,45409-2602,US,US/Eastern,KFFO,2/9/2016 7:58,22.5,Light Snow
+A-59,Source2,2,Accident on US-35 Eastbound at Steve Whalen Blvd. Expect delays.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,2/9/2016 7:58,22.5,Light Snow
+A-60,Source2,2,Accident on US-35 Eastbound at Smithville Rd. Expect delays.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,2/9/2016 7:58,22.5,Light Snow
+A-61,Source2,3,Accident on I-270 Outerbelt Southbound at Exit 26 I-71.,North Fwy S,Columbus,Franklin,OH,43229,US,US/Eastern,KOSU,2/9/2016 7:50,24.8,Light Snow
+A-62,Source2,2,Accident on 5 Oaks Ave at Forest Ave. Expect delays.,5 Oaks Ave,Dayton,Montgomery,OH,45405-4432,US,US/Eastern,KDAY,2/9/2016 7:54,21.2,Light Snow
+A-63,Source2,2,Accident on US-42 State Route 42 at Middletown Rd. Expect delays.,N State Route 42,Waynesville,Warren,OH,45068-9388,US,US/Eastern,KMGY,2/9/2016 8:14,21,Light Snow
+A-64,Source2,2,Accident on County Hwy-119 Clearcreek Rd near Tamarack Trl. Expect delays.,Clearcreek Rd,Springboro,Warren,OH,45066-9716,US,US/Eastern,KMGY,2/9/2016 8:14,21,Light Snow
+A-65,Source2,2,Accident on US-33 Columbus Lancaster Rd Westbound near County Hwy-20 Pickerington Rd. Expect delays.,Columbus Lancaster Rd NW,Carroll,Fairfield,OH,43112,US,US/Eastern,KLHQ,2/9/2016 7:50,21.9,Light Snow
+A-66,Source2,3,Accident on I-75 Southbound at I-675. Expect delays.,I-75 N,Miamisburg,Montgomery,OH,45342,US,US/Eastern,KMGY,2/9/2016 8:14,21,Light Snow
+A-67,Source2,3,Right hand shoulder blocked due to accident on I-71 Southbound at Exit 36 County Hwy-7 Wilmington Rd.,Wilmington Rd,Oregonia,Warren,OH,45054,US,US/Eastern,KMGY,2/9/2016 8:14,21,Light Snow
+A-68,Source2,3,Accident on I-480 Westbound at Exit 20A-B I-77. Expect delays.,Outerbelt South Fwy W,Independence,Cuyahoga,OH,44131,US,US/Eastern,KBKL,2/9/2016 8:28,32,Overcast
+A-69,Source2,3,Accident on I-480 Eastbound at Exit 23 OH-14 Broadway Ave.,I-480 E,Maple Heights,Cuyahoga,OH,44137,US,US/Eastern,KBKL,2/9/2016 8:28,32,Overcast
+A-70,Source2,3,One lane blocked due to accident on I-270 Outerbelt Westbound at Exit 55 I-71.,I-71 S,Grove City,Franklin,OH,43123,US,US/Eastern,KTZR,2/9/2016 9:50,21.2,Overcast
+A-71,Source2,2,One lane blocked due to accident on Main St Southbound at Lake Cascade Pkwy.,S Main St,Findlay,Hancock,OH,45840-1319,US,US/Eastern,KFDY,2/9/2016 11:04,27,Light Snow
+A-72,Source2,2,Accident on Short Leuders Rd at OH-133 State Route 133. Expect delays.,Short Leuders Rd,Goshen,Clermont,OH,45122,US,US/Eastern,KI69,2/10/2016 6:16,16.2,Light Snow
+A-73,Source2,3,One lane blocked due to accident on OH-315 Olentangy Fwy Northbound at Goodale St.,Twin Rivers Dr,Columbus,Franklin,OH,43215,US,US/Eastern,KCMH,2/10/2016 6:19,15.8,Light Snow
+A-74,Source2,2,Accident on Vista Dr at Hamilton Rd.,N Hamilton Rd,Columbus,Franklin,OH,43230,US,US/Eastern,KCMH,2/10/2016 6:19,15.8,Light Snow
+A-75,Source2,2,Accident on OH-444 Central Ave at Kauffman Ave. Expect delays.,S Central Ave,Fairborn,Greene,OH,45324,US,US/Eastern,KFFO,2/10/2016 6:58,15.4,Light Snow
+A-76,Source2,3,Accident on I-75 Northbound at Exit 82 US-36 Ash St. Expect delays.,E Ash St,Piqua,Miami,OH,45356,US,US/Eastern,KVES,2/10/2016 7:55,14,Light Snow
+A-77,Source2,3,Accident on I-270 Outerbelt Eastbound at Exit 43A-B/41A-B US-40 Main St. Expect delays.,Outerbelt N,Columbus,Franklin,OH,43232,US,US/Eastern,KCMH,2/10/2016 7:51,15.1,Light Snow
+A-78,Source2,2,Delays due to accident on Lindale Mount Holly Rd at Lindale Nicholsville Rd.,Lindale Nicholsville Rd,New Richmond,Clermont,OH,45157-9006,US,US/Eastern,KI69,2/10/2016 7:56,15.8,Light Snow
+A-79,Source2,2,Accident on Indianola Ave at Oakland Ave. Expect delays.,Indianola Ave,Columbus,Franklin,OH,43202-3023,US,US/Eastern,KOSU,2/10/2016 7:53,16,Light Snow
+A-80,Source2,2,Accident on Lake Allyn Rd at Amelia Olive Branch Rd.,Lake Allyn Rd,Batavia,Clermont,OH,45103-8992,US,US/Eastern,KI69,2/10/2016 8:16,15.8,Light Snow
+A-81,Source2,2,Accident on US-40 Main St Eastbound at Cypress Aly.,E Main St,Reynoldsburg,Franklin,OH,43068-1207,US,US/Eastern,KCMH,2/10/2016 8:51,16,Light Snow
+A-82,Source2,3,Accident on I-71 Northbound at Rest Stop North.,North Fwy N,Galena,Delaware,OH,43021,US,US/Eastern,KDLZ,2/10/2016 8:55,17.6,Haze
+A-83,Source2,3,Accident on I-270 Outerbelt Southbound at I-70 Exits 93 93A 93B. Expect delays.,Outerbelt S,Columbus,Franklin,OH,43204,US,US/Eastern,KTZR,2/10/2016 9:50,15.8,Light Snow
+A-84,Source2,3,One lane blocked due to accident on I-670 Eastbound at Exit 7 US-62. Expect delays.,E 5th Ave,Columbus,Franklin,OH,43219,US,US/Eastern,KCMH,2/10/2016 10:51,17.1,Light Snow
+A-85,Source2,3,Left lane blocked due to accident on I-76 Westbound at Exit 16 Barber Rd.,US-224 W,Barberton,Summit,OH,44203,US,US/Eastern,KAKR,2/10/2016 16:54,19.9,Light Snow
+A-86,Source2,3,Left lane blocked due to accident on I-77 Northbound between Exit 130 OH-261 Vernon Odom Blvd and Exit 131 OH-162 Copley Rd.,Copley Rd,Akron,Summit,OH,44320-2561,US,US/Eastern,KAKR,2/10/2016 18:10,19.9,Light Snow
+A-87,Source2,3,Accident on I-71 Northbound in Crimson. Approach with care.,I-71 N,Mansfield,Richland,OH,44903,US,US/Eastern,KMFD,2/10/2016 18:52,16,Overcast
+A-88,Source2,3,Accident on I-480 Westbound at Exit 9 OH-17 Brookpark Rd. Expect delays.,Grayton Rd,Cleveland,Cuyahoga,OH,44135,US,US/Eastern,KCLE,2/11/2016 5:51,14,Light Snow
+A-89,Source2,3,Accident on I-77 Southbound at Exit 130 OH-261 Vernon Odom Blvd. Expect delays.,Vernon Odom Blvd,Akron,Summit,OH,44320-4026,US,US/Eastern,KAKR,2/11/2016 5:30,14,Light Snow
+A-90,Source2,2,Accident on US-35 Eastbound at I-75. Expect delays.,I-75 S,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,2/11/2016 5:56,7,Scattered Clouds
+A-91,Source2,2,Accident on OH-125 State Route 125 at Bantam Rd. Expect delays.,S Bantam Rd,Bethel,Clermont,OH,45106-9354,US,US/Eastern,KI69,2/11/2016 6:16,15.4,Overcast
+A-92,Source2,3,Accident on I-480 Eastbound at Exit 16 OH-94 State Rd. Expect delays.,I-480 E,Cleveland,Cuyahoga,OH,44109,US,US/Eastern,KBKL,2/11/2016 6:53,17.1,Overcast
+A-93,Source2,2,Accident on North Broadway St at OH-315 Olentangy Fwy Exits 6 6A-B-C. Expect delays.,Olentangy River Rd,Columbus,Franklin,OH,43202,US,US/Eastern,KOSU,2/11/2016 6:53,6.1,Partly Cloudy
+A-94,Source2,2,Accident on US-33 Columbus Lancaster Rd at OH-674 Gender Rd. Expect delays.,Gender Rd,Canal Winchester,Franklin,OH,43110,US,US/Eastern,KLCK,2/11/2016 7:15,5,Clear
+A-95,Source2,3,Accident on I-77 Northbound at Exit 133 Ridgewood Rd. Expect delays.,I-77 S,Akron,Summit,OH,44321,US,US/Eastern,KAKR,2/11/2016 7:28,12,Light Snow
+A-96,Source2,2,Accident on OH-16 Broad St at County Hwy-41 Mink St. Expect delays.,Mink St SW,Pataskala,Licking,OH,43062-9413,US,US/Eastern,KVTA,2/11/2016 7:54,7,Overcast
+A-97,Source2,3,Accident on I-71 Northbound at Exit 234 US-42 Pearl Rd.,I-71 S,Cleveland,Cuyahoga,OH,44130,US,US/Eastern,KCLE,2/11/2016 7:51,15.1,Mostly Cloudy
+A-98,Source2,2,Accident on Vance Rd at Main St. Expect delays.,Vance Rd,Dayton,Montgomery,OH,45439,US,US/Eastern,KMGY,2/11/2016 7:53,9,Clear
+A-99,Source2,2,Accident on Broadway St at Home Ave. Expect delays.,Home Ave,Dayton,Montgomery,OH,45402-8230,US,US/Eastern,KFFO,2/11/2016 7:58,7.5,Scattered Clouds
+A-100,Source2,2,Accident on US-35 Westbound at Smithville Rd. Expect delays.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,2/11/2016 7:58,7.5,Scattered Clouds
+A-101,Source2,2,Accident on OH-16 Broad St at Yearling Rd. Expect delays.,E Broad St,Columbus,Franklin,OH,43213-1359,US,US/Eastern,KCMH,2/11/2016 8:51,12,Overcast
+A-102,Source3,2,One lane blocked due to accident on US-23 High St Southbound from Campus View Blvd to Exits 23A 23B I-270 Outerbelt.,N High St,Columbus,Franklin,OH,43235,US,US/Eastern,KOSU,2/11/2016 8:53,12,Overcast
+A-103,Source2,3,Accident on I-480 Eastbound at Exit 23 OH-14 Broadway Ave.,I-480 E,Maple Heights,Cuyahoga,OH,44137,US,US/Eastern,KBKL,2/11/2016 8:53,18,Overcast
+A-104,Source2,2,Accident on Lamme Rd at Owendale Dr.,Lamme Rd,Dayton,Montgomery,OH,45439,US,US/Eastern,KMGY,2/11/2016 8:53,12,Clear
+A-105,Source2,2,Accident on Grafton Ave at Grand Ave.,W Grand Ave,Dayton,Montgomery,OH,45405-4408,US,US/Eastern,KDAY,2/11/2016 8:56,10.9,Mostly Cloudy
+A-106,Source2,2,Accident on US-35 Eastbound at Steve Whalen Blvd. Expect delays.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,2/11/2016 9:58,13.6,Overcast
+A-107,Source2,3,One lane blocked due to accident on I-270 Outerbelt Westbound at Exits 52 52A 52B US-23 High St. Expect delays.,S High St,Columbus,Franklin,OH,43207,US,US/Eastern,KLCK,2/11/2016 9:35,10.4,Overcast
+A-108,Source2,2,Accident on OH-4 Keowee St at Keowee St / OH-4 Valley St. Expect delays.,N Keowee St,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,2/11/2016 9:58,13.6,Overcast
+A-109,Source2,2,Accident on Burroughs Dr at Cornell Dr. Expect delays.,Burroughs Dr,Dayton,Montgomery,OH,45406,US,US/Eastern,KDAY,2/11/2016 10:56,18,Mostly Cloudy
+A-110,Source2,2,Accident on Summit Glen Dr near Mall Woods Dr. Expect delays.,Mall Woods Dr,Dayton,Montgomery,OH,45449-3625,US,US/Eastern,KMGY,2/11/2016 10:53,18,Clear
+A-111,Source2,2,Accident on 2nd St at OH-4 Perry St. Expect delays.,W 2nd St,Dayton,Montgomery,OH,45402-1411,US,US/Eastern,KFFO,2/11/2016 10:58,18.5,Mostly Cloudy
+A-112,Source2,2,Accident on OH-48 Main St at Melford Ave.,N Main St,Dayton,Montgomery,OH,45405-1604,US,US/Eastern,KDAY,2/11/2016 11:56,19.9,Mostly Cloudy
+A-113,Source2,2,Accident on Dixie Dr at Bartley Rd.,N Dixie Dr,Dayton,Montgomery,OH,45414-3309,US,US/Eastern,KDAY,2/11/2016 11:56,19.9,Mostly Cloudy
+A-114,Source2,2,Accident on Brown St at Oakwood Ave.,Springhouse Rd,Dayton,Montgomery,OH,45409,US,US/Eastern,KFFO,2/11/2016 13:58,21.6,Mostly Cloudy
+A-115,Source2,2,Accident on Smithville Rd at Speice Ave.,Speice Ave,Dayton,Montgomery,OH,45403-3130,US,US/Eastern,KFFO,2/11/2016 13:58,21.6,Mostly Cloudy
+A-116,Source2,2,Accident on Auburn Ave at Salem Ave.,Auburn Ave,Dayton,Montgomery,OH,45406-5615,US,US/Eastern,KDAY,2/11/2016 15:56,21,Mostly Cloudy
+A-117,Source2,2,Accident on Stewart St at Edwin C Moses Blvd.,W Stewart St,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,2/11/2016 16:56,21,Mostly Cloudy
+A-118,Source2,3,Left lane blocked due to accident on I-75 Southbound at Exit 51 Edwin C Moses Blvd.,I-75 S,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,2/11/2016 16:56,21,Mostly Cloudy
+A-119,Source2,2,Center lane blocked due to accident on US-35 Westbound at I-75.,I-75 N,Dayton,Montgomery,OH,45402,US,US/Eastern,KFFO,2/11/2016 17:58,21,Mostly Cloudy
+A-120,Source2,3,Right lane blocked due to accident on I-71 Innerbelt Southbound at Exit 108B I-670.,E Innerbelt S,Columbus,Franklin,OH,43203,US,US/Eastern,KCMH,2/11/2016 18:51,19,Light Snow
+A-121,Source3,3,Right lane blocked due to accident on I-71 Southbound at Exit 110B 11th Ave.,North Fwy S,Columbus,Franklin,OH,43211,US,US/Eastern,KCMH,2/11/2016 19:51,17.1,Mostly Cloudy
+A-122,Source2,3,Left lane blocked due to accident on I-75 Northbound at Exits 52 52B US-35.,I-75 S,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,2/11/2016 20:56,17.1,Scattered Clouds
+A-123,Source2,2,Accident on Washington St at Edwin C Moses Blvd.,S Edwin C Moses Blvd,Dayton,Montgomery,OH,45402-8430,US,US/Eastern,KFFO,2/12/2016 16:13,26.6,Light Snow
+A-124,Source2,2,Accident on Stanley Ave at Helena St.,Stanley Ave,Dayton,Montgomery,OH,45404-1016,US,US/Eastern,KFFO,2/12/2016 16:58,25.5,Light Snow
+A-125,Source2,3,Three lanes blocked due to accident on I-71 Southbound between Exit 121 Polaris Pkwy and Exits 119 119A 119B I-270 Outerbelt.,North Fwy S,Columbus,Franklin,OH,43229,US,US/Eastern,KOSU,2/12/2016 17:50,23,Light Snow
+A-126,Source2,3,Left lane blocked due to accident on I-270 Outerbelt Eastbound between Exits 22 22A 22B OH-315 Olentangy Fwy and Exit 23 US-23 High St.,N High St,Columbus,Franklin,OH,43235,US,US/Eastern,KOSU,2/12/2016 19:53,19,Light Snow
+A-127,Source2,3,Left lane blocked due to accident on I-270 Outerbelt Westbound between Exit 23 US-23 High St and Exits 22 22A 22B OH-315 Olentangy Fwy.,Outerbelt E,Columbus,Franklin,OH,43235,US,US/Eastern,KOSU,2/12/2016 19:53,19,Light Snow
+A-128,Source2,3,Left lane blocked due to accident on I-270 Outerbelt Westbound between Exits 46 46A 46B US-33 and Exit 49 Alum Creek Dr.,Outerbelt E,Columbus,Franklin,OH,43207,US,US/Eastern,KLCK,2/12/2016 20:35,19.9,Scattered Clouds
+A-129,Source2,3,Accident on I-70 Eastbound at Exits 108 108A-B I-270 Outerbelt.,I-70 E,Columbus,Franklin,OH,43232,US,US/Eastern,KCMH,2/12/2016 23:51,16,Mostly Cloudy
+A-130,Source2,3,Accident on I-71 Northbound at Exit 113 Silver Dr.,E Weber Rd,Columbus,Franklin,OH,43211,US,US/Eastern,KCMH,02/13/2016 10:51:00,10,Partly Cloudy
+A-131,Source2,3,Accident on I-71 Northbound in Westfield Center.,I-71 N,Seville,Medina,OH,44273,US,US/Eastern,KBJJ,02/13/2016 10:56:00,8.1,Scattered Clouds
+A-132,Source2,2,Accident on OH-13 State Route 13 Northbound at Smith Rd.,State Route 13,Bellville,Richland,OH,44813-9053,US,US/Eastern,KMFD,02/13/2016 10:52:00,7,Clear
+A-133,Source2,3,Accident on I-75 Southbound at Exit 73 OH-55 State Route 55. Approach with care.,I-75 S,Troy,Miami,OH,45373,US,US/Eastern,KDAY,02/13/2016 10:56:00,10.9,Scattered Clouds
+A-134,Source2,3,Left lane blocked due to accident on I-71 North Fwy Southbound at 5th Ave.,North Fwy S,Columbus,Franklin,OH,43201,US,US/Eastern,KCMH,02/13/2016 12:51:00,12.9,Mostly Cloudy
+A-135,Source2,3,Right hand shoulder blocked due to accident on I-270 Outerbelt Northbound at Exits 35A 35B I-670 Northeast Fwy.,Outerbelt N,Columbus,Franklin,OH,43230,US,US/Eastern,KCMH,02/13/2016 12:51:00,12.9,Mostly Cloudy
+A-136,Source2,3,Left lane closed due to accident on I-71 Innerbelt Northbound at Exit 108B I-670.,North Fwy N,Columbus,Franklin,OH,43201,US,US/Eastern,KCMH,02/14/2016 09:51:00,10,Scattered Clouds
+A-137,Source2,3,Right lane closed due to accident on I-71 Eastbound at US-23 High St.,S High St,Columbus,Franklin,OH,43215,US,US/Eastern,KCMH,02/14/2016 10:51:00,12.9,Scattered Clouds
+A-138,Source2,3,Lane blocked due to accident on I-670 Northbound at Exits 4C 5 5A 5B I-71 Innerbelt.,I-670 E,Columbus,Franklin,OH,43203,US,US/Eastern,KCMH,02/14/2016 10:51:00,12.9,Scattered Clouds
+A-139,Source2,3,Accident on I-270 Outerbelt Northbound at Exit 39 OH-16 Broad St.,E Broad St,Columbus,Franklin,OH,43213,US,US/Eastern,KCMH,02/14/2016 18:06:00,15.8,Snow
+A-140,Source2,3,Lane blocked due to accident on I-71 Northbound at Exit 104 OH-104 Frank Rd.,Frank Rd,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,02/14/2016 19:15:00,17.6,Light Snow
+A-141,Source2,2,Accident on US-22 US Highway 22 3 both ways at County Hwy-9 Melvin Rd.,E US Highway 22 3,Wilmington,Clinton,OH,45177-7762,US,US/Eastern,KILN,02/15/2016 04:54:00,23,Overcast
+A-142,Source2,2,Accident on Byers Rd near Monarch Ln.,Byers Rd,Miamisburg,Montgomery,OH,45342-3613,US,US/Eastern,KMGY,02/15/2016 05:03:00,23,Overcast
+A-143,Source2,3,Lane blocked due to accident on I-670 Westbound between i-71 North Fwy Exits 109A 109B and Third St.,I-670 W,Columbus,Franklin,OH,43215,US,US/Eastern,KCMH,02/15/2016 05:51:00,21.9,Light Freezing Drizzle
+A-144,Source2,3,Left lane closed due to accident on I-70 Westbound at Exit 98A US-62 Central Ave.,I-70 W,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,02/15/2016 06:15:00,22.8,Light Snow
+A-145,Source2,2,Lane blocked due to accident on OH-315 Innerbelt Southbound from Olentangy River Rd to I-670.,North Innerbelt W,Columbus,Franklin,OH,43215,US,US/Eastern,KCMH,02/15/2016 07:01:00,23,Light Freezing Drizzle
+A-146,Source2,3,Accident on Webster St at Wagoner Ford Rd.,Webster St,Dayton,Montgomery,OH,45414-4935,US,US/Eastern,KDAY,02/15/2016 06:56:00,23,Light Freezing Drizzle
+A-147,Source2,2,Lane blocked due to accident on Heritage Park Blvd at Greeley Ave.,Greeley Ave,Dayton,Montgomery,OH,45424-1794,US,US/Eastern,KFFO,02/15/2016 06:58:00,24.1,Light Snow
+A-148,Source2,3,Right lane closed due to accident on I-270 Outerbelt Westbound at I-71 Exit 101.,Outerbelt W,Grove City,Franklin,OH,43123,US,US/Eastern,KTZR,02/15/2016 07:20:00,24.8,Light Snow
+A-149,Source2,3,Accident on I-75 Southbound at Exits 54A 54B OH-4.,OH-4 S,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,02/15/2016 07:38:00,24.8,Light Freezing Drizzle
+A-150,Source2,2,Lane blocked due to accident on Wagoner Ford Rd at Chuck Wagner Ln.,Chuck Wagner Ln,Dayton,Montgomery,OH,45414,US,US/Eastern,KDAY,02/15/2016 07:56:00,24.1,Light Freezing Drizzle
+A-151,Source2,2,Accident on Westlake Ave at Torrington Ave.,Westlake Ave,Cleveland,Cuyahoga,OH,44129-2344,US,US/Eastern,KCLE,02/15/2016 07:51:00,21,Light Snow
+A-152,Source2,3,Lane blocked due to accident on I-75 Northbound at Exits 52 52B US-35.,I-75 S,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,02/15/2016 07:56:00,24.1,Light Freezing Drizzle
+A-153,Source2,3,Lane blocked due to accident on I-75 Northbound at OH-725 Miamisburg Centerville Rd.,Miamisburg Centerville Rd,Dayton,Montgomery,OH,45449,US,US/Eastern,KMGY,02/15/2016 07:53:00,26.1,Overcast
+A-154,Source2,2,Lane blocked due to accident on Livingston Ave at Yearling Rd.,S Yearling Rd,Columbus,Franklin,OH,43227-2072,US,US/Eastern,KCMH,02/15/2016 07:51:00,24.1,Light Freezing Drizzle
+A-155,Source2,2,Lane blocked due to accident on Siebenthaler Ave at Klepinger Rd.,Klepinger Rd,Dayton,Montgomery,OH,45406,US,US/Eastern,KDAY,02/15/2016 08:23:00,25,Overcast
+A-156,Source2,2,Lane blocked due to accident on OH-161 New Albany Expy Eastbound at Sunbury Rd.,S Sunbury Rd,Westerville,Franklin,OH,43081,US,US/Eastern,KCMH,02/15/2016 07:51:00,24.1,Light Freezing Drizzle
+A-157,Source2,2,Accident on Burning Tree Dr near Saint Andrews Dr.,Burning Tree Dr,Akron,Summit,OH,44303-1209,US,US/Eastern,KAKR,02/15/2016 08:03:00,23,Overcast
+A-158,Source2,2,Accident on OH-161 Dublin Granville Rd at Ponderosa Dr.,E Dublin Granville Rd,Columbus,Franklin,OH,43231,US,US/Eastern,KCMH,02/15/2016 08:51:00,26.1,Light Freezing Drizzle
+A-159,Source2,2,Accident on 4th St at Philadelphia St.,E 4th St,Dayton,Montgomery,OH,45403-2111,US,US/Eastern,KFFO,02/15/2016 08:58:00,27,Light Freezing Drizzle
+A-160,Source2,2,Accident on Stewart St at Patterson Blvd.,W Stewart St,Dayton,Montgomery,OH,45402,US,US/Eastern,KFFO,02/15/2016 11:51:00,32,Overcast
+A-161,Source2,2,Accident on County Hwy-39 York Rd at County Hwy-34 Blacks Rd.,Blacks Rd SW,Pataskala,Licking,OH,43062-8599,US,US/Eastern,KVTA,02/15/2016 12:54:00,32,Overcast
+A-162,Source2,2,Accident on Stewart St at Patterson Blvd.,W Stewart St,Dayton,Montgomery,OH,45402,US,US/Eastern,KFFO,02/15/2016 12:27:00,32,Overcast
+A-163,Source2,2,Accident on OH-317 Hamilton Rd near Sawyer Rd.,Sawyer Rd,Columbus,Franklin,OH,43219,US,US/Eastern,KCMH,02/15/2016 12:51:00,30.9,Mostly Cloudy
+A-164,Source2,1,Accident on Westlawn Dr at Holly Dr.,Maplehurst Rd,North Olmsted,Cuyahoga,OH,44070-5152,US,US/Eastern,KCLE,02/15/2016 17:51:00,33.1,Overcast
+A-165,Source2,2,Accident on OH-317 Hamilton Rd Southbound at Williams Rd. Approach with care.,Williams Rd,Groveport,Franklin,OH,43125,US,US/Eastern,KLCK,02/15/2016 18:35:00,33.6,Light Drizzle
+A-166,Source2,3,Right lane blocked due to accident on I-71 Northbound at Exit 94 US-62 Harrisburg Pike. Approach with care.,I-71 N,Orient,Franklin,OH,43146,US,US/Eastern,KTZR,02/15/2016 19:35:00,32.9,Overcast
+A-167,Source2,2,Accident on County Hwy-208 Auburn Rd at County Hwy-50 Scott Rd.,N Auburn Rd,Tiro,Crawford,OH,44887-9600,US,US/Eastern,KMFD,02/15/2016 20:52:00,32,Fog
+A-168,Source2,3,One lane blocked due to accident on I-270 Outerbelt Westbound at Exit 23 US-23 High St. Expect delays.,N High St,Columbus,Franklin,OH,43235,US,US/Eastern,KOSU,02/16/2016 03:53:00,32,Light Snow
+A-169,Source2,3,Accident on I-77 Northbound at Exit 138 Ghent Rd. Expect delays.,I-77 S,Akron,Summit,OH,44333,US,US/Eastern,KAKR,02/16/2016 04:54:00,34,Light Snow
+A-170,Source2,3,Accident on I-71 Northbound at Exit 94 US-62 Harrisburg Pike. Expect delays.,I-71 N,Orient,Franklin,OH,43146,US,US/Eastern,KTZR,02/16/2016 05:15:00,32.2,Light Snow
+A-171,Source2,2,Accident on Wright Rd at Bowen Rd. Expect delays.,Bowen Rd,Canal Winchester,Franklin,OH,43110,US,US/Eastern,KLCK,02/16/2016 05:35:00,32,Light Snow
+A-172,Source2,3,One lane blocked due to accident on I-270 Outerbelt Westbound at Exit 23 US-23 High St.,N High St,Columbus,Franklin,OH,43235,US,US/Eastern,KOSU,02/16/2016 05:53:00,33.1,Overcast
+A-173,Source2,3,Accident on I-270 Outerbelt Northbound at Exits 17A 17B US-33 Columbus Marysville Rd. Expect delays.,Columbus Marysville Rd N,Dublin,Franklin,OH,43017,US,US/Eastern,KOSU,02/16/2016 05:53:00,33.1,Overcast
+A-174,Source2,2,Accident on Scioto Darby Rd at Dublin Rd. Expect delays.,Scioto Darby Rd,Columbus,Franklin,OH,43221,US,US/Eastern,KOSU,02/16/2016 06:53:00,32,Overcast
+A-175,Source2,2,Accident on OH-3 Westerville Rd at Ferris Rd / Walnut Creek Dr. Expect delays.,Westerville Rd,Columbus,Franklin,OH,43224-2585,US,US/Eastern,KCMH,02/16/2016 06:51:00,32,Overcast
+A-176,Source2,2,Accident on Karwin Dr at Otterbein Ave. Expect delays.,Otterbein Ave,Dayton,Montgomery,OH,45406-3629,US,US/Eastern,KDAY,02/16/2016 06:56:00,30.9,Overcast
+A-177,Source2,3,Left hand shoulder blocked due to accident on I-71 Southbound from Exit 105 Greenlawn Ave to Exit 104 OH-104 Frank Rd.,Frank Rd,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,02/16/2016 06:15:00,32.2,Overcast
+A-178,Source2,3,One lane blocked due to jackknifed truck on I-71 Southbound at Exits 231 231A 231B OH-82 Royalton Rd. Expect delays.,I-71 N,Strongsville,Cuyahoga,OH,44136,US,US/Eastern,KCLE,02/16/2016 06:51:00,32,Light Snow
+A-179,Source2,2,Accident on Alpha Bellbrook Rd at Indian Ripple Rd. Expect delays.,Indian Ripple Rd,Beavercreek,Montgomery,OH,45440-3606,US,US/Eastern,KMGY,02/16/2016 06:53:00,32,Overcast
+A-180,Source2,2,Accident on Alum Creek Dr at Toy Rd. Expect delays.,Toy Rd,Groveport,Franklin,OH,43125,US,US/Eastern,KLCK,02/16/2016 06:55:00,32,Overcast
+A-181,Source2,3,Left hand shoulder blocked due to accident on I-70 Westbound at Exit 97 US-40 Broad St.,I-70 E,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,02/16/2016 07:25:00,32,Overcast
+A-182,Source2,2,One lane blocked due to accident on US-23 US Highway 23 Southbound at US-22 US Highway 22 / US-22. Expect delays.,OH-56,Circleville,Pickaway,OH,43113,US,US/Eastern,KLCK,02/16/2016 07:15:00,32,Overcast
+A-183,Source2,2,Accident on Southwest Blvd at Farm Bank Way.,Southwest Blvd,Grove City,Franklin,OH,43123-2251,US,US/Eastern,KTZR,02/16/2016 07:25:00,32,Overcast
+A-184,Source2,2,Accident on OH-48 Main St at Fairview Ave. Expect delays.,N Main St,Dayton,Montgomery,OH,45405-3527,US,US/Eastern,KDAY,02/16/2016 07:27:00,30,Overcast
+A-185,Source2,3,Accident on I-71 Northbound at Exits 119 119A 119B I-270 Outerbelt. Expect delays.,Outerbelt W,Columbus,Franklin,OH,43085,US,US/Eastern,KOSU,02/16/2016 07:53:00,32,Overcast
+A-186,Source2,2,Accident on US-42 2nd St at US-42 Hedges St / 2nd St. Expect delays.,E 2nd St,Mansfield,Richland,OH,44902-2068,US,US/Eastern,KMFD,02/16/2016 07:52:00,30,Overcast
+A-187,Source2,3,Accident on I-77 Southbound at Exit 130 OH-261 Vernon Odom Blvd. Expect delays.,Vernon Odom Blvd,Akron,Summit,OH,44320-4026,US,US/Eastern,KAKR,02/16/2016 07:54:00,34,Light Snow
+A-188,Source2,3,One lane blocked due to accident on I-270 Outerbelt Northbound at Exit 37 OH-317 Hamilton Rd. Expect delays.,N Hamilton Rd,Columbus,Franklin,OH,43230,US,US/Eastern,KCMH,02/16/2016 07:51:00,32,Overcast
+A-189,Source2,2,Accident on US-23 Indianola Ave at Dunedin Rd.,Indianola Ave,Columbus,Franklin,OH,43214-3810,US,US/Eastern,KOSU,02/16/2016 07:53:00,32,Overcast
+A-190,Source2,2,One lane blocked due to accident on OH-32 Appalachian Hwy Westbound from County Hwy-13 Lawshe Rd to Barry McFarland Dr.,Appalachian Hwy,Peebles,Adams,OH,45660,US,US/Eastern,KILN,02/16/2016 08:12:00,30.9,Overcast
+A-191,Source2,3,One lane blocked due to accident on I-70 Westbound at Exit 95 Fisher Rd. Expect delays.,N Hague Ave,Columbus,Franklin,OH,43204-2174,US,US/Eastern,KTZR,02/16/2016 08:47:00,32,Overcast
+A-192,Source2,2,Accident on Gettysburg Ave at Free Pike. Expect delays.,Free Pike,Dayton,Montgomery,OH,45416-1234,US,US/Eastern,KDAY,02/16/2016 08:41:00,30,Overcast
+A-193,Source2,3,Accident on I-270 Outerbelt Northbound at Exit 32 Morse Rd. Expect delays.,Outerbelt S,Columbus,Franklin,OH,43230,US,US/Eastern,KCMH,02/16/2016 08:51:00,32,Overcast
+A-194,Source2,2,Accident on Groveport Rd at Rager Rd. Expect delays.,Groveport Rd,Canal Winchester,Franklin,OH,43110,US,US/Eastern,KLCK,02/16/2016 08:35:00,32,Overcast
+A-195,Source2,2,One lane blocked due to accident on OH-315 Olentangy Fwy Southbound at Exit 7 Olentangy River Rd. Expect delays.,W Henderson Rd,Columbus,Franklin,OH,43214,US,US/Eastern,KOSU,02/16/2016 08:53:00,32,Overcast
+A-196,Source2,2,Lane blocked on exit ramp due to accident on Olentangy River Rd Northbound at Olentangy River Rd / Henderson Rd.,W Henderson Rd,Columbus,Franklin,OH,43214,US,US/Eastern,KOSU,02/16/2016 10:00:00,33.1,Overcast
+A-197,Source2,2,Accident on Radio Rd at Smithville Rd. Expect delays.,Radio Rd,Dayton,Greene,OH,45431-1035,US,US/Eastern,KFFO,02/16/2016 10:58:00,31.1,Overcast
+A-198,Source2,2,Accident on Alex Bell Rd at OH-741 Springboro Pike. Expect delays.,Springboro Pike,Dayton,Montgomery,OH,45449-2808,US,US/Eastern,KMGY,02/16/2016 11:29:00,30.9,Haze
+A-199,Source2,2,Accident on Riverview Ave at Salem Ave. Expect delays.,Salem Ave,Dayton,Montgomery,OH,45406,US,US/Eastern,KDAY,02/16/2016 11:06:00,30,Light Snow
+A-200,Source2,2,Accident on Kuntz Rd at Janney Rd. Expect delays.,Kuntz Rd,Dayton,Montgomery,OH,45404-1222,US,US/Eastern,KFFO,02/16/2016 10:58:00,31.1,Overcast
+A-201,Source2,2,Accident on Hazel Ave at Russell Ave. Expect delays.,Russell Ave,Dayton,Montgomery,OH,45420,US,US/Eastern,KFFO,02/16/2016 10:58:00,31.1,Overcast
+A-202,Source2,3,Accident on I-270 Outerbelt Westbound at Exits 17A 17B US-33 Columbus Marysville Rd. Expect delays.,Columbus Marysville Rd N,Dublin,Franklin,OH,43017,US,US/Eastern,KOSU,02/16/2016 11:36:00,32,Overcast
+A-203,Source2,3,One lane blocked and queueing traffic due to accident on I-64 Eastbound at Exit 39 WV-34.,WV-34,Hurricane,Putnam,WV,25526,US,US/Eastern,KCRW,02/16/2016 13:54:00,35.1,Overcast
+A-204,Source2,2,Accident on OH-4 Keowee St at OH-4 Keowee St.,N Keowee St,Dayton,Montgomery,OH,45402,US,US/Eastern,KFFO,02/16/2016 13:58:00,32.4,Overcast
+A-205,Source2,3,Entry ramp closed due to accident on I-270 Outerbelt Westbound at Exits 35A 35B I-670 Northeast Fwy.,Northeast Fwy S,Columbus,Franklin,OH,43230,US,US/Eastern,KCMH,02/16/2016 16:51:00,32,Overcast
+A-206,Source2,2,Accident on Main St at Jasper Ave / Patton St. Expect delays.,E Main St,Xenia,Greene,OH,45385-3309,US,US/Eastern,KFFO,02/17/2016 05:58:00,30.4,Overcast
+A-207,Source2,2,Accident on Dona Ave at Broadway St. Expect delays.,S Broadway St,Dayton,Montgomery,OH,45417-3913,US,US/Eastern,KDAY,02/17/2016 05:56:00,30,Overcast
+A-208,Source2,2,Accident on US-62 Main St at 2nd St / Civic Center Dr. Expect delays.,S 2nd St,Columbus,Franklin,OH,43215,US,US/Eastern,KCMH,02/17/2016 06:46:00,28.4,Overcast
+A-209,Source2,2,Accident on OH-133 State Route 133 near Tudor Ln. Expect delays.,State Route 133,Bethel,Clermont,OH,45106-8345,US,US/Eastern,KI69,02/17/2016 06:37:00,30.9,Overcast
+A-210,Source2,2,Accident on OH-21 Northbound at I-77. Expect delays.,I-77 N,Akron,Summit,OH,44321,US,US/Eastern,KAKR,02/17/2016 06:54:00,28,Overcast
+A-211,Source2,3,Right hand shoulder blocked due to accident on I-90 Eastbound at OH-2.,OH-2 W,Elyria,Lorain,OH,44035,US,US/Eastern,KLPR,02/17/2016 07:20:00,28,Overcast
+A-212,Source2,3,Accident on I-75 Southbound before Exit 50B OH-741 Springboro Rd. Expect delays.,I-75 N,Dayton,Montgomery,OH,45439,US,US/Eastern,KMGY,02/17/2016 07:06:00,30,Haze
+A-213,Source2,3,Accident on I-77 Northbound at Exit 130 OH-261 Vernon Odom Blvd. Expect delays.,Vernon Odom Blvd,Akron,Summit,OH,44320-4026,US,US/Eastern,KAKR,02/17/2016 06:54:00,28,Overcast
+A-214,Source2,2,Accident on Wildwood Ave at Stewart St. Expect delays.,W Stewart St,Dayton,Montgomery,OH,45417-3933,US,US/Eastern,KDAY,02/17/2016 07:56:00,30,Overcast
+A-215,Source2,3,Accident on I-70 Westbound at Exits 112 112A 112B OH-256 Hill Rd. Expect delays.,Hill Rd N,Pickerington,Fairfield,OH,43147,US,US/Eastern,KLHQ,02/17/2016 07:28:00,30,Overcast
+A-216,Source2,2,Accident on Alex Bell Rd at OH-741 Springboro Pike. Expect delays.,Springboro Pike,Dayton,Montgomery,OH,45449-2808,US,US/Eastern,KMGY,02/17/2016 07:53:00,30,Overcast
+A-217,Source2,2,Accident on OH-133 State Route 133 from Macedonia Rd to Clover Rd. Expect delays.,Clover Rd,Bethel,Clermont,OH,45106-8301,US,US/Eastern,KI69,02/17/2016 07:37:00,31.1,Overcast
+A-218,Source2,2,Right hand shoulder blocked due to accident on OH-161 New Albany Expy Westbound at Little Turtle Way / Dublin Granville Rd.,New Albany Expy W,Westerville,Franklin,OH,43081,US,US/Eastern,KCMH,02/17/2016 07:44:00,30.2,Haze
+A-219,Source2,3,Accident on I-76 Eastbound at Exit 16 Barber Rd. Expect delays.,Barber Rd,Barberton,Summit,OH,44203,US,US/Eastern,KAKR,02/17/2016 07:54:00,28,Haze
+A-220,Source2,2,Accident on Washington St at Cincinnati St. Expect delays.,Washington St,Dayton,Montgomery,OH,45402-8457,US,US/Eastern,KFFO,02/17/2016 07:58:00,30.7,Overcast
+A-221,Source2,2,Accident on US-35 Eastbound at Smithville Rd. Expect delays.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,02/17/2016 07:58:00,30.7,Overcast
+A-222,Source2,3,One lane blocked due to accident on I-76 Eastbound at Exit 14 Cleveland Massillon Rd.,US-224 E,Barberton,Summit,OH,44203,US,US/Eastern,KAKR,02/17/2016 07:50:00,28.4,Haze
+A-223,Source2,2,Accident on Repp Rd at County Hwy-34 Franchester Rd.,Franchester Rd,Burbank,Wayne,OH,44214-9603,US,US/Eastern,KBJJ,02/17/2016 07:56:00,27,Overcast
+A-224,Source2,3,Accident on I-480 Eastbound at Exit 20A-B I-77. Expect delays.,Outerbelt South Fwy W,Independence,Cuyahoga,OH,44131,US,US/Eastern,KBKL,02/17/2016 08:15:00,30,Light Snow
+A-225,Source2,2,Accident on Nicholas Rd at Danner Ave. Expect delays.,Nicholas Rd,Dayton,Montgomery,OH,45417-6720,US,US/Eastern,KDAY,02/17/2016 08:56:00,30,Overcast
+A-226,Source2,3,Accident on I-75 Southbound at Exits 54A 54B OH-4. Expect delays.,I-75 S,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,02/17/2016 08:58:00,31.1,Overcast
+A-227,Source2,2,Accident on OH-48 Main St at Pointview Ave. Expect delays.,N Main St,Dayton,Montgomery,OH,45405-2858,US,US/Eastern,KDAY,02/17/2016 09:56:00,32,Overcast
+A-228,Source2,3,One lane blocked due to accident on I-70 Westbound at Exit 152 US-40 West Pike. Expect delays.,I-70 W,Zanesville,Muskingum,OH,43701,US,US/Eastern,KZZV,02/17/2016 09:53:00,33.1,Haze
+A-229,Source2,2,Accident on Cobblegate Dr at Alex Bell Rd. Expect delays.,W Alex Bell Rd,Dayton,Montgomery,OH,45459-1122,US,US/Eastern,KMGY,02/17/2016 10:30:00,32,Haze
+A-230,Source2,2,Entry ramp closed due to accident on OH-18 Deshler Rd at I-75.,I-75 N,North Baltimore,Wood,OH,45872,US,US/Eastern,KFDY,02/17/2016 09:53:00,33.1,Haze
+A-231,Source2,2,Accident on OH-741 Springboro Pike at Ferndown Dr.,Ferndown Dr,Miamisburg,Montgomery,OH,45342,US,US/Eastern,KMGY,02/17/2016 12:53:00,35.1,Overcast
+A-232,Source2,2,Accident on Hillcrest Ave at Falmouth Ave.,W Hillcrest Ave,Dayton,Montgomery,OH,45406-2543,US,US/Eastern,KDAY,02/17/2016 12:56:00,36,Mostly Cloudy
+A-233,Source2,2,Accident on Nationwide Blvd at Front St. Approach with care.,W Nationwide Blvd,Columbus,Franklin,OH,43215,US,US/Eastern,KCMH,02/17/2016 16:51:00,35.1,Overcast
+A-234,Source2,2,Accident on Groveport Rd at Watkins Rd.,Watkins Rd,Columbus,Franklin,OH,43207-2661,US,US/Eastern,KLCK,02/18/2016 04:35:00,31.1,Overcast
+A-235,Source2,2,Accident on Little York Rd at Webster St. Expect delays.,Little York Rd,Dayton,Montgomery,OH,45414-2507,US,US/Eastern,KDAY,02/18/2016 05:56:00,27,Mostly Cloudy
+A-236,Source2,2,Accident on OH-17 Granger Rd at Canal Rd. Expect delays.,Granger Rd,Cleveland,Cuyahoga,OH,44125-4827,US,US/Eastern,KBKL,02/18/2016 06:53:00,19,Clear
+A-237,Source2,3,One lane blocked due to accident on I-70 Westbound at Exits 112 112A 112B OH-256 Hill Rd. Expect delays.,Hill Rd N,Pickerington,Fairfield,OH,43147,US,US/Eastern,KLHQ,02/18/2016 06:53:00,28,Overcast
+A-238,Source2,3,Accident on I-77 Southbound at Exit 130 OH-261 Vernon Odom Blvd. Expect delays.,Vernon Odom Blvd,Akron,Summit,OH,44320-4026,US,US/Eastern,KAKR,02/18/2016 07:43:00,3.9,Clear
+A-239,Source2,3,One lane blocked due to accident on I-71 Southbound at Exit 84 OH-56 State Route 56. Expect delays.,State Route 56 SE,Mount Sterling,Madison,OH,43143,US,US/Eastern,KTZR,02/18/2016 07:50:00,23,Mostly Cloudy
+A-240,Source2,3,Accident on I-480 Eastbound at Exit 15 Ridge Rd. Expect delays.,Ridge Rd,Cleveland,Cuyahoga,OH,44144,US,US/Eastern,KCLE,02/18/2016 07:51:00,12.9,Clear
+A-241,Source2,3,Accident on I-480 Eastbound at Exit 9 OH-17 Brookpark Rd. Expect delays.,Grayton Rd,Cleveland,Cuyahoga,OH,44135,US,US/Eastern,KCLE,02/18/2016 07:51:00,12.9,Clear
+A-242,Source3,3,One lane blocked due to accident on I-75 Northbound at Exit 58 Needmore Rd.,Needmore Rd,Dayton,Montgomery,OH,45414,US,US/Eastern,KDAY,02/18/2016 07:56:00,26.1,Haze
+A-243,Source3,2,One lane blocked due to accident on US-35 Westbound at Woodman Dr.,Woodman Dr,Dayton,Montgomery,OH,45432,US,US/Eastern,KFFO,02/18/2016 07:58:00,25.9,Mostly Cloudy
+A-244,Source2,3,Right hand shoulder blocked due to accident on I-270 Outerbelt Northbound at Exit 37 OH-317 Hamilton Rd.,N Hamilton Rd,Columbus,Franklin,OH,43230,US,US/Eastern,KCMH,02/18/2016 07:51:00,27,Scattered Clouds
+A-245,Source2,2,Accident on Washington Church Rd near Lyons Rd. Expect delays.,Lyons Rd,Miamisburg,Montgomery,OH,45342-5453,US,US/Eastern,KMGY,02/18/2016 07:53:00,27,Haze
+A-246,Source2,2,Accident on 5th St at Torrence St. Expect delays.,E 5th St,Dayton,Montgomery,OH,45403-2633,US,US/Eastern,KFFO,02/18/2016 07:58:00,25.9,Mostly Cloudy
+A-247,Source2,2,Accident on Philadelphia St near 3rd St. Expect delays.,E 3rd St,Dayton,Montgomery,OH,45403-2021,US,US/Eastern,KFFO,02/18/2016 07:58:00,25.9,Mostly Cloudy
+A-248,Source2,3,Accident on I-70 Eastbound at Exit 103B Alum Creek Dr. Expect delays.,I-70 E,Columbus,Franklin,OH,43209,US,US/Eastern,KCMH,02/18/2016 07:51:00,27,Scattered Clouds
+A-249,Source2,3,Accident on I-71 at Exit 238 I-480.,Outerbelt South Fwy W,Cleveland,Cuyahoga,OH,44135,US,US/Eastern,KCLE,02/18/2016 08:51:00,16,Clear
+A-250,Source2,2,Accident on Marco Ln at Mandel Dr. Expect delays.,Marco Ln,Dayton,Montgomery,OH,45458-3853,US,US/Eastern,KMGY,02/18/2016 08:53:00,28.9,Haze
+A-251,Source2,2,Accident on Wadsworth Rd at Needmore Rd. Expect delays.,Needmore Rd,Dayton,Montgomery,OH,45414-4203,US,US/Eastern,KDAY,02/18/2016 08:56:00,30.9,Haze
+A-252,Source2,3,Accident on I-71 Northbound at Exit 235 Bagley Rd. Expect delays.,I-71 N,Cleveland,Cuyahoga,OH,44130,US,US/Eastern,KCLE,02/18/2016 08:51:00,16,Clear
+A-253,Source2,2,Accident on US-33 Riverside Dr at Trabue Rd / Cambridge Blvd. Expect delays.,Riverside Dr,Columbus,Franklin,OH,43221-4020,US,US/Eastern,KOSU,02/18/2016 08:53:00,27,Clear
+A-254,Source2,2,Accident on Illinois Ave at Buchanan Ave. Expect delays.,Illinois Ave,Dayton,Montgomery,OH,45410-2036,US,US/Eastern,KFFO,02/18/2016 08:58:00,30.4,Mostly Cloudy
+A-255,Source2,3,Right hand shoulder blocked due to accident on I-71 Northbound at Exit 104 OH-104 Frank Rd.,Frank Rd,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,02/18/2016 08:50:00,26.6,Clear
+A-256,Source2,2,Accident on Tiedeman Rd Southbound at Cascade Xing.,Cascade Xing,Cleveland,Cuyahoga,OH,44144-2320,US,US/Eastern,KCLE,02/18/2016 08:51:00,16,Clear
+A-257,Source3,3,Two lanes blocked due to accident on I-71 Southbound at Exit 110B 11th Ave. Expect delays.,North Fwy N,Columbus,Franklin,OH,43211,US,US/Eastern,KCMH,02/18/2016 09:51:00,30,Mostly Cloudy
+A-258,Source2,3,Accident on I-71 Southbound at Exit 235 Bagley Rd.,I-71 S,Cleveland,Cuyahoga,OH,44130,US,US/Eastern,KCLE,02/18/2016 09:51:00,21.9,Clear
+A-259,Source2,3,One lane blocked due to accident on I-71 Northbound near Exit 238 I-480. Expect delays.,I-480 E,Cleveland,Cuyahoga,OH,44135,US,US/Eastern,KCLE,02/18/2016 09:51:00,21.9,Clear
+A-260,Source2,3,One lane blocked due to accident on I-480 Eastbound at Exit 20A-B I-77. Expect delays.,Outerbelt South Fwy W,Independence,Cuyahoga,OH,44131,US,US/Eastern,KBKL,02/18/2016 09:53:00,24.1,Clear
+A-261,Source2,2,Accident on OH-202 Troy Pike Southbound at I-70 Exit 36.,Troy Pike,Dayton,Montgomery,OH,45424,US,US/Eastern,KFFO,02/18/2016 08:58:00,30.4,Mostly Cloudy
+A-262,Source2,3,One lane blocked due to accident on I-71 Southbound at Exit 84 OH-56 State Route 56. Expect delays.,State Route 56 SE,Mount Sterling,Madison,OH,43143,US,US/Eastern,KTZR,02/18/2016 09:50:00,32,Scattered Clouds
+A-263,Source2,3,Right hand shoulder blocked due to accident on I-75 Southbound at Exit 59 Wyse Rd.,Benchwood Rd,Dayton,Montgomery,OH,45414,US,US/Eastern,KDAY,02/18/2016 11:56:00,39,Mostly Cloudy
+A-264,Source2,2,Accident on Walnut St at Birch Aly.,Walnut St,Beavercreek,Montgomery,OH,45440-1379,US,US/Eastern,KMGY,02/18/2016 13:53:00,37.9,Clear
+A-265,Source2,2,Accident on James H McGee Blvd at 3rd St.,N James H McGee Blvd,Dayton,Montgomery,OH,45402,US,US/Eastern,KFFO,02/18/2016 15:58:00,39.9,Mostly Cloudy
+A-266,Source2,2,Accident on Ludlow St at OH-48 Main St.,S Main St,Dayton,Montgomery,OH,45402,US,US/Eastern,KFFO,02/18/2016 15:58:00,39.9,Mostly Cloudy
+A-267,Source2,2,Accident on Wayne Ave at Cass St.,Wayne Ave,Dayton,Montgomery,OH,45410-1117,US,US/Eastern,KFFO,02/18/2016 15:58:00,39.9,Mostly Cloudy
+A-268,Source2,3,Delays expected due to accident on I-75 Northbound at Exit 68 OH-571 Main St.,W Main St,Tipp City,Miami,OH,45371,US,US/Eastern,KDAY,02/18/2016 16:56:00,37.9,Overcast
+A-269,Source2,2,Accident on Mandel Dr at Box Elder Dr.,Mandel Dr,Dayton,Montgomery,OH,45458-3876,US,US/Eastern,KMGY,02/18/2016 16:53:00,37.9,Clear
+A-270,Source2,3,Accident on I-70 Eastbound at Exit 102 Kelton Ave. Approach with care.,I-70 E,Columbus,Franklin,OH,43205,US,US/Eastern,KCMH,02/18/2016 16:51:00,35.1,Overcast
+A-271,Source2,2,Accident on OH-315 Olentangy Fwy at I-270 Outerbelt.,Olentangy Fwy S,Columbus,Franklin,OH,43235,US,US/Eastern,KOSU,02/18/2016 17:53:00,36,Clear
+A-272,Source2,2,Accident on Shoup Mill Rd at Turner Rd. Expect delays.,N Main St,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,02/19/2016 03:56:00,39.9,Overcast
+A-273,Source2,2,Accident on Springboro Rd at Arbor Blvd. Expect delays.,Arbor Blvd,Moraine,Montgomery,OH,45439-1510,US,US/Eastern,KMGY,02/19/2016 04:53:00,39.9,Clear
+A-274,Source2,2,Accident on US-23 High St at Morrill Ave. Expect delays.,W Morrill Ave,Columbus,Franklin,OH,43207-1850,US,US/Eastern,KLCK,02/19/2016 04:55:00,35.4,Clear
+A-275,Source2,3,One lane blocked due to accident on I-70 Westbound at Exits 93 93A 93B I-270 Outerbelt. Expect delays.,Outerbelt S,Columbus,Franklin,OH,43204,US,US/Eastern,KTZR,02/19/2016 05:15:00,34.9,Clear
+A-276,Source2,2,Accident on Groveport Rd at OH-104 Frank Rd.,Groveport Rd,Columbus,Franklin,OH,43207,US,US/Eastern,KLCK,02/19/2016 06:15:00,35.4,Clear
+A-277,Source2,2,Accident on OH-125 State Route 125 at OH-222 State Route 222 / OH-125 Ohio Pike. Expect delays.,State Route 125,Batavia,Clermont,OH,45103,US,US/Eastern,KI69,02/19/2016 06:36:00,43.5,Clear
+A-278,Source2,2,Accident on Meriline Ave at Farnham Ave. Expect delays.,Meriline Ave,Dayton,Montgomery,OH,45420-2827,US,US/Eastern,KFFO,02/19/2016 06:58:00,41,Clear
+A-279,Source2,2,Accident on Taylor Ave at Greenway Ave. Expect delays.,Taylor Ave,Columbus,Franklin,OH,43203-1222,US,US/Eastern,KCMH,02/19/2016 06:51:00,36,Mostly Cloudy
+A-280,Source2,2,Accident on US-62 Coshocton St at Williams St.,N Williams St,Johnstown,Licking,OH,43031-1037,US,US/Eastern,KCMH,02/19/2016 07:51:00,37,Overcast
+A-281,Source2,2,Accident on Stanley Ave at Keowee St. Expect delays.,N Keowee St,Dayton,Montgomery,OH,45404-1104,US,US/Eastern,KFFO,02/19/2016 07:58:00,42.8,Mostly Cloudy
+A-282,Source2,2,Accident on Hilliard Rome Rd at Tinapple Rd. Expect delays.,Hilliard Rome Rd,Hilliard,Franklin,OH,43026-9601,US,US/Eastern,KOSU,02/19/2016 07:53:00,37,Clear
+A-283,Source2,2,Accident on Roberts Rd at Hilliard Rome Rd. Expect delays.,Hilliard Rome Rd,Hilliard,Franklin,OH,43026-9468,US,US/Eastern,KOSU,02/19/2016 07:53:00,37,Clear
+A-284,Source2,3,Accident on I-675 Northbound near Exits 13A 13A-B 13B US-35. Expect delays.,I-675 S,Dayton,Greene,OH,45430,US,US/Eastern,KFFO,02/19/2016 07:58:00,42.8,Mostly Cloudy
+A-285,Source2,2,Accident on Court St at Summit St.,E Court St,Bowling Green,Wood,OH,43402-2428,US,US/Eastern,KTDZ,02/19/2016 07:53:00,43,Clear
+A-286,Source2,3,Accident on I-70 Westbound at Exit 102 Kelton Ave. Expect delays.,East Fwy W,Columbus,Franklin,OH,43205,US,US/Eastern,KCMH,02/19/2016 07:51:00,37,Overcast
+A-287,Source2,2,Accident on Lexington Ave at Wilson Dr. Expect delays.,Wilson Dr,Dayton,Montgomery,OH,45402-5619,US,US/Eastern,KFFO,02/19/2016 08:58:00,47.7,Overcast
+A-288,Source2,2,Accident on Redwood Ave at OH-48 Main St. Expect delays.,N Main St,Dayton,Montgomery,OH,45405-5105,US,US/Eastern,KDAY,02/19/2016 08:56:00,48,Overcast
+A-289,Source2,2,Accident on Wayne Ave at /Keowee St / Wayne Ave. Expect delays.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,02/19/2016 08:58:00,47.7,Overcast
+A-290,Source2,2,Accident on Cardington Rd at Lance Dr. Expect delays.,Cardington Rd,Dayton,Montgomery,OH,45409,US,US/Eastern,KFFO,02/19/2016 09:58:00,49.6,Overcast
+A-291,Source2,2,Accident on Pleasant Ave at Harbine Ave. Expect delays.,Pleasant Ave,Dayton,Montgomery,OH,45403-2728,US,US/Eastern,KFFO,02/19/2016 10:58:00,53.8,Mostly Cloudy
+A-292,Source2,2,Accident on Walton Ave at Kammer Ave. Expect delays.,Walton Ave,Dayton,Montgomery,OH,45417-1525,US,US/Eastern,KDAY,02/19/2016 11:56:00,57,Scattered Clouds
+A-293,Source2,2,Accident on OH-48 Main St at Ashwood Ave. Expect delays.,N Main St,Dayton,Montgomery,OH,45405-2402,US,US/Eastern,KDAY,02/19/2016 11:56:00,57,Scattered Clouds
+A-294,Source2,2,Accident on OH-48 Main St at OH-4 Monument Ave. Expect delays.,W Monument Ave,Dayton,Montgomery,OH,45402-1201,US,US/Eastern,KFFO,02/19/2016 11:58:00,59.4,Clear
+A-295,Source2,2,Accident on OH-48 Main St at 4th St. Expect delays.,E 4th St,Dayton,Montgomery,OH,45402,US,US/Eastern,KFFO,02/19/2016 11:58:00,59.4,Clear
+A-296,Source2,3,Accident on I-71 Northbound at Exit 131 US-36 State Route 37. Expect delays.,I-71 S,Galena,Delaware,OH,43021,US,US/Eastern,KDLZ,02/19/2016 11:36:00,46.4,Clear
+A-297,Source2,2,Accident on US-33 Columbus Marysville Rd at Avery Rd.,Columbus Marysville Rd N,Dublin,Franklin,OH,43017,US,US/Eastern,KOSU,02/19/2016 14:53:00,57,Overcast
+A-298,Source2,2,Accident on 1st Ave Westbound at Broadview Ave.,W 1st Ave,Columbus,Franklin,OH,43212-3426,US,US/Eastern,KOSU,02/19/2016 14:53:00,57,Overcast
+A-299,Source2,2,Accident on OH-202 Troy St at Stanley Ave.,Troy St,Dayton,Montgomery,OH,45404-2726,US,US/Eastern,KFFO,02/19/2016 15:58:00,65.1,Clear
+A-300,Source2,2,Accident on Smithville Rd at 3rd St.,Smithville Rd,Dayton,Montgomery,OH,45403,US,US/Eastern,KFFO,02/19/2016 15:58:00,65.1,Clear
+A-301,Source2,3,Right lane blocked due to accident on I-270 Outerbelt Westbound between Exit 29 OH-3 State St and Exit 27 Cleveland Ave.,Outerbelt W,Columbus,Franklin,OH,43229,US,US/Eastern,KOSU,02/19/2016 17:53:00,57,Clear
+A-302,Source2,2,Accident on Wright Ave at 5th St.,S Wright Ave,Dayton,Montgomery,OH,45403-2849,US,US/Eastern,KFFO,02/22/2016 04:58:00,29.5,Clear
+A-303,Source2,2,Accident on County Hwy-19 Sugar Ridge Rd at Dunbridge Rd. Expect delays.,Sugar Ridge Rd,Bowling Green,Wood,OH,43402-9687,US,US/Eastern,KTDZ,02/22/2016 05:53:00,28,Clear
+A-304,Source2,2,Accident on Waggoner Rd at OH-16 Broad St. Expect delays.,E Broad St,Reynoldsburg,Franklin,OH,43068,US,US/Eastern,KCMH,02/22/2016 06:51:00,30.9,Partly Cloudy
+A-305,Source2,2,Accident on US-40 Main St at OH-317 Hamilton Rd. Expect delays.,S Hamilton Rd,Columbus,Franklin,OH,43227-1309,US,US/Eastern,KCMH,02/22/2016 06:51:00,30.9,Partly Cloudy
+A-306,Source2,2,Accident on US-33 Columbus Lancaster Rd Westbound at OH-674 Gender Rd.,Gender Rd,Canal Winchester,Franklin,OH,43110,US,US/Eastern,KLCK,02/22/2016 07:15:00,32,Overcast
+A-307,Source2,2,Accident on Wright Ave at Kittyhawk Dr.,S Wright Ave,Dayton,Montgomery,OH,45403-2857,US,US/Eastern,KFFO,02/22/2016 07:28:00,28.4,Shallow Fog
+A-308,Source3,3,Left hand shoulder blocked due to accident on I-70 Westbound at Exits 112 112A 112B OH-256 Hill Rd.,Hill Rd N,Pickerington,Fairfield,OH,43147,US,US/Eastern,KLHQ,02/22/2016 07:53:00,33.1,Overcast
+A-309,Source2,2,Accident on Lazelle Rd at Flint Rd. Expect delays.,Lazelle Rd,Columbus,Franklin,OH,43235-4661,US,US/Eastern,KOSU,02/22/2016 07:53:00,28.9,Clear
+A-310,Source2,2,Accident on Findlay St at 3rd St. Expect delays.,S Findlay St,Dayton,Montgomery,OH,45403-2022,US,US/Eastern,KFFO,02/22/2016 07:58:00,27.9,Clear
+A-311,Source2,2,Accident on Westview Ave at Rangeley Ave. Expect delays.,Rangeley Ave,Dayton,Montgomery,OH,45403-1612,US,US/Eastern,KFFO,02/22/2016 07:58:00,27.9,Clear
+A-312,Source2,2,Accident on Dennison Ave at 2nd Ave. Expect delays.,W 2nd Ave,Columbus,Franklin,OH,43201-3409,US,US/Eastern,KCMH,02/22/2016 07:51:00,32,Partly Cloudy
+A-313,Source2,2,Accident on OH-28 State Route 28 at Goshen Rd. Expect delays.,Goshen Rd,Goshen,Clermont,OH,45122-9208,US,US/Eastern,KI69,02/22/2016 08:17:00,32.5,Clear
+A-314,Source2,3,Accident on I-71 Southbound at Exit 116 Sinclair Rd. Expect delays.,Morse Rd,Columbus,Franklin,OH,43229,US,US/Eastern,KOSU,02/22/2016 07:53:00,28.9,Clear
+A-315,Source2,3,One lane blocked due to accident on I-270 Outerbelt Southbound at Exit 30 OH-161 New Albany Expy. Expect delays.,New Albany Expy W,Westerville,Franklin,OH,43081,US,US/Eastern,KCMH,02/22/2016 08:51:00,35.1,Scattered Clouds
+A-316,Source2,2,Accident on OH-48 State Route 48 near Deershadow Rd. Expect delays.,Deershadow Rd,Maineville,Warren,OH,45039,US,US/Eastern,KHAO,02/22/2016 08:53:00,36,Clear
+A-317,Source2,2,Accident on Lynpark Ave at Cordell Dr.,Lynpark Ave,Dayton,Montgomery,OH,45439-2729,US,US/Eastern,KMGY,02/22/2016 08:53:00,34,Clear
+A-318,Source2,2,Accident on Neff Rd at Norledge Dr.,Neff Rd,Dayton,Montgomery,OH,45414-5025,US,US/Eastern,KDAY,02/22/2016 08:56:00,33.1,Scattered Clouds
+A-319,Source2,2,Accident on OH-48 Main St at Vinway Ct.,N Main St,Dayton,Montgomery,OH,45415-2328,US,US/Eastern,KDAY,02/22/2016 09:56:00,36,Scattered Clouds
+A-320,Source2,2,Accident on Huffman Ave at 4th St.,Huffman Ave,Dayton,Montgomery,OH,45403-1913,US,US/Eastern,KFFO,02/22/2016 09:58:00,37,Clear
+A-321,Source2,2,Accident on Brown St at Stewart St. Expect delays.,E Stewart St,Dayton,Montgomery,OH,45409-2666,US,US/Eastern,KFFO,02/22/2016 09:58:00,37,Clear
+A-322,Source2,2,Accident on Dixie Dr at Needmore Rd. Expect delays.,N Dixie Dr,Dayton,Montgomery,OH,45414-4012,US,US/Eastern,KDAY,02/22/2016 09:56:00,36,Scattered Clouds
+A-323,Source2,2,Accident on Rolfe Ave Eastbound at Wagoner Ford Rd. Expect delays.,Wagoner Ford Rd,Dayton,Montgomery,OH,45414,US,US/Eastern,KDAY,02/22/2016 10:56:00,41,Mostly Cloudy
+A-324,Source2,2,Accident on Patterson Rd at Smithville Rd. Expect delays.,S Smithville Rd,Dayton,Montgomery,OH,45420-1530,US,US/Eastern,KFFO,02/22/2016 11:29:00,42.8,Scattered Clouds
+A-325,Source2,2,Accident on Smithville Rd at Tuttle Ave. Expect delays.,S Smithville Rd,Dayton,Montgomery,OH,45403-3345,US,US/Eastern,KFFO,02/22/2016 11:29:00,42.8,Scattered Clouds
+A-326,Source2,2,Accident on Frederick Pike at Beejay Ct. Expect delays.,Frederick Pike,Dayton,Montgomery,OH,45414-2928,US,US/Eastern,KDAY,02/22/2016 11:56:00,43,Mostly Cloudy
+A-327,Source2,2,Entry ramp closed due to accident on OH-2 Westbound at Baumhart Rd.,Baumhart Rd,Vermilion,Lorain,OH,44089,US,US/Eastern,KLPR,02/22/2016 13:53:00,41,Mostly Cloudy
+A-328,Source2,2,Accident on Keowee St at US-35.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,02/22/2016 15:58:00,48.7,Clear
+A-329,Source2,2,Accident on Washington Village Dr at OH-725 Miamisburg Centerville Rd.,Washington Village Dr,Dayton,Montgomery,OH,45459,US,US/Eastern,KMGY,02/22/2016 16:53:00,48,Clear
+A-330,Source2,2,Accident on Dixie Dr at Ridge Ave.,Ridge Ave,Dayton,Montgomery,OH,45414-5328,US,US/Eastern,KDAY,02/22/2016 16:56:00,46.9,Scattered Clouds
+A-331,Source2,2,Accident on OH-48 Main St at Washington St.,S Main St,Dayton,Montgomery,OH,45402-2717,US,US/Eastern,KFFO,02/22/2016 16:58:00,47.5,Clear
+A-332,Source2,3,One lane blocked due to accident on I-70 Westbound at Exits 112 112A 112B OH-256 Hill Rd. Expect delays.,Hill Rd N,Pickerington,Fairfield,OH,43147,US,US/Eastern,KLHQ,02/23/2016 06:53:00,30.9,Mostly Cloudy
+A-333,Source2,2,Accident on Crosley Rd between Red Lion 5 Points Rd and County Hwy-46 Lytle 5 Points Rd. Expect delays.,W Lytle 5 Points Rd,Springboro,Warren,OH,45066-9609,US,US/Eastern,KMGY,02/23/2016 06:53:00,30,Clear
+A-334,Source2,2,Accident on Pleasant Hill Rd at OH-131 State Route 131. Expect delays.,State Route 131,Milford,Clermont,OH,45150-2718,US,US/Eastern,KI69,02/23/2016 07:18:00,31.8,Clear
+A-335,Source2,2,Right hand shoulder blocked due to accident on OH-315 Olentangy Fwy at Goodale St.,Olentangy Fwy N,Columbus,Franklin,OH,43212,US,US/Eastern,KOSU,02/23/2016 06:53:00,28.9,Clear
+A-336,Source2,2,Accident on OH-31 State Route 131 near Wild Rose Ln. Expect delays.,State Route 131,Milford,Clermont,OH,45150-2649,US,US/Eastern,KI69,02/23/2016 07:57:00,32,Clear
+A-337,Source2,2,Accident on Stroop Rd at Woodman Dr. Expect delays.,E Stroop Rd,Dayton,Montgomery,OH,45440,US,US/Eastern,KMGY,02/23/2016 07:53:00,30.9,Clear
+A-338,Source2,2,Accident on OH-741 Springboro Pike at Lyons Rd. Expect delays.,Springboro Pike,Miamisburg,Montgomery,OH,45342,US,US/Eastern,KMGY,02/23/2016 07:53:00,30.9,Clear
+A-339,Source2,3,Accident on I-70 Eastbound at Exit 96 I-670. Expect delays.,I-670 W,Columbus,Franklin,OH,43204,US,US/Eastern,KTZR,02/23/2016 08:50:00,33.8,Clear
+A-340,Source2,2,Accident on Free Pike at Gettysburg Ave. Expect delays.,Free Pike,Dayton,Montgomery,OH,45416-1234,US,US/Eastern,KDAY,02/23/2016 08:56:00,35.1,Partly Cloudy
+A-341,Source2,2,Accident on Valley St at Rutledge Ave. Expect delays.,Valley St,Dayton,Montgomery,OH,45404-2213,US,US/Eastern,KFFO,02/23/2016 09:58:00,38.3,Clear
+A-342,Source2,2,Accident on 5th Ave Westbound at Star Ave. Expect delays.,N Star Ave,Columbus,Franklin,OH,43212-2460,US,US/Eastern,KOSU,02/23/2016 09:53:00,39.9,Clear
+A-343,Source2,2,Accident on Needmore Rd at Payne Ave. Expect delays.,Payne Ave,Dayton,Montgomery,OH,45414,US,US/Eastern,KDAY,02/23/2016 09:56:00,39,Scattered Clouds
+A-344,Source2,2,Accident on Keowee St at Leo St.,Leo St,Dayton,Montgomery,OH,45404-1009,US,US/Eastern,KFFO,02/23/2016 11:58:00,48.4,Clear
+A-345,Source2,2,Accident on Social Row Rd at Watch Hill Ln.,W Social Row Rd,Dayton,Montgomery,OH,45458-4405,US,US/Eastern,KMGY,02/23/2016 13:53:00,54,Clear
+A-346,Source2,3,Left lane blocked due to accident on I-71 Southbound at Exits 237 237A 237B Snow Rd.,I-71 N,Brookpark,Cuyahoga,OH,44142,US,US/Eastern,KCLE,02/23/2016 16:51:00,36,Mostly Cloudy
+A-347,Source2,3,Left lane blocked due to accident on I-71 Northbound at Exit 114 Silver Dr.,North Fwy N,Columbus,Franklin,OH,43224,US,US/Eastern,KCMH,02/23/2016 17:51:00,53.1,Overcast
+A-348,Source2,3,Left lane blocked due to accident on I-71 Innerbelt Southbound at Exit 108B I-670.,North Fwy S,Columbus,Franklin,OH,43203,US,US/Eastern,KCMH,02/23/2016 17:51:00,53.1,Overcast
+A-349,Source2,3,Left lane blocked due to accident on I-670 Northeast Fwy Eastbound at Exit 9 International Gtwy.,Northeast Fwy N,Columbus,Franklin,OH,43219,US,US/Eastern,KCMH,02/23/2016 17:51:00,53.1,Overcast
+A-350,Source2,3,Accident on I-270 Outerbelt Southbound at Exits 46 46A 46B US-33. Approach with care.,US-33 W,Columbus,Franklin,OH,43207,US,US/Eastern,KLCK,02/23/2016 19:15:00,50,Overcast
+A-351,Source2,3,Accident on I-71 Southbound at Exit 97 OH-665 London Groveport Rd.,I-71 S,Grove City,Franklin,OH,43123,US,US/Eastern,KTZR,02/23/2016 22:15:00,44.6,Scattered Clouds
+A-352,Source2,2,Accident on OH-741 Springboro Pike at Cardington Rd. Expect delays.,Springboro Pike,Moraine,Montgomery,OH,45439-1805,US,US/Eastern,KMGY,02/24/2016 05:02:00,41,Light Rain
+A-353,Source2,2,Delays expected due to accident on Byers Rd at OH-725 Miamisburg Centerville Rd / Watertower Ln.,Byers Rd,Dayton,Montgomery,OH,45449,US,US/Eastern,KMGY,02/24/2016 05:53:00,42.1,Rain
+A-354,Source2,3,Accident on I-75 Southbound at Exit 51 Edwin C Moses Blvd. Expect delays.,I-75 N,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,02/24/2016 05:29:00,37.9,Heavy Rain
+A-355,Source2,3,Accident on I-75 Southbound at Exit 179 US-6 Grand Army of the Republic Hwy. Expect delays.,Grand Army of the Republic Hwy,Bowling Green,Wood,OH,43402,US,US/Eastern,KTDZ,02/24/2016 05:53:00,33.1,Light Freezing Rain
+A-356,Source2,3,Accident on I-675 Northbound at Exit 24 OH-444 Broad St. Expect delays.,I-675 N,Fairborn,Greene,OH,45324,US,US/Eastern,KFFO,02/24/2016 05:58:00,39.2,Light Rain
+A-357,Source2,2,Accident on OH-741 Springboro Pike at Miami Village Dr. Expect delays.,Miami Village Dr,Miamisburg,Montgomery,OH,45342,US,US/Eastern,KMGY,02/24/2016 06:53:00,42.1,Rain
+A-358,Source2,2,Accident pedestrian involved on OH-202 Troy Pike at Executive Blvd. Expect delays.,Troy Pike,Dayton,Montgomery,OH,45424,US,US/Eastern,KFFO,02/24/2016 06:58:00,40.6,Rain
+A-359,Source2,2,Accident on Sunbury Rd at Morse Rd. Expect delays.,Morse Rd,Columbus,Franklin,OH,43231,US,US/Eastern,KCMH,02/24/2016 06:24:00,42.8,Light Rain
+A-360,Source2,3,Accident on I-480 Eastbound at Exit 17 OH-17 Brookpark Rd. Expect delays.,I-480 E,Cleveland,Cuyahoga,OH,44109,US,US/Eastern,KBKL,02/24/2016 06:49:00,33.8,Rain
+A-361,Source3,3,Accident on I-75 Southbound from Exit 57 Wagner Ford Rd to Exit 56 Stanley Ave. Expect delays.,Stanley Ave,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,02/24/2016 06:58:00,40.6,Rain
+A-362,Source2,2,Accident on OH-4 State Route 4 Southbound at Adams Rd. Expect delays.,Adams Rd,Dayton,Greene,OH,45424,US,US/Eastern,KFFO,02/24/2016 06:58:00,40.6,Rain
+A-363,Source2,2,Accident on OH-21 before I-76. Expect delays.,OH-21 N,Barberton,Summit,OH,44203,US,US/Eastern,KAKR,02/24/2016 06:54:00,39.9,Rain
+A-364,Source2,2,Accident on US-35 US Highway 35 Northbound at State Highway 817. Approach with care.,US Highway 35,Fraziers Bottom,Putnam,WV,25082,US,US/Eastern,K3I2,02/24/2016 07:10:00,49,Cloudy
+A-365,Source2,2,Accident on Wayne Ave at US-35. Expect delays.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,02/24/2016 06:58:00,40.6,Rain
+A-366,Source2,2,Accident on Hall Rd at Georgesville Rd. Expect delays.,Georgesville Rd,Columbus,Franklin,OH,43228-3325,US,US/Eastern,KTZR,02/24/2016 07:26:00,42.8,Light Rain
+A-367,Source2,2,Accident on Wilson Rd at Valleyview Dr. Expect delays.,N Wilson Rd,Columbus,Franklin,OH,43204-1229,US,US/Eastern,KTZR,02/24/2016 07:26:00,42.8,Light Rain
+A-368,Source2,2,Accident on Stroop Rd at OH-741 Springboro Pike.,Springboro Pike,Moraine,Montgomery,OH,45439-1939,US,US/Eastern,KMGY,02/24/2016 07:35:00,44.1,Rain
+A-369,Source2,2,Accident on OH-21 at OH-585 Wooster Rd.,OH-21 N,Barberton,Summit,OH,44203,US,US/Eastern,KAKR,02/24/2016 07:54:00,39.9,Rain
+A-370,Source3,3,One lane blocked due to accident on I-675 Southbound at Exit 24 OH-444 Broad St. Expect delays.,I-675 N,Fairborn,Greene,OH,45324,US,US/Eastern,KFFO,02/24/2016 07:58:00,41,Rain
+A-371,Source2,3,Accident on I-76 Eastbound at Exit 19 Kenmore Blvd. Expect delays.,I-76 E,Akron,Summit,OH,44314,US,US/Eastern,KAKR,02/24/2016 07:54:00,39.9,Rain
+A-372,Source2,3,Accident on I-77 Northbound at Exits 155 156 I-480. Expect delays.,Outerbelt South Fwy W,Independence,Cuyahoga,OH,44131,US,US/Eastern,KBKL,02/24/2016 07:53:00,35.1,Rain
+A-373,Source2,3,Accident on I-76 Eastbound at Exit 17A State St. Expect delays.,US-224 E,Barberton,Summit,OH,44203,US,US/Eastern,KAKR,02/24/2016 07:54:00,39.9,Rain
+A-374,Source2,2,Accident on Nutt Rd at OH-48 Dayton Lebanon Pike. Expect delays.,Dayton Lebanon Pike,Dayton,Montgomery,OH,45458-5139,US,US/Eastern,KMGY,02/24/2016 08:00:00,44.1,Heavy Rain
+A-375,Source2,1,Accident on North Ave at Old Byesville Rd.,Old Byesville Rd,Cambridge,Guernsey,OH,43725,US,US/Eastern,KZZV,02/24/2016 07:53:00,46,Light Rain
+A-376,Source2,2,Accident on Arbor Blvd at Springboro Rd. Expect delays.,Arbor Blvd,Moraine,Montgomery,OH,45439-1511,US,US/Eastern,KMGY,02/24/2016 08:00:00,44.1,Heavy Rain
+A-377,Source2,2,Accident on 5th St at Keowee St. Expect delays.,S Keowee St,Dayton,Montgomery,OH,45402-2242,US,US/Eastern,KFFO,02/24/2016 07:58:00,41,Rain
+A-378,Source2,2,Accident on Hillcrest Ave at England Ave. Expect delays.,W Hillcrest Ave,Dayton,Montgomery,OH,45406-2314,US,US/Eastern,KDAY,02/24/2016 08:32:00,39,Rain
+A-379,Source2,2,Accident on Linden Ave at Xenia Ave. Expect delays.,Linden Ave,Dayton,Montgomery,OH,45410-2706,US,US/Eastern,KFFO,02/24/2016 07:58:00,41,Rain
+A-380,Source2,2,Accident on OH-37 Central Ave at Union St. Expect delays.,E Central Ave,Delaware,Delaware,OH,43015-1943,US,US/Eastern,KDLZ,02/24/2016 08:16:00,41,Drizzle
+A-381,Source2,2,Accident on Wilmington Ave at Shroyer Rd. Expect delays.,Shroyer Rd,Dayton,Montgomery,OH,45419-4043,US,US/Eastern,KMGY,02/24/2016 08:22:00,45,Light Rain
+A-382,Source2,2,Accident on US-33 Columbus Lancaster Rd at County Hwy-23 Winchester Rd. Expect delays.,Columbus Lancaster Rd NW,Carroll,Fairfield,OH,43112,US,US/Eastern,KLHQ,02/24/2016 08:53:00,48,Overcast
+A-383,Source2,3,One lane blocked due to accident on I-75 Southbound at Exit 179 US-6 Grand Army of the Republic Hwy. Expect delays.,Grand Army of the Republic Hwy,Bowling Green,Wood,OH,43402,US,US/Eastern,KTDZ,02/24/2016 11:07:00,35.1,Light Rain
+A-384,Source2,2,Accident on Hillcrest Ave at England Ave.,W Hillcrest Ave,Dayton,Montgomery,OH,45406-2314,US,US/Eastern,KDAY,02/24/2016 11:56:00,44.1,Overcast
+A-385,Source2,2,Accident on Linden Ave at Xenia Ave.,Linden Ave,Dayton,Montgomery,OH,45410-2706,US,US/Eastern,KFFO,02/24/2016 11:48:00,50,Overcast
+A-386,Source2,3,Center lane blocked due to accident on I-270 Outerbelt Eastbound between Exits 22 22A 22B OH-315 Olentangy Fwy and Exit 23 US-23 High St.,N High St,Columbus,Franklin,OH,43235,US,US/Eastern,KOSU,02/24/2016 16:53:00,52,Overcast
+A-387,Source2,2,Accident on OH-232 State Route 232 at OH-756 State Route 756. Expect delays.,State Route 232,Moscow,Clermont,OH,45153-9709,US,US/Eastern,KI69,02/25/2016 05:57:00,33.8,Overcast
+A-388,Source2,2,Accident on Poth Rd at Yearling Rd. Expect delays.,N Yearling Rd,Columbus,Franklin,OH,43213-1362,US,US/Eastern,KCMH,02/25/2016 06:38:00,30.2,Light Snow
+A-389,Source2,2,Multi-vehicle accident on OH-58 Leavitt Rd at County Hwy-57 Russia Rd. Expect delays.,Russia Rd,Oberlin,Lorain,OH,44074,US,US/Eastern,KLPR,02/25/2016 07:53:00,30.9,Snow
+A-390,Source2,2,Accident on Wyoming St at Edgar Ave.,Wyoming St,Dayton,Montgomery,OH,45410-1910,US,US/Eastern,KFFO,02/25/2016 07:58:00,33.4,Light Snow
+A-391,Source2,3,Left hand shoulder blocked due to accident on I-71 Southbound at Exit 117 OH-161 Dublin Granville Rd.,E Dublin Granville Rd,Columbus,Franklin,OH,43229,US,US/Eastern,KOSU,02/25/2016 07:53:00,32,Overcast
+A-392,Source2,2,Accident on Ridge Ave at Riverside Dr. Expect delays.,Ridge Ave,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,02/25/2016 08:56:00,33.1,Light Snow
+A-393,Source2,3,Accident on I-71 Northbound at Exit 100 Stringtown Rd. Expect delays.,Stringtown Rd,Grove City,Franklin,OH,43123,US,US/Eastern,KTZR,02/25/2016 09:50:00,33.8,Overcast
+A-394,Source2,2,Accident on OH-741 Springboro Pike at Orchard Run Rd. Expect delays.,Orchard Run Rd,Dayton,Montgomery,OH,45449-2831,US,US/Eastern,KMGY,02/25/2016 09:53:00,33.1,Light Snow
+A-395,Source2,2,Accident on Lyons Rd at Newmark Dr.,Newmark Dr,Miamisburg,Montgomery,OH,45342,US,US/Eastern,KMGY,02/25/2016 12:55:00,35.1,Light Snow
+A-396,Source2,2,Accident on Shoup Mill Rd at Turner Rd.,N Main St,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,02/25/2016 16:13:00,33.1,Light Snow
+A-397,Source2,2,Accident on Needmore Rd at I-75.,Needmore Rd,Dayton,Montgomery,OH,45414,US,US/Eastern,KDAY,02/25/2016 16:13:00,33.1,Light Snow
+A-398,Source2,2,Accident on I-70 at Exits 99A 99A-B 99B 99C South Fwy.,W Innerbelt S,Columbus,Franklin,OH,43215,US,US/Eastern,KCMH,02/26/2016 15:51:00,32,Overcast
+A-399,Source2,2,Accident on Wayne Ave at Epworth Ave.,Wayne Ave,Dayton,Montgomery,OH,45420-1892,US,US/Eastern,KFFO,02/26/2016 15:58:00,34.3,Overcast
+A-400,Source2,3,Accident on I-71 at Exit 104 OH-104 Frank Rd.,I-71 S,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,02/26/2016 15:45:00,32,Overcast
+A-401,Source2,3,Accident on I-76 Westbound at Exit 17A State St.,US-224 W,Barberton,Summit,OH,44203,US,US/Eastern,KAKR,02/26/2016 15:54:00,28.9,Light Snow
+A-402,Source2,2,Accident on Siebenthaler Ave at Riverside Dr.,E Siebenthaler Ave,Dayton,Montgomery,OH,45405-2437,US,US/Eastern,KDAY,02/26/2016 16:56:00,33.1,Overcast
+A-403,Source2,3,Accident on I-270 Outerbelt Northbound at Exit 30 OH-161 New Albany Expy.,Outerbelt N,Westerville,Franklin,OH,43081,US,US/Eastern,KCMH,02/27/2016 19:51:00,42.1,Scattered Clouds
+A-404,Source2,2,Accident on US-35 Eastbound at Smithville Rd. Expect congestion.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,02/28/2016 12:58:00,63.1,Clear
+A-405,Source2,2,Accident on US-35 Eastbound at Steve Whalen Blvd.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,02/28/2016 17:58:00,62.8,Clear
+A-406,Source2,2,Accident on OH-741 Springboro Pike at Main St. Expect delays.,Springboro Pike,Dayton,Montgomery,OH,45439,US,US/Eastern,KMGY,02/29/2016 04:53:00,41,Haze
+A-407,Source2,2,Accident on Riverside Dr at Bond St.,Bond St,Dayton,Montgomery,OH,45405-4201,US,US/Eastern,KDAY,02/29/2016 05:56:00,37,Overcast
+A-408,Source2,2,Accident on Lee Rd at Ramage Ave.,Lee Rd S,Maple Heights,Cuyahoga,OH,44137,US,US/Eastern,KBKL,02/29/2016 05:53:00,36,Overcast
+A-409,Source2,3,Accident on I-75 Northbound at Exit 41 Austin Blvd. Expect delays.,I-75 S,Miamisburg,Montgomery,OH,45342,US,US/Eastern,KMGY,02/29/2016 06:53:00,39,Overcast
+A-410,Source2,3,Accident on I-670 Eastbound at Exits 2B 3 Neil Ave. Expect delays.,I-670 W,Columbus,Franklin,OH,43215,US,US/Eastern,KCMH,02/29/2016 07:51:00,37.9,Overcast
+A-411,Source2,2,Accident on McOwen St at Riverside Dr. Expect delays.,Riverside Dr,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,02/29/2016 07:56:00,37.9,Overcast
+A-412,Source2,2,Accident on Smith Rd at Revere Rd. Expect delays.,Smith Rd,Akron,Summit,OH,44333,US,US/Eastern,KAKR,02/29/2016 08:54:00,37,Overcast
+A-413,Source2,2,Accident on OH-741 Springboro Pike Southbound at Habitat Blvd. Expect delays.,Habitat Blvd,Dayton,Montgomery,OH,45449,US,US/Eastern,KMGY,02/29/2016 09:53:00,39,Haze
+A-414,Source2,2,Accident on Missouri Ave at Heaton Ave. Expect delays.,Heaton Ave,Dayton,Montgomery,OH,45410-2030,US,US/Eastern,KFFO,02/29/2016 09:08:00,39.2,Overcast
+A-415,Source2,2,Accident on Rainier Dr at Woodman Dr. Expect delays.,Woodman Dr,Dayton,Greene,OH,45432-3337,US,US/Eastern,KFFO,02/29/2016 10:16:00,39.2,Overcast
+A-416,Source2,2,Accident on Bond St at Riverside Dr.,Bond St,Dayton,Montgomery,OH,45405-4201,US,US/Eastern,KDAY,02/29/2016 11:56:00,42.1,Mostly Cloudy
+A-417,Source3,3,Right lane blocked due to accident on I-270 Outerbelt Northbound at Exit 10 Roberts Rd.,Roberts Rd,Columbus,Franklin,OH,43228,US,US/Eastern,KTZR,02/29/2016 12:45:00,44.6,Scattered Clouds
+A-418,Source2,2,Accident on Stanley Ave at Valley St.,Stanley Ave,Dayton,Montgomery,OH,45404-2019,US,US/Eastern,KFFO,02/29/2016 15:58:00,54.1,Clear
+A-419,Source2,2,Accident on Mad River Rd at Penbrooke Trl.,Penbrooke Trl,Dayton,Montgomery,OH,45459-3435,US,US/Eastern,KMGY,02/29/2016 17:53:00,53.1,Clear
+A-420,Source2,2,Accident on OH-4 Keowee St at Ottawa St.,Ottawa St,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,02/29/2016 17:58:00,52.5,Clear
+A-421,Source2,2,Accident on Turner Rd at OH-48 Main St.,N Main St,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,02/29/2016 17:56:00,50,Scattered Clouds
+A-422,Source3,3,Delays and left lane closed due to accident on I-71 North Fwy Southbound after 5th Ave.,North Fwy S,Columbus,Franklin,OH,43201,US,US/Eastern,KCMH,02/29/2016 18:51:00,48.9,Scattered Clouds
+A-423,Source2,3,Delays and right lane closed due to accident on I-75 Southbound in Springcreek.,I-75 S,Piqua,Miami,OH,45356,US,US/Eastern,KVES,02/29/2016 19:35:00,44.6,Scattered Clouds
+A-424,Source2,2,Accident on Dog Leg Rd near Stillwater River.,Dog Leg Rd,Dayton,Montgomery,OH,45415,US,US/Eastern,KDAY,02/29/2016 19:56:00,46,Partly Cloudy
+A-425,Source2,2,Accident on Miller Farm Ln at OH-725 Miamisburg Centerville Rd.,Miamisburg Centerville Rd,Dayton,Montgomery,OH,45459-4752,US,US/Eastern,KMGY,02/29/2016 20:53:00,45,Clear
+A-426,Source2,2,Accident on Wheatland Ave at Sullivant Ave. Expect delays.,S Wheatland Ave,Columbus,Franklin,OH,43204-3157,US,US/Eastern,KTZR,3/1/2016 4:55,34,Clear
+A-427,Source2,2,Accident on OH-741 Springboro Pike at Tech Blvd. Expect delays.,Springboro Pike,Miamisburg,Montgomery,OH,45342-4940,US,US/Eastern,KMGY,3/1/2016 5:53,37.9,Clear
+A-428,Source2,2,Accident on OH-48 Main St at Beechwood Ave.,E Beechwood Ave,Dayton,Montgomery,OH,45405-3032,US,US/Eastern,KDAY,3/1/2016 7:56,37,Mostly Cloudy
+A-429,Source2,2,Accident on US-62 Harrisburg Pike at Briggs Rd / October Ridge Dr. Expect delays.,Harrisburg Pike,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,3/1/2016 7:20,35.6,Clear
+A-430,Source2,2,Accident on Livingston Ave at James Rd.,E Livingston Ave,Columbus,Franklin,OH,43209-3047,US,US/Eastern,KCMH,3/1/2016 7:51,37,Mostly Cloudy
+A-431,Source2,3,Accident on I-270 Outerbelt Southbound at Exit 10 Roberts Rd. Expect delays.,Roberts Rd,Columbus,Franklin,OH,43228,US,US/Eastern,KTZR,3/1/2016 7:47,33.8,Clear
+A-432,Source2,2,Accident on Funderburg Rd near Ironwood Dr. Expect delays.,W Funderburg Rd,Fairborn,Greene,OH,45324-2815,US,US/Eastern,KFFO,3/1/2016 9:58,46.6,Clear
+A-433,Source2,2,Accident on Old State Route 74 at Shayler Rd.,Shayler Rd,Batavia,Clermont,OH,45103-2532,US,US/Eastern,KI69,3/1/2016 10:12,54.1,Mostly Cloudy
+A-434,Source2,2,Accident on OH-28 State Route 28 at Bypass 28 / Romar Dr. Expect delays.,State Route 28,Milford,Clermont,OH,45150-1901,US,US/Eastern,KI69,3/1/2016 10:32,54.3,Overcast
+A-435,Source2,2,Accident on OH-32 Appalachian Hwy at County Hwy-3 Sardinia Mowrystwn Rd. Expect delays.,Appalachian Hwy,Sardinia,Brown,OH,45171,US,US/Eastern,KI69,3/1/2016 11:12,53.6,Overcast
+A-436,Source2,3,Accident on I-75 Northbound from Exit 74 OH-41 Main St to Exit 82 US-36 Ash St. Expect delays.,E Ash St,Piqua,Miami,OH,45356,US,US/Eastern,KVES,3/1/2016 11:55,42.8,Rain
+A-437,Source2,2,Accident on Stelzer Rd near McCutcheon Rd.,McCutcheon Rd,Columbus,Franklin,OH,43219-3340,US,US/Eastern,KCMH,3/1/2016 12:51,55.9,Light Rain
+A-438,Source2,2,Accident on OH-741 Springboro Pike near Tech Blvd.,Springboro Pike,Miamisburg,Montgomery,OH,45342-4940,US,US/Eastern,KMGY,3/1/2016 12:53,48,Light Rain
+A-439,Source2,2,Accident on OH-161 New Albany Expy Eastbound at Little Turtle Way.,New Albany Expy E,Westerville,Franklin,OH,43081,US,US/Eastern,KCMH,3/1/2016 16:51,48,Light Rain
+A-440,Source2,2,Accident on Pullman Dr at Lewis Center Rd.,Lewis Center Rd,Lewis Center,Delaware,OH,43035-9047,US,US/Eastern,KDLZ,3/1/2016 17:17,48.2,
+A-441,Source2,3,Accident on I-270 Outerbelt Northbound at Exits 35A 35B I-670 Northeast Fwy.,Outerbelt S,Columbus,Franklin,OH,43219,US,US/Eastern,KCMH,3/1/2016 17:25,48.2,Light Rain
+A-442,Source2,3,Left lane closed due to accident on I-270 Outerbelt Southbound at Exits 35A 35B I-670 Northeast Fwy.,Outerbelt N,Columbus,Franklin,OH,43230,US,US/Eastern,KCMH,3/1/2016 17:47,48.2,Overcast
+A-443,Source2,3,Accident on I-270 Outerbelt at I-270 Outerbelt.,Outerbelt S,Columbus,Franklin,OH,43230,US,US/Eastern,KCMH,3/1/2016 18:04,50,Light Rain
+A-444,Source2,2,Accident on OH-741 Springboro Pike at Tech Blvd.,Springboro Pike,Miamisburg,Montgomery,OH,45342-4951,US,US/Eastern,KMGY,3/1/2016 18:53,39,Overcast
+A-445,Source2,2,Accident on Urban Hollow Ct in Grove City.,Urban Hollow Ct,Urbancrest,Franklin,OH,43123-1308,US,US/Eastern,KTZR,3/1/2016 18:50,48.2,Overcast
+A-446,Source2,3,Accident on I-75 Southbound at Exit 181 OH-64.,I-75 S,Bowling Green,Wood,OH,43402,US,US/Eastern,KTDZ,3/2/2016 16:53,28.9,Overcast
+A-447,Source2,2,Accident on I-270 Outerbelt Southbound at Exit 43A-B/41A-B US-40 Main St.,Outerbelt S,Columbus,Franklin,OH,43232,US,US/Eastern,KCMH,3/2/2016 16:51,30.9,Scattered Clouds
+A-448,Source2,3,Accident on I-270 Outerbelt Northbound at Exit 43A-B/41A-B US-40 Main St.,Outerbelt S,Columbus,Franklin,OH,43232,US,US/Eastern,KCMH,3/2/2016 17:51,30.9,Scattered Clouds
+A-449,Source2,2,Accident on OH-82 Royalton Rd at I-77.,E Royalton Rd,Brecksville,Cuyahoga,OH,44141,US,US/Eastern,KCLE,3/2/2016 17:51,25,Mostly Cloudy
+A-450,Source2,2,Accident on OH-202 Troy St at Stanley Ave.,Troy St,Dayton,Montgomery,OH,45404-2726,US,US/Eastern,KFFO,3/2/2016 18:58,29.8,Clear
+A-451,Source2,2,Accident on Babbitt St at OH-48 Main St.,E Babbitt St,Dayton,Montgomery,OH,45405-4967,US,US/Eastern,KDAY,3/2/2016 19:56,28.9,Partly Cloudy
+A-452,Source2,2,Accident on Lakebend Dr in Dayton.,Lakebend Dr,Dayton,Montgomery,OH,45404-2135,US,US/Eastern,KFFO,3/2/2016 20:58,29.5,Partly Cloudy
+A-453,Source2,2,Accident on Beaverbrook Ct at Beaverbrook Dr.,Beaverbrook Ct,Columbus,Franklin,OH,43230-3373,US,US/Eastern,KCMH,3/3/2016 4:51,25,Mostly Cloudy
+A-454,Source2,2,Accident on OH-28 State Route 28 at Morgan Rd. Expect delays.,State Route 28,Frankfort,Ross,OH,45628-9569,US,US/Eastern,KLCK,3/3/2016 6:35,25.2,Overcast
+A-455,Source2,3,Right hand shoulder blocked due to accident on I-71 Northbound at Exit 114 Silver Dr.,E North Broadway St,Columbus,Franklin,OH,43224,US,US/Eastern,KCMH,3/3/2016 6:51,27,Overcast
+A-456,Source2,2,Accident on Magnolia St at Brown St. Expect delays.,Brown St,Dayton,Montgomery,OH,45409,US,US/Eastern,KFFO,3/3/2016 7:35,30.2,Light Snow
+A-457,Source2,2,Accident on Herman Ave Southbound near Creston Ave.,Creston Ave,Dayton,Montgomery,OH,45404-1701,US,US/Eastern,KFFO,3/3/2016 7:35,30.2,Light Snow
+A-458,Source2,3,Shoulder blocked due to accident on I-70 Westbound at Exits 93 93A 93B I-270 Outerbelt.,Outerbelt S,Columbus,Franklin,OH,43204,US,US/Eastern,KTZR,3/3/2016 7:50,26.6,Overcast
+A-459,Source2,3,Left hand shoulder blocked due to accident on I-70 Westbound at Exit 103B Alum Creek Dr.,East Fwy W,Columbus,Franklin,OH,43209,US,US/Eastern,KCMH,3/3/2016 7:51,28,Overcast
+A-460,Source2,2,Accident on OH-132 State Route 132 at OH-123 State Route 123. Expect delays.,State Route 132,Blanchester,Clinton,OH,45107-8472,US,US/Eastern,KILN,3/3/2016 7:54,28.9,Light Snow
+A-461,Source2,2,Accident on OH-132 State Route 132 at OH-222 State Route 222. Expect delays.,State Route 32,Batavia,Clermont,OH,45103,US,US/Eastern,KI69,3/3/2016 8:13,30,Light Snow
+A-462,Source2,2,Accident on 5th St at Keowee St.,S Keowee St,Dayton,Montgomery,OH,45402-2242,US,US/Eastern,KFFO,3/3/2016 8:58,30.6,Light Snow
+A-463,Source2,3,One lane blocked due to accident on I-71 Southbound at Exit 105 Greenlawn Ave.,Greenlawn Ave,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,3/3/2016 9:50,30.2,Overcast
+A-464,Source2,3,Accident on I-75 Northbound near Exits 52 52B US-35. Expect delays.,I-75 S,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,3/3/2016 10:05,30,Light Snow
+A-465,Source2,2,Accident on Union Schoolhouse Rd at Baker Rd.,Baker Rd,Dayton,Montgomery,OH,45424-1846,US,US/Eastern,KFFO,3/3/2016 11:25,32,Light Snow
+A-466,Source2,2,Accident on Mall Ring Rd at OH-725 Miamisburg Centerville Rd.,Miamisburg Centerville Rd,Dayton,Montgomery,OH,45459-3772,US,US/Eastern,KMGY,3/3/2016 11:53,34,Light Snow
+A-467,Source2,2,Accident on Davis Ave at Belpre Pl.,Davis Ave,Dayton,Montgomery,OH,45403-2912,US,US/Eastern,KFFO,3/3/2016 11:58,32,Light Snow
+A-468,Source2,2,Accident on Forest Ave at Grand Ave.,W Grand Ave,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,3/3/2016 13:56,33.1,Light Snow
+A-469,Source2,2,Accident on US-35 Westbound at Smithville Rd.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,3/3/2016 14:58,33.1,Light Snow
+A-470,Source2,2,Accident on OH-741 Springboro Pike at Dixie Dr.,S Dixie Dr,Dayton,Montgomery,OH,45439,US,US/Eastern,KMGY,3/3/2016 15:12,33.1,Light Snow
+A-471,Source2,2,Accident on Fairfax Dr at Stonecreek Dr.,Stonecreek Dr,Pickerington,Fairfield,OH,43147-9671,US,US/Eastern,KLHQ,3/3/2016 15:10,33.1,Light Snow
+A-472,Source2,2,Accident on Wilson Rd Northbound in Columbus.,N Wilson Rd,Columbus,Franklin,OH,43204-1467,US,US/Eastern,KTZR,3/3/2016 15:50,30.2,Light Snow
+A-473,Source2,3,Accident on Hillcrest Ave at Riverside Dr.,E Hillcrest Ave,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,3/3/2016 16:24,34,Light Snow
+A-474,Source2,2,Accident on OH-48 Main St at Burton Ave.,N Main St,Dayton,Montgomery,OH,45405-4140,US,US/Eastern,KDAY,3/3/2016 16:46,33.1,Light Snow
+A-475,Source2,2,Left lane closed due to accident on US-35 Eastbound at Smithville Rd.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,3/3/2016 17:38,32,Light Snow
+A-476,Source2,3,Right hand shoulder blocked due to accident on I-70 Eastbound at Exits 108 108A-B I-270 Outerbelt.,East Fwy W,Columbus,Franklin,OH,43232,US,US/Eastern,KCMH,3/3/2016 18:27,30.2,Light Snow
+A-477,Source2,3,Center lane closed due to accident on I-75 Southbound at Exits 53A 53B 1st St.,I-75 N,Dayton,Montgomery,OH,45402,US,US/Eastern,KFFO,3/3/2016 18:58,32,Light Snow
+A-478,Source2,3,Entry ramp closed due to accident on OH-315 Olentangy Fwy Northbound at OH-315 Olentangy Fwy.,Olentangy Fwy N,Columbus,Franklin,OH,43214,US,US/Eastern,KOSU,3/3/2016 20:10,32,Light Snow
+A-479,Source2,3,Entry ramp closed due to accident on OH-315 Olentangy Fwy Northbound at Exit 7 Olentangy River Rd.,W Henderson Rd,Columbus,Franklin,OH,43214,US,US/Eastern,KOSU,3/3/2016 20:10,32,Light Snow
+A-480,Source2,2,Accident on Hague Ave at Sullivant Ave. Expect delays.,Sullivant Ave,Columbus,Franklin,OH,43204-2413,US,US/Eastern,KTZR,3/4/2016 6:15,31.6,Light Snow
+A-481,Source2,3,Accident on I-270 Outerbelt Eastbound at Exit 55 I-71. Expect delays.,I-71 S,Grove City,Franklin,OH,43123,US,US/Eastern,KTZR,3/4/2016 6:15,31.6,Light Snow
+A-482,Source2,3,Multi-vehicle accident on I-77 Southbound at Exit 133 Ridgewood Rd. Expect delays.,Ridgewood Rd,Akron,Summit,OH,44333,US,US/Eastern,KAKR,3/4/2016 6:41,27,Overcast
+A-483,Source2,3,One lane blocked due to accident on I-70 Westbound at Exit 98A US-62 Central Ave.,I-70 W,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,3/4/2016 6:15,31.6,Light Snow
+A-484,Source2,3,Accident on I-75 Southbound at Exit 58 Needmore Rd. Expect delays.,Needmore Rd,Dayton,Montgomery,OH,45414,US,US/Eastern,KDAY,3/4/2016 6:56,30.9,Overcast
+A-485,Source3,3,Accident on I-75 Southbound at Exit 56 Stanley Ave. Expect delays.,Stanley Ave,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,3/4/2016 6:58,32.9,Overcast
+A-486,Source2,2,Accident on US-35 Eastbound at Abbey Ave. Expect delays.,Abbey Ave,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,3/4/2016 7:06,30.9,Overcast
+A-487,Source2,2,Accident on US-35 Eastbound at I-75 Exits 52 52B. Expect delays.,I-75 S,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,3/4/2016 7:06,30.9,Overcast
+A-488,Source2,3,Accident on I-75 Southbound at Exit 56 Stanley Ave. Expect delays.,Stanley Ave,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,3/4/2016 7:42,32,Overcast
+A-489,Source2,3,Accident on I-75 Southbound near Exit 179 US-6 Grand Army of the Republic Hwy. Expect delays.,Grand Army of the Republic Hwy,Bowling Green,Wood,OH,43402,US,US/Eastern,KTDZ,3/4/2016 7:53,28.9,Overcast
+A-490,Source2,2,Accident on Gettysburg Ave at Edison St. Expect delays.,Edison St,Dayton,Montgomery,OH,45417-1605,US,US/Eastern,KDAY,3/4/2016 7:56,30,Overcast
+A-491,Source2,2,Accident on Springmont Ave at Wheatland Ave. Expect delays.,S Wheatland Ave,Columbus,Franklin,OH,43204-3157,US,US/Eastern,KTZR,3/4/2016 7:50,32,Overcast
+A-492,Source2,2,One lane blocked due to accident on OH-16 Broad St at Waggoner Rd.,E Broad St,Reynoldsburg,Franklin,OH,43068,US,US/Eastern,KCMH,3/4/2016 7:58,32,Haze
+A-493,Source2,3,Accident on I-270 Outerbelt Southbound at Exit 30 OH-161 New Albany Expy.,Outerbelt S,Columbus,Franklin,OH,43230,US,US/Eastern,KCMH,3/4/2016 7:58,32,Haze
+A-494,Source2,2,Accident on Watervliet Ave at Wayne Ave.,Arbor Ave,Dayton,Montgomery,OH,45420-1910,US,US/Eastern,KFFO,3/4/2016 7:58,31.8,Overcast
+A-495,Source2,2,Accident on County Hwy-193 Troy Urbana Rd at OH-589 State Route 589. Expect delays.,N State Route 589,Casstown,Miami,OH,45312-9776,US,US/Eastern,KDAY,3/4/2016 7:56,30,Overcast
+A-496,Source2,2,Accident on OH-315 Olentangy Fwy Southbound at OH-161 Dublin Granville Rd. Expect delays.,W Dublin Granville Rd,Columbus,Franklin,OH,43085,US,US/Eastern,KOSU,3/4/2016 8:53,32,Overcast
+A-497,Source2,2,Accident on Woodman Dr at Woodbine Ave.,Woodman Dr,Dayton,Greene,OH,45432-3335,US,US/Eastern,KFFO,3/4/2016 9:58,32.5,Overcast
+A-498,Source2,2,Accident on OH-4 Monument Ave at Patterson Blvd. Expect delays.,E Monument Ave,Dayton,Montgomery,OH,45402,US,US/Eastern,KFFO,3/4/2016 11:22,32,Overcast
+A-499,Source2,2,Accident on Broadway St at OH-4 Germantown St.,Germantown St,Dayton,Montgomery,OH,45417-3337,US,US/Eastern,KDAY,3/4/2016 11:56,32,Overcast
+A-500,Source2,2,Accident on US-35 at I-75.,I-75 S,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,3/4/2016 14:56,32,Overcast
+A-501,Source2,2,Accident on Rich St at Rickenbacker St.,Rickenbacker St,Columbus,Franklin,OH,43223-1325,US,US/Eastern,KTZR,3/4/2016 14:50,33.8,Overcast
+A-502,Source2,2,Accident on Cassady Ave Northbound at Cassady Village Trl.,N Cassady Ave,Columbus,Franklin,OH,43219-1513,US,US/Eastern,KCMH,3/4/2016 16:51,34,Overcast
+A-503,Source2,2,Right lane closed due to accident on OH-315 Innerbelt Southbound at US-62 Plato Pl.,W Town St,Columbus,Franklin,OH,43222,US,US/Eastern,KTZR,3/4/2016 17:50,33.8,Overcast
+A-504,Source2,2,Accident on I-71 Southbound after Exit 105 Greenlawn Ave.,Greenlawn Ave,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,3/4/2016 17:50,33.8,Overcast
+A-505,Source2,2,Accident on US-35 Southbound at Smithville Rd.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,3/4/2016 18:58,33.1,Overcast
+A-506,Source2,3,Restrictions due to accident on I-75 Northbound at Exit 164 OH-613 State Route 613.,State Route 613,Findlay,Hancock,OH,45840,US,US/Eastern,KFDY,3/5/2016 7:11,30.9,Overcast
+A-507,Source2,2,Accident on Ridgewood Rd at Miller Rd.,I-77 S,Akron,Summit,OH,44321,US,US/Eastern,KAKR,3/7/2016 6:54,37,Clear
+A-508,Source2,3,Accident on I-270 Outerbelt Eastbound at Exit 20 Sawmill Rd. Expect delays.,Sawmill Rd,Dublin,Franklin,OH,43017,US,US/Eastern,KOSU,3/7/2016 6:53,39,Clear
+A-509,Source2,2,Accident on Philadelphia Dr at Harvard Blvd. Expect delays.,Philadelphia Dr,Dayton,Montgomery,OH,45406-4011,US,US/Eastern,KDAY,3/7/2016 6:56,42.1,Overcast
+A-510,Source2,3,Accident on I-480 Eastbound at Exit 17 OH-17 Brookpark Rd. Expect delays.,I-480 E,Cleveland,Cuyahoga,OH,44109,US,US/Eastern,KBKL,3/7/2016 7:53,46.9,Clear
+A-511,Source2,2,Accident on Austin Blvd at I-75 Exit 41. Expect delays.,I-75 S,Miamisburg,Montgomery,OH,45342,US,US/Eastern,KMGY,3/7/2016 8:53,48.9,Clear
+A-512,Source2,2,Accident on Smithville Rd at Radio Rd. Expect delays.,Radio Rd,Dayton,Greene,OH,45431-1035,US,US/Eastern,KFFO,3/7/2016 8:58,46.4,Mostly Cloudy
+A-513,Source2,3,Accident on I-270 Outerbelt Northbound at Exit 20 Sawmill Rd. Expect delays.,Sawmill Rd,Columbus,Franklin,OH,43235,US,US/Eastern,KOSU,3/7/2016 8:53,45,Clear
+A-514,Source2,2,Two lanes blocked due to accident on OH-161 New Albany Expy Westbound at Little Turtle Way. Expect delays.,New Albany Expy W,Westerville,Franklin,OH,43081,US,US/Eastern,KCMH,3/7/2016 10:51,52,Overcast
+A-515,Source2,2,Accident on Stewart St at Alberta St. Expect delays.,E Stewart St,Dayton,Montgomery,OH,45409-2828,US,US/Eastern,KFFO,3/7/2016 10:58,60.1,Overcast
+A-516,Source2,2,Accident on Wilkinson St at 2nd St.,N Wilkinson St,Dayton,Montgomery,OH,45402-1441,US,US/Eastern,KFFO,3/7/2016 10:58,60.1,Overcast
+A-517,Source2,2,Accident on McEwen Rd at OH-725 Miamisburg Centerville Rd. Expect delays.,Miamisburg Centerville Rd,Dayton,Montgomery,OH,45459,US,US/Eastern,KMGY,3/7/2016 10:53,57.9,Clear
+A-518,Source2,2,Accident on OH-741 Springboro Pike at Northlawn Ave.,Springboro Pike,Dayton,Montgomery,OH,45439,US,US/Eastern,KMGY,3/7/2016 14:53,62.1,Clear
+A-519,Source2,2,Accident on Shoup Mill Rd at Turner Rd.,N Main St,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,3/7/2016 15:56,59,Light Rain
+A-520,Source2,2,Accident on Springfield St at Findlay St.,Springfield St,Dayton,Montgomery,OH,45403-1243,US,US/Eastern,KFFO,3/7/2016 15:58,62.4,Light Rain
+A-521,Source2,3,Right lane blocked due to accident on I-270 Outerbelt Southbound at Exits 46 46A 46B US-33.,US-33 W,Columbus,Franklin,OH,43207,US,US/Eastern,KLCK,3/7/2016 17:15,58.8,Overcast
+A-522,Source2,3,Right lane blocked due to accident on I-75 Southbound at Exit 122 OH-65 Saint Johns Rd.,I-75 S,Lima,Allen,OH,45804,US,US/Eastern,KAOH,3/7/2016 21:53,52,Clear
+A-523,Source2,2,Accident on Philadelphia Dr at Folsom Dr. Expect delays.,Folsom Dr,Dayton,Montgomery,OH,45405-1111,US,US/Eastern,KDAY,3/8/2016 3:56,51.1,Partly Cloudy
+A-524,Source2,2,Accident on Philadelphia Dr at Folsom Dr.,Folsom Dr,Dayton,Montgomery,OH,45405-1111,US,US/Eastern,KDAY,3/8/2016 4:56,53.1,Mostly Cloudy
+A-525,Source2,2,Accident on OH-235 State Route 235 at Center Point 70 Blvd. Expect delays.,Center Point 70 Blvd,Dayton,Montgomery,OH,45424,US,US/Eastern,KFFO,3/8/2016 4:58,50.5,Overcast
+A-526,Source2,2,Accident on Courtright Rd at Refugee Rd. Expect congestion.,Refugee Rd,Columbus,Franklin,OH,43232-4825,US,US/Eastern,KCMH,3/8/2016 5:51,54,Overcast
+A-527,Source2,2,Accident on OH-132 State Highway 132 at OH-125 Ohio Pike / OH-132 State Highway 132. Expect delays.,E Ohio Pike,Amelia,Clermont,OH,45102-2351,US,US/Eastern,KI69,3/8/2016 6:12,55.4,Clear
+A-528,Source2,2,Accident on Batavia Pike at Bridlewood Ln. Expect delays.,Old State Route 74,Batavia,Clermont,OH,45103-2367,US,US/Eastern,KI69,3/8/2016 6:53,55.2,Clear
+A-529,Source2,2,Accident on OH-315 Olentangy Fwy Southbound at Lane Ave. Expect delays.,Olentangy Fwy S,Columbus,Franklin,OH,43210,US,US/Eastern,KOSU,3/8/2016 6:53,53.1,Overcast
+A-530,Source2,2,One lane blocked due to accident on OH-161 New Albany Expy at Little Turtle Way / Dublin Granville Rd.,New Albany Expy W,Westerville,Franklin,OH,43081,US,US/Eastern,KCMH,3/8/2016 6:51,55,Overcast
+A-531,Source2,2,Accident on Smithville Rd at Linden Ave.,S Smithville Rd,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,3/8/2016 7:58,56.7,Overcast
+A-532,Source2,3,Accident on I-270 Outerbelt Northbound at Exit 37 OH-317 Hamilton Rd.,Outerbelt N,Columbus,Franklin,OH,43230,US,US/Eastern,KCMH,3/8/2016 7:51,55,Overcast
+A-533,Source2,3,Accident on I-71 Southbound at Exit 235 Bagley Rd.,I-71 S,Cleveland,Cuyahoga,OH,44130,US,US/Eastern,KCLE,3/8/2016 7:51,53.1,Mostly Cloudy
+A-534,Source2,2,Accident on Huffman Ave at Gondert Ave.,Huffman Ave,Dayton,Montgomery,OH,45403-3018,US,US/Eastern,KFFO,3/8/2016 7:58,56.7,Overcast
+A-535,Source2,2,Accident on US-35 Eastbound at Smithville Rd. Expect delays.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,3/8/2016 8:58,61.2,Mostly Cloudy
+A-536,Source2,2,Accident on OH-132 State Route 132 at Elmwood Rd. Expect delays.,State Route 132,Batavia,Clermont,OH,45103-1228,US,US/Eastern,KI69,3/8/2016 10:33,65.1,Clear
+A-537,Source2,2,Accident on Innovation Dr Northbound at OH-741 Springboro Pike. Expect delays.,Innovation Dr,Miamisburg,Montgomery,OH,45342,US,US/Eastern,KMGY,3/8/2016 10:53,66,Clear
+A-538,Source2,2,Accident on Mad River Rd at OH-725 Miamisburg Centerville Rd.,Miamisburg Centerville Rd,Dayton,Montgomery,OH,45459-3725,US,US/Eastern,KMGY,3/8/2016 10:53,66,Clear
+A-539,Source2,2,Accident on Gettysburg Ave at Hillcrest Ave. Expect delays.,N Gettysburg Ave,Dayton,Montgomery,OH,45406-1708,US,US/Eastern,KDAY,3/8/2016 10:56,66,Scattered Clouds
+A-540,Source2,2,Accident on N Keowee St at Stanley Ave.,N Keowee St,Dayton,Montgomery,OH,45404-1104,US,US/Eastern,KFFO,3/8/2016 11:58,70.2,Clear
+A-541,Source2,3,Restrictions due to accident on I-270 Outerbelt both ways at Exit 23 US-23 High St.,Outerbelt W,Columbus,Franklin,OH,43235,US,US/Eastern,KOSU,3/8/2016 11:53,68,Overcast
+A-542,Source2,2,Accident on Ludlow St at Franklin St.,Franklin St,Dayton,Montgomery,OH,45402-2633,US,US/Eastern,KFFO,3/8/2016 13:25,71.6,Clear
+A-543,Source2,2,Accident on Neal Ave at Bellevue Ave.,Neal Ave,Dayton,Montgomery,OH,45406-5234,US,US/Eastern,KDAY,3/8/2016 15:56,71.1,Mostly Cloudy
+A-544,Source2,2,Right lane blocked due to accident on OH-315 Olentangy Fwy Northbound near Cannon Dr.,Olentangy Fwy N,Columbus,Franklin,OH,43212,US,US/Eastern,KOSU,3/8/2016 16:53,71.1,Clear
+A-545,Source2,2,Accident on Sawmill Rd Southbound at Summit View Rd.,Sawmill Rd,Dublin,Franklin,OH,43016-9037,US,US/Eastern,KOSU,3/8/2016 17:53,69.1,Clear
+A-546,Source2,2,Accident on Emerald Pkwy Northbound at Coffman Rd. Approach with care.,Coffman Rd,Dublin,Franklin,OH,43017,US,US/Eastern,KOSU,3/8/2016 17:53,69.1,Clear
+A-547,Source2,3,Right lane blocked due to accident on I-71 Northbound at Exit 115 Cooke Rd.,E Cooke Rd,Columbus,Franklin,OH,43214,US,US/Eastern,KOSU,3/8/2016 17:53,69.1,Clear
+A-548,Source2,3,Left lane blocked due to accident on I-70 Eastbound at Exits 107 107A 107B OH-317 Hamilton Rd.,I-70 E,Columbus,Franklin,OH,43232,US,US/Eastern,KCMH,3/8/2016 18:51,66.9,Mostly Cloudy
+A-549,Source2,3,Accident on I-75 Southbound at Dixie Hwy. Expect delays.,N Napoleon Rd,Lima,Allen,OH,45801,US,US/Eastern,KAOH,3/9/2016 5:53,57,Clear
+A-550,Source2,2,Accident on Elm St at Central Ave.,S Elm St,Dayton,Montgomery,OH,45449-1733,US,US/Eastern,KMGY,3/9/2016 6:53,55.9,Clear
+A-551,Source2,2,Accident on High St at Como Ave. Expect delays.,W Como Ave,Columbus,Franklin,OH,43202-1027,US,US/Eastern,KOSU,3/9/2016 6:53,55,Clear
+A-552,Source2,3,One lane blocked due to accident on I-71 Southbound at Exit 113 Silver Dr. Expect delays.,E Weber Rd,Columbus,Franklin,OH,43211,US,US/Eastern,KCMH,3/9/2016 7:51,54,Mostly Cloudy
+A-553,Source2,2,Accident on Liberty Ln at Valley Forge Ct.,Valley Forge Ct,Westerville,Franklin,OH,43081-2731,US,US/Eastern,KCMH,3/9/2016 7:51,54,Mostly Cloudy
+A-554,Source2,3,Accident on I-270 Outerbelt Northbound at Exits 17A 17B US-33 Columbus Marysville Rd. Expect delays.,Columbus Marysville Rd N,Dublin,Franklin,OH,43017,US,US/Eastern,KOSU,3/9/2016 8:53,63,Clear
+A-555,Source2,2,Accident on OH-16 Westbound at OH-79. Expect delays.,OH-79,Newark,Licking,OH,43055,US,US/Eastern,KVTA,3/9/2016 8:54,61,Clear
+A-556,Source2,2,Accident on Salem Ave at Detroit Ave.,Salem Ave,Dayton,Montgomery,OH,45416-1701,US,US/Eastern,KDAY,3/9/2016 9:56,64,Mostly Cloudy
+A-557,Source2,2,Accident on Falmouth Ave at Siebenthaler Ave.,W Siebenthaler Ave,Dayton,Montgomery,OH,45406-1536,US,US/Eastern,KDAY,3/9/2016 9:56,64,Mostly Cloudy
+A-558,Source2,2,Entry ramp closed due to accident on OH-315 Olentangy Fwy Northbound at Olentangy River Rd.,Olentangy River Rd,Columbus,Franklin,OH,43212,US,US/Eastern,KOSU,3/9/2016 9:53,63,Partly Cloudy
+A-559,Source2,2,Accident on Brown St at Stewart St.,E Stewart St,Dayton,Montgomery,OH,45409-2666,US,US/Eastern,KFFO,3/9/2016 10:58,66,Mostly Cloudy
+A-560,Source2,2,Accident on 3rd St at Bank St. Expect delays.,Bank St,Dayton,Montgomery,OH,45402-8401,US,US/Eastern,KFFO,3/9/2016 11:58,70.2,Scattered Clouds
+A-561,Source2,2,Accident on Wyoming St at Brown St.,Brown St,Dayton,Montgomery,OH,45409-2940,US,US/Eastern,KFFO,3/9/2016 11:58,70.2,Scattered Clouds
+A-562,Source2,2,Accident on OH-48 Far Hills Ave at Whipp Rd.,Far Hills Ave,Dayton,Montgomery,OH,45459-1923,US,US/Eastern,KMGY,3/9/2016 11:53,70,Partly Cloudy
+A-563,Source2,2,Accident on Keowee St at Helena St.,N Keowee St,Dayton,Montgomery,OH,45404-1546,US,US/Eastern,KFFO,3/9/2016 13:58,73,Mostly Cloudy
+A-564,Source2,2,Accident on US-35 Eastbound at Keowee St.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,3/9/2016 14:55,69.8,Light Rain Showers
+A-565,Source2,2,Accident on Bartley Rd at Dixie Dr.,N Dixie Dr,Dayton,Montgomery,OH,45414-3309,US,US/Eastern,KDAY,3/9/2016 14:56,66.9,Light Rain
+A-566,Source2,2,Accident on OH-48 Main St at Nottingham Rd.,W Nottingham Rd,Dayton,Montgomery,OH,45405-5210,US,US/Eastern,KDAY,3/9/2016 14:56,66.9,Light Rain
+A-567,Source2,3,Lane blocked due to accident on I-70 Westbound at Exit 59 OH-41 Charleston Pike.,S Charleston Pike,Springfield,Clark,OH,45505,US,US/Eastern,KSGH,3/10/2016 5:12,55.4,Overcast
+A-568,Source2,3,Accident on I-75 Northbound at Exit 50A Dryden Rd. Expect delays.,I-75 N,Dayton,Montgomery,OH,45439,US,US/Eastern,KMGY,3/10/2016 5:53,57,Overcast
+A-569,Source2,3,Two lanes blocked due to accident on I-70 Westbound at Exit 59 OH-41 Charleston Pike. Expect delays.,S Charleston Pike,Springfield,Clark,OH,45505,US,US/Eastern,KSGH,3/10/2016 5:56,55.9,Overcast
+A-570,Source2,3,Accident on I-75 Southbound before Exit 50A Dryden Rd. Expect delays.,I-75 N,Dayton,Montgomery,OH,45439,US,US/Eastern,KMGY,3/10/2016 6:53,59,Light Rain
+A-571,Source2,3,Accident on I-70 Westbound at Exits 112 112A 112B OH-256 Hill Rd. Expect delays.,Hill Rd N,Pickerington,Fairfield,OH,43147,US,US/Eastern,KLHQ,3/10/2016 6:53,59,Rain
+A-572,Source2,2,Accident on Durwood Rd at Rahn Rd.,Durwood Rd,Dayton,Montgomery,OH,45429-5902,US,US/Eastern,KMGY,3/10/2016 7:53,59,Overcast
+A-573,Source2,2,Accident on Ridge Ave at Glenwood Ave. Expect delays.,Ridge Ave,Dayton,Montgomery,OH,45405-3844,US,US/Eastern,KDAY,3/10/2016 7:39,57.9,Light Rain
+A-574,Source3,3,Two lanes blocked due to accident on I-75 Southbound at Exit 64 Northwoods Blvd. Expect delays.,Northwoods Blvd,Vandalia,Montgomery,OH,45377,US,US/Eastern,KDAY,3/10/2016 7:39,57.9,Light Rain
+A-575,Source2,2,Accident on Alkire Rd at Kunz Rd / Bausch Rd.,Kunz Rd,Galloway,Franklin,OH,43119-9569,US,US/Eastern,KTZR,3/10/2016 7:50,57.2,Light Rain
+A-576,Source2,2,Accident on Springfield St Northbound at Harshman Rd. Expect delays.,Harshman Rd,Dayton,Montgomery,OH,45431,US,US/Eastern,KFFO,3/10/2016 7:58,59.2,Overcast
+A-577,Source2,2,Accident on OH-132 State Route 132 at OH-32 State Route 32. Expect delays.,State Route 32,Batavia,Clermont,OH,45103,US,US/Eastern,KI69,3/10/2016 8:13,60.1,Overcast
+A-578,Source2,3,Accident on I-270 Outerbelt Northbound at Exit 26 I-71.,Outerbelt W,Columbus,Franklin,OH,43085,US,US/Eastern,KOSU,3/10/2016 8:49,57.2,Overcast
+A-579,Source2,3,Accident on I-70 Westbound at Exit 103B Alum Creek Dr. Expect delays.,East Fwy W,Columbus,Franklin,OH,43209,US,US/Eastern,KCMH,3/10/2016 9:51,59,Mostly Cloudy
+A-580,Source2,2,Accident on Gettysburg Ave at Prescott Ave.,Prescott Ave,Dayton,Montgomery,OH,45406-2435,US,US/Eastern,KDAY,3/10/2016 9:16,57.9,Light Rain
+A-581,Source2,2,Accident on Riverside Dr at Ridge Ave.,Ridge Ave,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,3/10/2016 9:56,57.9,Light Rain
+A-582,Source2,2,Accident on Saint Joseph Ave at Wyoming St.,Wyoming St,Dayton,Montgomery,OH,45410-2206,US,US/Eastern,KFFO,3/10/2016 9:45,59,Light Rain
+A-583,Source2,2,Accident on Austin Blvd at Springboro Pike.,Austin Blvd,Miamisburg,Montgomery,OH,45342,US,US/Eastern,KMGY,3/10/2016 9:53,59,Light Rain
+A-584,Source2,2,Accident on Valleycrest Dr at Valley St.,Valleycrest Dr,Dayton,Montgomery,OH,45404-2219,US,US/Eastern,KFFO,3/10/2016 10:38,60.8,Light Rain
+A-585,Source2,2,Accident on OH-4 Keowee St at OH-4 Valley St.,N Keowee St,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,3/10/2016 10:58,59.9,Light Rain
+A-586,Source2,3,Accident on I-71 Northbound at Exit 75 OH-38 State Route 38.,State Route 38 NE,Bloomingburg,Fayette,OH,43106,US,US/Eastern,KILN,3/10/2016 11:35,60.1,Rain
+A-587,Source2,3,Lane blocked on exit ramp due to accident on I-270 Outerbelt Southbound at Exit 8 I-70.,Outerbelt S,Columbus,Franklin,OH,43204,US,US/Eastern,KTZR,3/10/2016 11:50,59,Light Rain
+A-588,Source2,2,Accident on Radio Rd at Wright Ave.,N Wright Ave,Dayton,Montgomery,OH,45403-1639,US,US/Eastern,KFFO,3/10/2016 13:32,60.8,Light Rain
+A-589,Source2,3,Accident on I-70 at Exit 97 US-40 Broad St.,I-70 E,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,3/10/2016 14:50,60.8,Rain
+A-590,Source2,3,Accident on I-75 Northbound at Exit 56 Stanley Ave.,Stanley Ave,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,3/10/2016 14:58,60.8,Light Rain
+A-591,Source2,2,Accident on Hazel St at Circle Dr.,Circle Dr,Gallipolis,Gallia,OH,45631-8657,US,US/Eastern,K3I2,3/10/2016 15:30,66,Light Rain
+A-592,Source2,2,Accident on Wayne Ave at Anderson St.,Anderson St,Dayton,Montgomery,OH,45410-2101,US,US/Eastern,KFFO,3/10/2016 16:18,60.8,Light Rain
+A-593,Source2,3,Accident on I-670 Westbound at Exits 4C 5 5A 5B I-71 Innerbelt.,I-670 W,Columbus,Franklin,OH,43203,US,US/Eastern,KCMH,3/10/2016 15:51,60.1,Rain
+A-594,Source2,3,Accident on I-75 Northbound at Exit 41 Austin Blvd.,I-75 S,Miamisburg,Montgomery,OH,45342,US,US/Eastern,KMGY,3/10/2016 16:35,60.1,Light Rain
+A-595,Source2,2,Left lane blocked due to accident on OH-104 Frank Refugee Expy Eastbound at Alum Creek Dr.,Frank Refugee Expy,Columbus,Franklin,OH,43207,US,US/Eastern,KLCK,3/10/2016 18:15,58.5,Light Rain
+A-596,Source2,3,Right lane blocked due to accident on I-75 Southbound at Exit 56 Stanley Ave.,I-75 S,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,3/10/2016 18:58,57.6,Rain
+A-597,Source2,2,Accident on US-23 High St Northbound at US-23 High St.,S High St,Lockbourne,Franklin,OH,43137-9212,US,US/Eastern,KLCK,3/10/2016 19:15,58.6,Rain
+A-598,Source2,2,Delays due to accident and traffic signal failure on US-23 High St both ways at OH-665 Jackson St.,S High St,Lockbourne,Franklin,OH,43137,US,US/Eastern,KLCK,3/10/2016 20:15,56.5,Rain
+A-599,Source2,2,Accident on US-33 Long St at Neil Ave. Expect delays.,Neil Ave,Columbus,Franklin,OH,43215-2362,US,US/Eastern,KCMH,3/11/2016 4:51,46.9,Overcast
+A-600,Source2,3,Left hand shoulder blocked due to accident on I-70 Eastbound at Exit 94 Wilson Rd.,N Wilson Rd,Columbus,Franklin,OH,43204,US,US/Eastern,KTZR,3/11/2016 7:15,44.6,Mostly Cloudy
+A-601,Source2,2,Accident on OH-2 Eastbound at I-90. Expect delays.,OH-2 W,Elyria,Lorain,OH,44035,US,US/Eastern,KLPR,3/11/2016 7:33,37,Overcast
+A-602,Source2,3,Accident on I-80 Eastbound near Exit 118 US-250 US Highway 250. Expect delays.,US Highway 250 N,Milan,Erie,OH,44846,US,US/Eastern,KPCW,,,
+A-603,Source2,2,Accident on Berea Fwy Northbound at Exits 238 239 I-480. Expect delays.,Outerbelt South Fwy W,Cleveland,Cuyahoga,OH,44135,US,US/Eastern,KCLE,3/11/2016 7:51,37,Overcast
+A-604,Source2,2,Accident on OH-201 Brandt Pike at Harshman Rd / Needmore Rd.,Brandt Pike,Dayton,Montgomery,OH,45424,US,US/Eastern,KFFO,3/11/2016 7:58,45.5,Overcast
+A-605,Source2,2,Accident on Siebenthaler Ave at Philadelphia Dr. Expect delays.,W Siebenthaler Ave,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,3/11/2016 8:56,45,Overcast
+A-606,Source2,2,Accident on OH-48 Main St at McPherson St / White Allen Ave. Expect delays.,White Allen Ave,Dayton,Montgomery,OH,45405-4929,US,US/Eastern,KDAY,3/11/2016 8:56,45,Overcast
+A-607,Source2,2,Accident on Alex Bell Rd at Portsmouth Way.,Portsmouth Way,Dayton,Montgomery,OH,45459-7909,US,US/Eastern,KMGY,3/11/2016 8:53,46.9,Overcast
+A-608,Source2,2,Accident on Otterbein Ave at Kipling Dr.,Kipling Dr,Dayton,Montgomery,OH,45406-3915,US,US/Eastern,KDAY,3/11/2016 8:56,45,Overcast
+A-609,Source2,2,Accident on OH-202 Troy St at Chapel St.,Chapel St,Dayton,Montgomery,OH,45404-1809,US,US/Eastern,KFFO,3/11/2016 8:58,45.9,Overcast
+A-610,Source2,2,Accident on Burlington Ave at 1st St.,E 1st St,Dayton,Montgomery,OH,45403-1154,US,US/Eastern,KFFO,3/11/2016 9:28,46.4,Overcast
+A-611,Source2,2,Entry ramp closed due to accident on OH-315 Innerbelt Southbound at I-70.,South Fwy S,Columbus,Franklin,OH,43215,US,US/Eastern,KCMH,3/11/2016 9:51,45,Overcast
+A-612,Source2,3,Entry ramp closed due to accident on I-71 Northbound at Exit 106B I-70.,I-70 E,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,3/11/2016 9:50,46.4,Overcast
+A-613,Source2,2,Accident on Edwin C Moses Blvd at River Rd.,E River Rd,Moraine,Montgomery,OH,45439-1765,US,US/Eastern,KMGY,3/11/2016 9:53,46,Overcast
+A-614,Source2,2,Accident on OH-132 State Route 132 at Shiloh Rd. Expect delays.,State Route 132,Goshen,Clermont,OH,45122-9714,US,US/Eastern,KI69,3/11/2016 10:13,49.6,Overcast
+A-615,Source2,2,Accident on Keowee St at Dixie Dr / Embury Park Rd. Expect delays.,N Dixie Dr,Dayton,Montgomery,OH,45414-5602,US,US/Eastern,KDAY,3/11/2016 9:56,46,Overcast
+A-616,Source2,2,Entry ramp closed due to accident on Princeton Ave in Franklinton.,S Princeton Ave,Columbus,Franklin,OH,43223-2241,US,US/Eastern,KTZR,3/11/2016 10:50,48.2,Mostly Cloudy
+A-617,Source2,2,Entry ramp closed due to accident on US-40 Broad St at I-70.,W Broad St,Columbus,Franklin,OH,43223-1206,US,US/Eastern,KTZR,3/11/2016 10:50,48.2,Mostly Cloudy
+A-618,Source2,2,Accident on OH-725 Far Hills Ave at Elmwood Dr.,W Elmwood Dr,Dayton,Montgomery,OH,45459,US,US/Eastern,KMGY,3/11/2016 11:53,48.9,Mostly Cloudy
+A-619,Source2,2,Accident on OH-252 Lorain Rd near Westview Dr.,Lorain Rd,North Olmsted,Cuyahoga,OH,44070-2051,US,US/Eastern,KCLE,3/11/2016 11:51,37,Overcast
+A-620,Source2,4,Entry ramp closed due to accident on OH-104 Frank Rd Northbound at I-71.,Frank Rd,Columbus,Franklin,OH,43223,US,US/Eastern,KTZR,3/11/2016 12:50,51.8,Clear
+A-621,Source2,3,Delays and left lane closed due to accident on I-71 Innerbelt Southbound at Exit 108B I-670.,North Fwy S,Columbus,Franklin,OH,43201,US,US/Eastern,KCMH,3/11/2016 14:51,55,Overcast
+A-622,Source2,2,Accident on OH-315 Olentangy Fwy Southbound at Cannon Dr.,Olentangy Fwy N,Columbus,Franklin,OH,43212,US,US/Eastern,KOSU,3/11/2016 15:53,55.9,Clear
+A-623,Source2,3,Accident on I-670 Northeast Fwy Eastbound at Exit 9 International Gtwy. Approach with care.,Northeast Fwy N,Columbus,Franklin,OH,43219,US,US/Eastern,KCMH,3/11/2016 16:51,57,Mostly Cloudy
+A-624,Source2,3,Right lane blocked due to accident on I-270 Outerbelt Northbound at I-270 Outerbelt. Approach with care.,Outerbelt N,Dublin,Franklin,OH,43017,US,US/Eastern,KOSU,3/11/2016 16:53,57,Clear
+A-625,Source2,2,Accident on US-33 3rd St at Chapel St.,E Chapel St,Columbus,Franklin,OH,43215,US,US/Eastern,KCMH,3/11/2016 16:51,57,Mostly Cloudy
+A-626,Source2,3,Right lane blocked due to accident on I-71 Southbound at Exit 112 Hudson St.,North Fwy S,Columbus,Franklin,OH,43211,US,US/Eastern,KCMH,3/11/2016 16:51,57,Mostly Cloudy
+A-627,Source3,3,Right lane blocked due to accident on I-70 Westbound at Exits 91 91A 91B Hilliard Rome Rd.,Hilliard Rome Rd,Columbus,Franklin,OH,43228,US,US/Eastern,KTZR,3/11/2016 17:50,55.4,Clear
+A-628,Source3,3,L lane blocked due to accident on I-71 Southbound at Exit 113 Silver Dr.,North Fwy S,Columbus,Franklin,OH,43224,US,US/Eastern,KCMH,3/11/2016 18:51,51.1,Mostly Cloudy
+A-629,Source2,3,Left lane closed due to accident on I-480 Westbound at Exit 20A-B I-77.,Outerbelt South Fwy W,Independence,Cuyahoga,OH,44131,US,US/Eastern,KBKL,3/12/2016 6:53,35.1,Clear
+A-630,Source2,3,Right lane closed due to accident on I-77 I-76 before Exit 21A East Ave.,I-77 N,Akron,Summit,OH,44307,US,US/Eastern,KAKR,3/12/2016 10:54,57,Clear
+A-631,Source2,3,Lane blocked on exit ramp due to accident on I-270 Outerbelt Westbound at Exit 27 Cleveland Ave.,Outerbelt W,Columbus,Franklin,OH,43229,US,US/Eastern,KOSU,3/12/2016 11:53,59,Clear
+A-632,Source2,2,Accident on Nicholas Rd at Louella Ave.,Louella Ave,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,03/14/2016 04:24:00,57,Mostly Cloudy
+A-633,Source2,2,Accident on OH-232 State Route 232 at OH-756 State Route 756. Expect delays.,State Route 232,Moscow,Clermont,OH,45153-9709,US,US/Eastern,KI69,03/14/2016 06:13:00,56.7,Mostly Cloudy
+A-634,Source2,2,Accident on OH-741 State Route 741 near School Driveway. Expect delays.,School Driveway,Springboro,Warren,OH,45066,US,US/Eastern,KMGY,03/14/2016 07:05:00,55.9,Overcast
+A-635,Source2,2,Accident on Nottingham Rd at Daleview Ave.,E Nottingham Rd,Dayton,Montgomery,OH,45405-1642,US,US/Eastern,KDAY,03/14/2016 07:19:00,57,Overcast
+A-636,Source2,2,Accident on Livingston Ave at OH-317 Hamilton Rd. Expect delays.,S Hamilton Rd,Columbus,Franklin,OH,43227-2428,US,US/Eastern,KCMH,03/14/2016 07:28:00,57.2,Overcast
+A-637,Source2,2,Accident on Mason Morrow Millgrove Rd near Columbia Rd.,Columbia Rd,Mason,Warren,OH,45040-9634,US,US/Eastern,KHAO,03/14/2016 07:53:00,51.1,Fog
+A-638,Source2,2,Accident on Watervliet Ave at Westfield Ave / Rosemont Blvd.,Watervliet Ave,Dayton,Montgomery,OH,45420-2543,US,US/Eastern,KFFO,03/14/2016 07:58:00,57.4,Overcast
+A-639,Source2,2,Accident on OH-235 State Route 235 at Herr Rd.,State Route 235,Fairborn,Greene,OH,45324-9730,US,US/Eastern,KFFO,03/14/2016 07:58:00,57.4,Overcast
+A-640,Source2,2,Accident on Wilmington Ave at Firwood Dr.,Firwood Dr,Dayton,Montgomery,OH,45419,US,US/Eastern,KMGY,03/14/2016 08:07:00,55.9,Overcast
+A-641,Source2,2,Accident on OH-48 Main St at Cedarlawn Dr.,Cedarlawn Dr,Dayton,Montgomery,OH,45415-2902,US,US/Eastern,KDAY,03/14/2016 08:08:00,55.9,Overcast
+A-642,Source2,2,Accident on Snouffer Rd at Sawmill Rd. Expect delays.,Snouffer Rd,Dublin,Franklin,OH,43017,US,US/Eastern,KOSU,03/14/2016 07:53:00,57,Overcast
+A-643,Source2,2,Accident on Old State Route 32 near Lori Lynn Dr. Expect delays.,Old State Route 32,Batavia,Clermont,OH,45103,US,US/Eastern,KI69,03/14/2016 08:33:00,57.4,Overcast
+A-644,Source2,2,Accident on 3rd St at Abbey Ave.,Abbey Ave,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,03/14/2016 08:56:00,57,Overcast
+A-645,Source2,3,Accident on I-90 Westbound at Exits 145A 145B OH-57 Lorain Blvd. Expect delays.,Lorain Blvd,Elyria,Lorain,OH,44035,US,US/Eastern,KLPR,03/14/2016 08:53:00,57.9,Mostly Cloudy
+A-646,Source2,2,Accident on Yankee St at Lyons Rd.,Lyons Rd,Dayton,Montgomery,OH,45458-1881,US,US/Eastern,KMGY,03/14/2016 09:24:00,57.9,Scattered Clouds
+A-647,Source2,2,Accident on Frazee Ave at College Dr.,Frazee Ave,Bowling Green,Wood,OH,43402,US,US/Eastern,KTDZ,03/14/2016 08:53:00,57,Overcast
+A-648,Source2,2,Accident on Bridge St at Oxford Ave.,Oxford Ave,Dayton,Montgomery,OH,45406-4337,US,US/Eastern,KDAY,03/14/2016 09:35:00,57,Overcast
+A-649,Source2,2,Accident on Atchison Rd at Mallet Dr.,Mallet Dr,Dayton,Montgomery,OH,45458-9341,US,US/Eastern,KMGY,03/14/2016 09:24:00,57.9,Scattered Clouds
+A-650,Source2,2,Accident on Stanley Ave at I-75.,Stanley Ave,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,03/14/2016 10:58:00,60.8,Mostly Cloudy
+A-651,Source2,2,Accident on OH-48 Main St at Northwood Ave.,N Main St,Dayton,Montgomery,OH,45405-2406,US,US/Eastern,KDAY,03/14/2016 13:12:00,62.1,Rain
+A-652,Source2,3,Accident on I-75 Southbound at Exit 51 Edwin C Moses Blvd.,I-75 N,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,03/14/2016 13:33:00,61,Rain
+A-653,Source2,2,Accident on Smithville Rd at Wayne Ave.,Wayne Ave,Dayton,Montgomery,OH,45420,US,US/Eastern,KFFO,03/14/2016 14:58:00,65.8,Mostly Cloudy
+A-654,Source2,3,Accident on I-75 Northbound at Exit 44 OH-725 Miamisburg Centerville Rd. Approach with care.,I-75 N,Dayton,Montgomery,OH,45449,US,US/Eastern,KMGY,03/14/2016 16:53:00,66.9,Mostly Cloudy
+A-655,Source2,3,Left lane blocked due to accident on I-75 Northbound at Exit 44 OH-725 Miamisburg Centerville Rd.,I-75 N,Dayton,Montgomery,OH,45449,US,US/Eastern,KMGY,03/14/2016 17:53:00,66,Scattered Clouds
+A-656,Source2,3,Accident on I-70 Westbound at Exit 122 OH-158 Outville Rd. Expect delays.,I-70 W,Millersport,Licking,OH,43046,US,US/Eastern,KVTA,03/15/2016 05:54:00,55.9,Overcast
+A-657,Source2,2,Accident on Farr Dr at Stanley Ave.,Stanley Ave,Dayton,Montgomery,OH,45404-2731,US,US/Eastern,KFFO,03/15/2016 06:58:00,54.3,Overcast
+A-658,Source2,2,Accident on OH-161 New Albany Expy Westbound at Sunbury Rd.,Executive Pkwy,Westerville,Franklin,OH,43081-3850,US,US/Eastern,KCMH,03/15/2016 07:00:00,53.6,Haze
+A-659,Source2,2,Accident on Steele Ave at Clover St.,Steele Ave,Dayton,Montgomery,OH,45410-1845,US,US/Eastern,KFFO,03/15/2016 07:48:00,53.6,Overcast
+A-660,Source2,2,Accident on Linden Ave at Smithville Rd.,S Smithville Rd,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,03/15/2016 07:58:00,54.3,Overcast
+A-661,Source2,2,Accident on Sullivant Ave at Hague Ave.,Sullivant Ave,Columbus,Franklin,OH,43204-2413,US,US/Eastern,KTZR,03/15/2016 07:47:00,53.6,Overcast
+A-662,Source2,3,Left hand shoulder blocked due to accident on I-480 Westbound at Exit 20A-B I-77.,Outerbelt South Fwy W,Independence,Cuyahoga,OH,44131,US,US/Eastern,KBKL,03/15/2016 07:53:00,43,Light Rain
+A-663,Source2,2,Accident on Philadelphia Dr at Garvin Rd.,Philadelphia Dr,Dayton,Montgomery,OH,45405-1924,US,US/Eastern,KDAY,03/15/2016 08:27:00,53.1,Overcast
+A-664,Source2,2,Accident on Fairview Ave at Riverside Dr.,E Fairview Ave,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,03/15/2016 10:56:00,55,Overcast
+A-665,Source2,2,Accident on Wilmington Ave at Shadowlawn Ave.,Wilmington Ave,Dayton,Montgomery,OH,45420-1847,US,US/Eastern,KFFO,03/15/2016 12:28:00,60.8,Mostly Cloudy
+A-666,Source2,3,Accident on I-75 Northbound at Exit 51 Edwin C Moses Blvd.,I-75 N,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,03/15/2016 13:22:00,62.1,Scattered Clouds
+A-667,Source2,2,Accident on Riverside Dr at Shoup Mill Rd.,Shoup Mill Rd,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,03/15/2016 13:56:00,64.9,Partly Cloudy
+A-668,Source2,2,Accident on Maplelawn Dr at OH-48 Main St.,N Main St,Dayton,Montgomery,OH,45405-2703,US,US/Eastern,KDAY,03/15/2016 14:56:00,66.9,Scattered Clouds
+A-669,Source2,2,Accident on Patterson Blvd at OH-4 Monument Ave.,E Monument Ave,Dayton,Montgomery,OH,45402,US,US/Eastern,KFFO,03/15/2016 14:58:00,67.8,Clear
+A-670,Source2,2,Accident on Needmore Rd at Northcutt Pl.,Needmore Rd,Dayton,Montgomery,OH,45414-3801,US,US/Eastern,KDAY,03/15/2016 15:56:00,68,Partly Cloudy
+A-671,Source2,3,Accident on I-75 Northbound at Exit 56 Stanley Ave.,Stanley Ave,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,03/16/2016 04:58:00,63.1,Haze
+A-672,Source2,2,Accident on OH-16 Broad St at McNaughten Rd.,E Broad St,Columbus,Franklin,OH,43213-1572,US,US/Eastern,KCMH,03/16/2016 04:51:00,60.1,Overcast
+A-673,Source2,3,Accident on I-75 Northbound at Exits 54A 54B OH-4. Expect delays.,I-75 S,Dayton,Montgomery,OH,45404,US,US/Eastern,KFFO,03/16/2016 05:12:00,64.4,Mostly Cloudy
+A-674,Source2,2,Accident on County Hwy-314 New Carlisle Pike at Bischoff Rd.,New Carlisle Pike,New Carlisle,Clark,OH,45344-9778,US,US/Eastern,KFFO,03/16/2016 06:58:00,60.4,Scattered Clouds
+A-675,Source2,2,Accident on OH-48 Main St at Caldwell St / Media Center Way.,S Main St,Dayton,Montgomery,OH,45409-2547,US,US/Eastern,KFFO,03/16/2016 06:58:00,60.4,Scattered Clouds
+A-676,Source2,2,Accident on OH-161 New Albany Expy at I-270 Outerbelt. Expect delays.,New Albany Expy W,Westerville,Franklin,OH,43081,US,US/Eastern,KCMH,03/16/2016 06:51:00,64,Scattered Clouds
+A-677,Source2,2,Accident on Pleasant Hill Rd at Deblin Dr.,Deblin Dr,Milford,Clermont,OH,45150-2367,US,US/Eastern,KI69,03/16/2016 07:13:00,62.1,Scattered Clouds
+A-678,Source2,2,Accident on OH-256 Hill Rd Southbound at Turnberry Dr.,Hill Rd N,Pickerington,Fairfield,OH,43147-8891,US,US/Eastern,KLHQ,03/16/2016 06:53:00,64,Overcast
+A-679,Source2,2,Accident on Brown St at Wyoming St.,Brown St,Dayton,Montgomery,OH,45409-2940,US,US/Eastern,KFFO,03/16/2016 07:33:00,59,Overcast
+A-680,Source2,2,Accident on US-33 Westbound at Bixby Rd.,US-33 W,Groveport,Franklin,OH,43125,US,US/Eastern,KLCK,03/16/2016 07:35:00,61.2,Overcast
+A-681,Source2,3,Accident on I-270 Outerbelt Northbound at Exit 8 I-70. Expect delays.,Outerbelt N,Columbus,Franklin,OH,43204,US,US/Eastern,KTZR,03/16/2016 07:47:00,62.6,Overcast
+A-682,Source2,3,Accident on I-270 Outerbelt Northbound at I-270 Outerbelt. Expect delays.,Outerbelt N,Columbus,Franklin,OH,43228,US,US/Eastern,KTZR,03/16/2016 07:20:00,62.6,Overcast
+A-683,Source2,3,Accident on I-675 Northbound at OH-725 Miamisburg Centerville Rd / Leona Ln. Expect delays.,Miamisburg Centerville Rd,Dayton,Montgomery,OH,45459,US,US/Eastern,KMGY,03/16/2016 07:53:00,59,Overcast
+A-684,Source2,2,Accident on Grandview Ave at Goodale Blvd.,Goodale Blvd,Columbus,Franklin,OH,43212-3450,US,US/Eastern,KOSU,03/16/2016 08:53:00,59,Overcast
+A-685,Source2,2,Accident on Wilmington Ave at Patterson Rd.,Wilmington Ave,Dayton,Montgomery,OH,45420,US,US/Eastern,KFFO,03/16/2016 08:58:00,56.5,Partly Cloudy
+A-686,Source2,3,Accident on I-75 Southbound at Exit 54B Grand Ave. Expect delays.,N Main St,Dayton,Montgomery,OH,45405,US,US/Eastern,KDAY,03/16/2016 09:56:00,55,Partly Cloudy
+A-687,Source2,2,Entry ramp closed due to accident on US-36 State Route 37 at I-71.,E State Route 37,Sunbury,Delaware,OH,43074,US,US/Eastern,KDLZ,03/16/2016 10:39:00,57.2,Scattered Clouds
+A-688,Source2,3,Entry ramp closed due to incident on I-480 Eastbound at Exit 7 Clague Rd.,I-480 E,North Olmsted,Cuyahoga,OH,44070,US,US/Eastern,KCLE,03/16/2016 12:51:00,59,Scattered Clouds
+A-689,Source2,2,Accident on Wagner Ford Rd at Needmore Rd / Wagoner Ford Rd.,Wagner Ford Rd,Dayton,Montgomery,OH,45414,US,US/Eastern,KDAY,03/17/2016 03:56:00,42.1,Scattered Clouds
+A-690,Source2,2,Accident on US-35 at Keowee St / Wayne Ave.,US-35 E,Dayton,Montgomery,OH,45410,US,US/Eastern,KFFO,03/17/2016 06:58:00,37.8,Clear
+A-691,Source2,2,Accident on US-50 Main St at OH-132 Broadway St / Broadway St. Expect delays.,E Main St,Owensville,Clermont,OH,45160,US,US/Eastern,KI69,03/17/2016 07:13:00,46.8,Clear
+A-692,Source2,2,Accident on Cromwell Pl at Bennington Dr.,Cromwell Pl,Dayton,Montgomery,OH,45405-1708,US,US/Eastern,KDAY,03/17/2016 07:56:00,42.1,Clear
+A-693,Source2,2,Accident on Nutt Rd Southbound at Clyo Rd.,Clyo Rd,Dayton,Montgomery,OH,45458-9122,US,US/Eastern,KMGY,03/17/2016 07:53:00,43,Clear
+A-694,Source2,2,Accident on Clyo Rd at Washington Creek Ln.,Washington Creek Ln,Dayton,Montgomery,OH,45458-2806,US,US/Eastern,KMGY,03/17/2016 07:53:00,43,Clear
+A-695,Source2,2,Accident on Neil Ave at Vine St.,I-670 W,Columbus,Franklin,OH,43215,US,US/Eastern,KCMH,03/17/2016 07:51:00,45,Scattered Clouds
+A-696,Source2,2,Accident on US-33 Livingston Ave at Champion Ave.,E Livingston Ave,Columbus,Franklin,OH,43205-2831,US,US/Eastern,KCMH,03/17/2016 07:51:00,45,Scattered Clouds
+A-697,Source2,2,Accident on US-33 Livingston Ave at Champion Ave.,E Livingston Ave,Columbus,Franklin,OH,43205-2831,US,US/Eastern,KCMH,03/17/2016 08:51:00,48,Clear
+A-698,Source2,3,Accident on I-75 Northbound at Exit 51 Edwin C Moses Blvd.,I-75 N,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,03/17/2016 08:56:00,46.9,Clear
+A-699,Source2,2,Accident on Wayne Ave at Wyoming St.,Wayne Ave,Dayton,Montgomery,OH,45410-1427,US,US/Eastern,KFFO,03/17/2016 08:58:00,45.5,Clear
+A-700,Source2,2,Accident on Stewart St at OH-48 Main St.,S Main St,Dayton,Montgomery,OH,45409,US,US/Eastern,KFFO,03/17/2016 08:58:00,45.5,Clear
+A-701,Source2,2,Accident on Lyons Rd at Yankee St.,Lyons Rd,Dayton,Montgomery,OH,45458-1881,US,US/Eastern,KMGY,03/17/2016 08:53:00,48,Clear
+A-702,Source2,2,Accident on Victoria Ave at Colonial Village Ln.,Victoria Ave,Dayton,Montgomery,OH,45406-2741,US,US/Eastern,KDAY,03/17/2016 09:56:00,50,Partly Cloudy
+A-703,Source2,2,Accident on Perrine St near Johnson St.,Johnson St,Dayton,Montgomery,OH,45410-1345,US,US/Eastern,KFFO,03/17/2016 10:58:00,55,Clear
+A-704,Source2,2,Accident on Kings Hwy at Gettysburg Ave.,Kings Hwy,Dayton,Montgomery,OH,45406-3526,US,US/Eastern,KDAY,03/17/2016 10:56:00,54,Partly Cloudy
+A-705,Source2,2,Accident on Wagner Ford Rd at Needmore Rd.,Wagner Ford Rd,Dayton,Montgomery,OH,45414,US,US/Eastern,KDAY,03/17/2016 10:56:00,54,Partly Cloudy
+A-706,Source2,2,Accident on Weaver St at Dennison Ave.,Dennison Ave,Dayton,Montgomery,OH,45417-4503,US,US/Eastern,KDAY,03/17/2016 10:56:00,54,Partly Cloudy
+A-707,Source2,2,Accident on Philadelphia Dr at Hillcrest Ave.,Philadelphia Dr,Dayton,Montgomery,OH,45406,US,US/Eastern,KDAY,03/17/2016 10:56:00,54,Partly Cloudy
+A-708,Source2,2,Accident on Hornwood Dr at Philadelphia Dr.,Philadelphia Dr,Dayton,Montgomery,OH,45405-1955,US,US/Eastern,KDAY,03/17/2016 14:56:00,55,Scattered Clouds
+A-709,Source2,3,Left lane blocked due to accident on I-71 Southbound at Exit 104 OH-104 Frank Rd.,I-71 S,Grove City,Franklin,OH,43123,US,US/Eastern,KTZR,03/17/2016 17:50:00,57.2,Scattered Clouds
+A-710,Source2,3,Right lane blocked due to accident on I-71 Innerbelt Northbound at Exit 108B I-670.,North Fwy N,Columbus,Franklin,OH,43201,US,US/Eastern,KCMH,03/17/2016 19:51:00,52,Scattered Clouds
+A-711,Source2,2,Accident on Huffman Ave at Gondert Ave.,Huffman Ave,Dayton,Montgomery,OH,45403-3018,US,US/Eastern,KFFO,03/18/2016 03:58:00,38.3,Clear
+A-712,Source2,2,Accident on Rosemont Blvd at Woodbine Ave.,Rosemont Blvd,Dayton,Montgomery,OH,45420-2538,US,US/Eastern,KFFO,03/18/2016 06:58:00,39.7,Overcast
+A-713,Source2,2,Accident on OH-48 Dayton Lebanon Pike at Nutt Rd / Hibberd Dr.,Dayton Lebanon Pike,Dayton,Montgomery,OH,45458-5139,US,US/Eastern,KMGY,03/18/2016 06:53:00,37,Clear
+A-714,Source2,2,Accident on Edwin C Moses Blvd at Stewart St.,W Stewart St,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,03/18/2016 08:56:00,46,Scattered Clouds
+A-715,Source2,2,Accident on Cornell Dr at Wesleyan Rd.,Wesleyan Rd,Dayton,Montgomery,OH,45406-4250,US,US/Eastern,KDAY,03/18/2016 10:56:00,50,Scattered Clouds
+A-716,Source2,2,Accident on Washington Village Dr at Woodgrove Dr.,Washington Village Dr,Dayton,Montgomery,OH,45458-1843,US,US/Eastern,KMGY,03/18/2016 10:53:00,50,Clear
+A-717,Source2,2,Accident on Firwood Dr at Irving Ave.,Irving Ave,Dayton,Montgomery,OH,45419-4138,US,US/Eastern,KMGY,03/18/2016 11:53:00,51.1,Clear
+A-718,Source2,2,Accident on Gettysburg Ave at James H McGee Blvd.,N James H McGee Blvd,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,03/18/2016 11:56:00,52,Scattered Clouds
+A-719,Source2,2,Accident on Gettysburg Ave at James H McGee Blvd.,N James H McGee Blvd,Dayton,Montgomery,OH,45417,US,US/Eastern,KDAY,03/18/2016 13:56:00,55,Scattered Clouds
+A-720,Source2,3,Entry ramp closed due to emergency repairs on I-71 Northbound at Exit 131 US-36 State Route 37. Detour in operation.,I-71 N,Sunbury,Delaware,OH,43074,US,US/Eastern,KDLZ,03/18/2016 13:59:00,53.6,Clear
+A-721,Source2,2,Accident on OH-741 Springboro Pike at Carnation Rd.,Carnation Rd,Dayton,Montgomery,OH,45449-3053,US,US/Eastern,KMGY,03/18/2016 13:53:00,55.9,Clear
+A-722,Source2,2,Accident on Cobblegate Blvd at OH-741 Springboro Pike.,Lindbergh Blvd,Dayton,Montgomery,OH,45449-2735,US,US/Eastern,KMGY,03/18/2016 14:53:00,57,Clear
+A-723,Source2,2,Accident on Edwin C Moses Blvd at Washington St.,S Edwin C Moses Blvd,Dayton,Montgomery,OH,45402-8430,US,US/Eastern,KFFO,03/18/2016 14:51:00,55.4,Mostly Cloudy
+A-724,Source2,2,Accident on Brown St at Wyoming St.,Brown St,Dayton,Montgomery,OH,45409-2940,US,US/Eastern,KFFO,03/18/2016 15:58:00,55.8,Mostly Cloudy
+A-725,Source2,2,Accident on Lyons Rd at Yankee St.,Lyons Rd,Dayton,Montgomery,OH,45458-1881,US,US/Eastern,KMGY,03/18/2016 16:53:00,55.9,Clear
+A-726,Source2,3,Right lane blocked due to accident on I-71 Southbound at Exits 119 119A 119B I-270 Outerbelt.,North Fwy S,Westerville,Franklin,OH,43081,US,US/Eastern,KCMH,03/18/2016 16:51:00,53.1,Mostly Cloudy
+A-727,Source2,3,Right lane blocked due to accident on I-77 Northbound at Exit 136 OH-21.,I-77 N,Akron,Summit,OH,44321,US,US/Eastern,KAKR,03/18/2016 17:54:00,48.9,Mostly Cloudy
+A-728,Source2,2,Accident on US-42 US Highway 42 at US-42 US Highway 42.,US Highway 42 NE,London,Madison,OH,43140-9596,US,US/Eastern,KTZR,03/18/2016 17:50:00,51.8,Clear
+A-729,Source2,3,Right hand shoulder blocked due to accident on I-80 Westbound at Magazine St.,Magazine St,Vallejo,Solano,CA,94591,US,US/Pacific,KAPC,06/21/2016 10:54:00,75,Clear
+A-730,Source2,3,Accident on I-880 Northbound at Exit 26 Tennyson Rd.,I-880 N,Hayward,Alameda,CA,94544,US,US/Pacific,KHWD,06/21/2016 10:54:00,75,Clear
+A-731,Source2,2,Right lane blocked due to accident on CA-24 Westbound at I-680.,I-680 N,Walnut Creek,Contra Costa,CA,94595,US,US/Pacific,KCCR,06/21/2016 10:53:00,82.9,Clear
+A-732,Source2,3,#4 &amp; HOV lane blocked due to accident on I-280 Northbound before Exit 11 De Anza Blvd.,N De Anza Blvd,Cupertino,Santa Clara,CA,95014,US,US/Pacific,KNUQ,06/21/2016 10:56:00,75.9,Clear
+A-733,Source2,2,Right hand shoulder blocked due to accident on CA-85 Northbound at Exit 8 Camden Ave.,Norman Y Mineta Hwy,San Jose,Santa Clara,CA,95118,US,US/Pacific,KRHV,06/21/2016 09:50:00,75.2,Clear
+A-734,Source2,3,Accident on I-580 Westbound near I-580 Exit 45 / Dougherty Rd.,I-580 E,Pleasanton,Alameda,CA,94588,US,US/Pacific,KLVK,06/21/2016 10:53:00,82.9,Clear
+A-735,Source2,3,#1 lane blocked due to accident on I-280 Southbound at 10th St.,I-280 S,San Jose,Santa Clara,CA,95112,US,US/Pacific,KSJC,06/21/2016 09:53:00,73,Partly Cloudy
+A-736,Source2,3,Accident on I-280 Northbound at Geneva Ave.,John F Foran Fwy,San Francisco,San Francisco,CA,94112,US,US/Pacific,KSFO,06/21/2016 10:56:00,71.1,Partly Cloudy
+A-737,Source2,2,Right hand shoulder blocked due to accident on CA-24 Westbound near Wilder Rd.,CA-24 W,Orinda,Contra Costa,CA,94563,US,US/Pacific,KCCR,06/21/2016 10:53:00,82.9,Clear
+A-738,Source2,3,Left lane blocked due to accident on I-580 Westbound at Exit 51 Isabel Ave.,Isabel Ave,Livermore,Alameda,CA,94551,US,US/Pacific,KLVK,06/21/2016 10:53:00,82.9,Clear
+A-739,Source2,2,Right hand shoulder blocked due to accident on US-101 Northbound at Exit 481A Sierra Ave.,W Sierra Ave,Cotati,Sonoma,CA,94931,US,US/Pacific,KO69,06/21/2016 10:55:00,80.6,Clear
+A-740,Source2,2,Accident on CA-4 Westbound at CA-242.,CA-4 E,Concord,Contra Costa,CA,94520,US,US/Pacific,KCCR,06/21/2016 10:53:00,82.9,Clear
+A-741,Source2,3,#4 &amp; #5 lane blocked due to accident on I-580 Westbound at County Hwy-J2 Livermore Ave.,N Livermore Ave,Livermore,Alameda,CA,94551,US,US/Pacific,KLVK,06/21/2016 10:53:00,82.9,Clear
+A-742,Source2,2,#1 lane blocked due to accident on US-101 Northbound before Fair Oaks Ave.,US-101 N,Sunnyvale,Santa Clara,CA,94085,US,US/Pacific,KNUQ,06/21/2016 10:56:00,75.9,Clear
+A-743,Source2,3,#2 lane blocked due to accident on I-580 Westbound at Exit 47 / Tassajara Rd.,Tassajara Rd,Dublin,Alameda,CA,94568,US,US/Pacific,KLVK,06/21/2016 10:53:00,82.9,Clear
+A-744,Source2,2,#1 lane blocked due to accident on Power Inn Rd Northbound at Gerber Rd.,Gerber Rd,Sacramento,Sacramento,CA,95828,US,US/Pacific,KSAC,06/21/2016 10:53:00,86,Clear
+A-745,Source2,3,Multi-vehicle accident on I-80 Westbound at Exit 98 County Hwy-E14 Greenback Ln. On the median.,I-80 E,Sacramento,Sacramento,CA,95841,US,US/Pacific,KMCC,06/21/2016 11:15:00,86,Clear
+A-746,Source2,2,Accident on US-101 Northbound at Exit 394 / County Hwy-G2 Lawrence Expy.,Lawrence Expy,Sunnyvale,Santa Clara,CA,94085,US,US/Pacific,KNUQ,06/21/2016 10:56:00,75.9,Clear
+A-747,Source2,2,Accident a school bus involved on 37th Ave near International Blvd.,37th Ave,Oakland,Alameda,CA,94601-3438,US,US/Pacific,KOAK,06/21/2016 11:53:00,73.9,Partly Cloudy
+A-748,Source2,2,Right hand shoulder blocked due to accident on CA-237 Westbound near Exit 6 Great America Pkwy.,CA-237 W,Alviso,Santa Clara,CA,95002,US,US/Pacific,KNUQ,06/21/2016 11:56:00,82,Clear
+A-749,Source2,3,#2 lane blocked due to accident on I-880 Southbound at Exit 5 / Brokaw Rd.,E Brokaw Rd,San Jose,Santa Clara,CA,95131-2310,US,US/Pacific,KSJC,06/21/2016 11:53:00,84,Partly Cloudy
+A-750,Source2,3,Accident on I-580 Westbound at Exit 48 / El Charro Rd.,Fallon Rd,Pleasanton,Alameda,CA,94588,US,US/Pacific,KLVK,06/21/2016 11:53:00,88,Clear
+A-751,Source2,2,Accident on US-101 Northbound at Exit 366 Dunne Ave.,S Valley Fwy N,Morgan Hill,Santa Clara,CA,95037,US,US/Pacific,KE16,06/21/2016 11:35:00,86,Clear
+A-752,Source2,2,Right hand shoulder blocked due to accident on US-101 Northbound at Exit 479 Railroad Ave.,US-101 N,Petaluma,Sonoma,CA,94952,US,US/Pacific,KO69,06/21/2016 11:35:00,82.4,Clear
+A-753,Source2,3,Accident on I-680 Northbound at Toll Plaza.,I-680 N,Martinez,Contra Costa,CA,94553,US,US/Pacific,KCCR,06/21/2016 11:53:00,88,Clear
+A-754,Source2,2,Right hand shoulder blocked due to accident on US-101 Southbound after Exit 472A Kastania Rd.,Kastania Rd,Petaluma,Sonoma,CA,94952,US,US/Pacific,KO69,06/21/2016 11:55:00,84.2,Clear
+A-755,Source2,2,#2 lane blocked due to accident on US-101 Northbound at Exit 422 McDonnell Rd.,US-101 N,Millbrae,San Mateo,CA,94030,US,US/Pacific,KSFO,06/21/2016 11:56:00,75.9,Partly Cloudy
+A-756,Source2,3,Accident on I-80 Bus Capital City Fwy Westbound at CA-51.,I-80 W,North Highlands,Sacramento,CA,95660,US,US/Pacific,KMCC,06/21/2016 11:55:00,87.8,Clear
+A-757,Source2,3,Accident on I-880 Southbound at I-880 Exit 29 / A St.,I-880 N,Hayward,Alameda,CA,94541,US,US/Pacific,KHWD,06/21/2016 11:54:00,77,Clear
+A-758,Source2,3,Accident on I-580 Westbound at County Hwy-J2 Livermore Ave.,N Livermore Ave,Livermore,Alameda,CA,94551,US,US/Pacific,KLVK,06/21/2016 11:53:00,88,Clear
+A-759,Source2,2,Accident on US-101 Northbound after Windsor River Rd.,Redwood Hwy S,Windsor,Sonoma,CA,95492,US,US/Pacific,KSTS,06/21/2016 11:53:00,82.9,Clear
+A-760,Source2,3,Accident on I-680 Northbound at Exits 42A 42B Stone Valley Rd.,I-680 N,Alamo,Contra Costa,CA,94507,US,US/Pacific,KCCR,06/21/2016 11:53:00,88,Clear
+A-761,Source2,2,Accident on US-101 Northbound before Exit 365 Tennant Ave.,Tennant Ave,Morgan Hill,Santa Clara,CA,95037,US,US/Pacific,KE16,06/21/2016 12:35:00,89.6,Clear
+A-762,Source2,2,Accident on US-101 Northbound at Exit 362 San Martin Ave.,S Valley Fwy N,San Martin,Santa Clara,CA,95046,US,US/Pacific,KE16,06/21/2016 12:35:00,89.6,Clear
+A-763,Source2,2,Accident on US-101 Northbound before US-101 Exit 503 / Healdsburg Ave.,US-101 N,Healdsburg,Sonoma,CA,95448,US,US/Pacific,KSTS,06/21/2016 12:53:00,90,Partly Cloudy
+A-764,Source2,2,#1 lane blocked due to accident on US-101 Northbound near Exit 429A Harney Way.,US-101 N,Brisbane,San Mateo,CA,94005,US,US/Pacific,KSFO,06/21/2016 12:56:00,73,Partly Cloudy
+A-765,Source2,2,Right hand shoulder blocked due to accident on US-101 Northbound at US-101 Exit 402 / Embarcadero Rd.,Embarcadero Rd,Palo Alto,Santa Clara,CA,94303,US,US/Pacific,KPAO,06/21/2016 12:47:00,82.4,Clear
+A-766,Source2,3,#1 lane blocked due to accident on US-101 Southbound at Silver Ave.,Silver Ave,San Francisco,San Francisco,CA,94134-1230,US,US/Pacific,KSFO,06/21/2016 12:56:00,73,Partly Cloudy
+A-767,Source2,2,Slow lane blocked due to accident on US-101 Southbound at Exit 432 / Cesar Chavez.,Cesar Chavez St,San Francisco,San Francisco,CA,94107,US,US/Pacific,KOAK,06/21/2016 12:53:00,77,Partly Cloudy
+A-768,Source2,3,#1 lane blocked due to accident on I-880 Southbound before Dixon Landing Rd.,Dixon Landing Rd,Milpitas,Santa Clara,CA,95035,US,US/Pacific,KSJC,06/21/2016 12:53:00,87.1,Partly Cloudy
+A-769,Source2,3,Right hand shoulder blocked due to accident on I-880 Southbound at Exit 7 / County Hwy-G4 Montague Expy.,Montague Expy,San Jose,Santa Clara,CA,95131,US,US/Pacific,KSJC,06/21/2016 12:53:00,87.1,Partly Cloudy
+A-770,Source2,3,Accident on I-80 Eastbound at Exit 78 Chiles Rd.,I-80 E,Davis,Yolo,CA,95618,US,US/Pacific,KEDU,06/21/2016 12:55:00,91.4,Clear
+A-771,Source2,3,Accident on I-80 Westbound at Exits 8A 8B I-880.,I-80 W,Oakland,Alameda,CA,94607,US,US/Pacific,KOAK,06/21/2016 12:53:00,77,Partly Cloudy
+A-772,Source2,3,Accident on I-580 Westbound at Exit 22B Beaumont Ave.,Beaumont Ave,Oakland,Alameda,CA,94602,US,US/Pacific,KOAK,06/21/2016 12:53:00,77,Partly Cloudy
+A-773,Source2,3,Accident on I-880 Southbound at I-280.,I-280 S,San Jose,Santa Clara,CA,95128,US,US/Pacific,KSJC,06/21/2016 12:53:00,87.1,Partly Cloudy
+A-774,Source2,2,Accident on CA-99 Southbound at CA-99 Exit 283 / Eschinger Rd. On exit ramp.,CA-99 S,Elk Grove,Sacramento,CA,95757,US,US/Pacific,KSAC,06/21/2016 12:53:00,91.9,Clear
+A-775,Source2,3,Very slow traffic and shoulder blocked on exit ramp due to accident on I-80 Eastbound at I-80 Exit 75 / Mace Blvd.,I-80 E,Davis,Yolo,CA,95618,US,US/Pacific,KEDU,06/21/2016 13:35:00,93.2,Clear
+A-776,Source2,2,Accident on Marconi Ave near Fulton Ave.,Marconi Ave,Sacramento,Sacramento,CA,95821-5105,US,US/Pacific,KMCC,06/21/2016 13:15:00,91.4,Clear
+A-777,Source2,2,Accident on CA-92 San Mateo Rd Westbound at Pilarcitos Creek Rd.,San Mateo Rd,Half Moon Bay,San Mateo,CA,94019-7106,US,US/Pacific,KHAF,06/21/2016 13:35:00,60.8,Haze
+A-778,Source2,2,Accident on US-101 Southbound at Exits 404A 404B CA-114 Willow Rd.,Bayshore Fwy S,Menlo Park,San Mateo,CA,94025,US,US/Pacific,KPAO,06/21/2016 13:47:00,80.6,Clear
+A-779,Source2,2,Slow traffic due to accident on Calvine Rd both ways at Elk Grove Florin Rd.,Calvine Rd,Elk Grove,Sacramento,CA,95624,US,US/Pacific,KSAC,06/21/2016 13:53:00,93.9,Clear
+A-780,Source2,3,Accident on I-580 Westbound at Exit 63 Grant Line Rd.,I-580 W,Tracy,Alameda,CA,95377,US,US/Pacific,KLVK,06/21/2016 13:53:00,93.9,Clear
+A-781,Source2,2,Accident on Coyle Ave Westbound near St Charles Dr.,Coyle Ave,Carmichael,Sacramento,CA,95608-0307,US,US/Pacific,KMCC,06/21/2016 13:55:00,93.2,Clear
+A-782,Source2,3,Accident on I-880 Southbound at Exit 40 16th Ave.,Nimitz Fwy S,Oakland,Alameda,CA,94606,US,US/Pacific,KOAK,06/21/2016 13:53:00,79,Partly Cloudy
+A-783,Source2,2,Accident on Auburn Folsom Rd Southbound near Moss Ln.,Auburn Folsom Rd,Granite Bay,Placer,CA,95746-5879,US,US/Pacific,KMCC,06/21/2016 13:55:00,93.2,Clear
+A-784,Source2,3,Accident on I-880 Southbound at Exit 24 Whipple Rd.,Nimitz Fwy S,Union City,Alameda,CA,94587,US,US/Pacific,KHWD,06/21/2016 13:54:00,82.9,Clear
+A-785,Source2,3,Very slow traffic due to accident on I-80 Eastbound near Exit 73 Olive Dr.,I-80 E,Davis,Yolo,CA,95618,US,US/Pacific,KEDU,06/21/2016 14:15:00,93.2,Clear
+A-786,Source2,2,Accident on Concord Ave at Contra Costa Blvd.,Contra Costa Blvd,Pleasant Hill,Contra Costa,CA,94523-1203,US,US/Pacific,KCCR,06/21/2016 14:53:00,98.1,Clear
+A-787,Source2,2,Accident on US-101 Southbound at Exits 385A 385B I-680.,I-680 N,San Jose,Santa Clara,CA,95122,US,US/Pacific,KRHV,06/21/2016 14:55:00,93.2,Clear
+A-788,Source2,2,Accident on US-101 Northbound at Exit 414B CA-92.,US-101 N,San Mateo,San Mateo,CA,94403,US,US/Pacific,KSQL,06/21/2016 14:50:00,84.2,Partly Cloudy
+A-789,Source2,3,Accident on I-280 Northbound at Exit 53 Alemany Blvd.,John F Foran Fwy,San Francisco,San Francisco,CA,94134,US,US/Pacific,KSFO,06/21/2016 14:56:00,71.1,Partly Cloudy
+A-790,Source2,3,Accident on CA-24 Westbound at Exit 6 Caldecott Ln.,CA-24 W,Oakland,Alameda,CA,94618,US,US/Pacific,KOAK,06/21/2016 14:53:00,77,Partly Cloudy
+A-791,Source2,2,Accident on CA-242 Southbound at Exit 2 Grant St.,CA-242 S,Concord,Contra Costa,CA,94520,US,US/Pacific,KCCR,06/21/2016 14:53:00,98.1,Clear
+A-792,Source2,2,Slow traffic due to accident on White Rock Rd Eastbound at County Hwy-E2 Sunrise Blvd.,Sunrise Blvd,Rancho Cordova,Sacramento,CA,95742,US,US/Pacific,KMHR,06/21/2016 14:46:00,96.8,Clear
+A-793,Source2,2,Accident on CA-49 at Tyler Foote Rd.,State Highway 49,Nevada City,Nevada,CA,95959-9307,US,US/Pacific,KGOO,06/21/2016 15:05:00,87.8,Clear
+A-794,Source2,2,Accident on Gerber Rd at Reese Rd.,Reese Rd,Sacramento,Sacramento,CA,95828-3722,US,US/Pacific,KSAC,06/21/2016 15:53:00,97,Clear
+A-795,Source2,3,Accident on US-101 Southbound at Exit 403 Donohoe St.,Bayshore Fwy S,Palo Alto,San Mateo,CA,94303,US,US/Pacific,KPAO,06/21/2016 15:47:00,78.8,Clear
+A-796,Source2,3,Accident on I-80 Westbound at Exit 59 Meridian Rd.,I-80 W,Vacaville,Solano,CA,95687,US,US/Pacific,KVCB,06/21/2016 15:53:00,99,Clear
+A-797,Source2,2,Slow traffic due to accident on Douglas Blvd Southbound near Eureka Rd.,Douglas Blvd,Roseville,Placer,CA,95661,US,US/Pacific,KMCC,06/21/2016 15:55:00,95,Clear
+A-798,Source2,2,Accident on Isleton Rd at Andrus Island Rd.,Isleton Rd,Isleton,Sacramento,CA,95641-9701,US,US/Pacific,KSUU,06/21/2016 15:58:00,96.8,Clear
+A-799,Source2,3,Queueing traffic due to accident on I-5 Southbound at Exit 528 Airport Blvd.,CA-16 E,Sacramento,Sacramento,CA,95837,US,US/Pacific,KSMF,06/21/2016 16:53:00,97,Clear
+A-800,Source2,2,Accident on US-50 Westbound at Exit 13 Bradshaw Rd.,Bradshaw Rd,Sacramento,Sacramento,CA,95827,US,US/Pacific,KMHR,06/21/2016 17:45:00,98.6,Clear
+A-801,Source2,2,Lane blocked on exit ramp due to accident on CA-65 Northbound at Exit 313 Twelve Bridges Dr.,CA-65 N,Lincoln,Placer,CA,95648,US,US/Pacific,KLHM,06/21/2016 18:55:00,96.8,Clear
+A-802,Source2,3,Lane closed on exit ramp due to accident on I-5 Northbound at Exits 518 519A CA-99 CA-16.,I-5 N,Sacramento,Sacramento,CA,95818,US,US/Pacific,KSAC,06/21/2016 18:53:00,93.9,Clear
+A-803,Source2,2,Accident on Pleasant Valley Rd at Hinman Aly.,Pleasant Valley Rd,El Dorado,El Dorado,CA,95623-4232,US,US/Pacific,KPVF,06/21/2016 19:15:00,86,Clear
+A-804,Source2,2,Accident on US-101 Northbound at Exits 449 449A Tamalpais Dr.,US-101 N,Corte Madera,Marin,CA,94925,US,US/Pacific,KDVO,06/21/2016 19:35:00,77,Clear
+A-805,Source2,3,Accident on I-880 Southbound at Exit 31B Washington Ave.,I-880 N,San Leandro,Alameda,CA,94578,US,US/Pacific,KHWD,06/21/2016 19:54:00,66,Clear
+A-806,Source2,3,Accident on I-680 Northbound at Exit 36 Crow Canyon Rd.,I-680 N,Danville,Contra Costa,CA,94526,US,US/Pacific,KCCR,06/21/2016 19:53:00,84,Clear
+A-807,Source2,2,Accident on CA-17 Southbound at Exits 21 22 Lark Ave.,CA-17 S,Los Gatos,Santa Clara,CA,95032,US,US/Pacific,KSJC,06/21/2016 19:53:00,73,Clear
+A-808,Source2,3,Lane blocked due to accident on I-580 Eastbound at Exit 45 Hopyard Rd.,I-580 E,Pleasanton,Alameda,CA,94588,US,US/Pacific,KLVK,06/21/2016 19:53:00,80.1,Clear
+A-809,Source2,2,Accident on US-101 Golden Gate Brg Southbound at Exit 439 Transit Transfer Facility.,Golden Gate Brg S,San Francisco,San Francisco,CA,94129,US,US/Pacific,KSFO,06/21/2016 19:56:00,61,Partly Cloudy
+A-810,Source2,3,Accident on I-580 Eastbound at Exit 36 Redwood Rd.,I-580 E,Castro Valley,Alameda,CA,94546,US,US/Pacific,KHWD,06/21/2016 19:54:00,66,Clear
+A-811,Source2,3,Two lanes blocked due to accident on I-205 Westbound at I-5.,I-205 W,Tracy,San Joaquin,CA,95304,US,US/Pacific,KSCK,06/21/2016 19:55:00,88,Clear
+A-812,Source2,3,Accident on I-580 Eastbound at Exit 51 Isabel Ave.,I-580 E,Livermore,Alameda,CA,94551,US,US/Pacific,KLVK,06/21/2016 19:53:00,80.1,Clear
+A-813,Source2,3,Right hand shoulder blocked due to accident on I-5 Northbound at Exit 471 Charter Way.,I-5 N,Stockton,San Joaquin,CA,95206,US,US/Pacific,KSCK,06/21/2016 20:55:00,81,Clear
+A-814,Source2,2,Lane blocked due to accident on US-101 Main St Northbound at Mendocino Ave.,E Mendocino Ave,Willits,Mendocino,CA,95490-3554,US,US/Pacific,KUKI,06/21/2016 20:56:00,78.1,Clear
+A-815,Source2,2,Accident on US-50 Eastbound at Exit 7 Stockton Blvd.,El Dorado Fwy E,Sacramento,Sacramento,CA,95819,US,US/Pacific,KSAC,06/21/2016 20:53:00,80.1,Clear
+A-816,Source2,3,Accident on I-80 Eastbound at Exits 103 103A 103B Sunrise Ave.,I-80 E,Roseville,Placer,CA,95661,US,US/Pacific,KMCC,06/21/2016 21:35:00,80.6,Clear
+A-817,Source2,3,Accident on I-80 Eastbound at Exits 103 103A 103B Sunrise Ave.,I-80 E,Roseville,Placer,CA,95661,US,US/Pacific,KMCC,06/21/2016 21:35:00,80.6,Clear
+A-818,Source2,2,Accident on County Hwy-E3 Sierra College Blvd at Douglas Blvd.,Douglas Blvd,Granite Bay,Placer,CA,95746,US,US/Pacific,KMCC,06/21/2016 21:35:00,80.6,Clear
+A-819,Source2,2,Accident on US-101 Northbound at Exit 492 Mendocino Ave.,US-101 N,Santa Rosa,Sonoma,CA,95403,US,US/Pacific,KSTS,06/21/2016 21:53:00,59,Clear
+A-820,Source2,3,Accident on I-280 Southbound at Exit 16 El Monte Rd.,I-280 S,Los Altos,Santa Clara,CA,94022,US,US/Pacific,KNUQ,06/21/2016 21:56:00,64,Clear
+A-821,Source2,3,Accident on I-280 Northbound at Exits 4 5A Parkmoor Ave.,Sinclair Fwy N,San Jose,Santa Clara,CA,95126,US,US/Pacific,KSJC,06/21/2016 21:53:00,64.9,Clear
+A-822,Source2,2,Accident on Martin Dr Eastbound at Ellison Ln.,Martin Dr,Richmond,Contra Costa,CA,94801-1702,US,US/Pacific,KCCR,06/21/2016 22:53:00,72,Clear
+A-823,Source2,3,Accident on I-80 Eastbound at Exit 69 Kidwell Rd.,CA-113 N,Dixon,Solano,CA,95620,US,US/Pacific,KEDU,06/21/2016 22:55:00,69.8,Clear
+A-824,Source2,2,Accident on CA-99 El Centro Blvd Southbound at Exit 309 Elverta Rd.,W Elverta Rd,Sacramento,Sacramento,CA,95836,US,US/Pacific,KSMF,06/21/2016 23:53:00,71.1,Clear
+A-825,Source2,3,Two lanes blocked due to accident on I-580 Westbound at Exits 34 35 I-238. On the median.,I-580 W,Hayward,Alameda,CA,94541,US,US/Pacific,KHWD,06/22/2016 00:54:00,59,Clear
+A-826,Source2,2,Single alternate line traffic due to serious accident on CA-49 Southbound at Broad St.,State Highway 49,Nevada City,Nevada,CA,95959,US,US/Pacific,KGOO,06/22/2016 00:25:00,73.4,Clear
+A-827,Source2,2,Accident on CA-20 at Foothill Dr.,Foothill Dr,Nice,Lake,CA,95464,US,US/Pacific,KUKI,06/22/2016 00:56:00,64,Clear
+A-828,Source2,3,Lane blocked due to accident on I-880 Southbound at Exit 40 16th Ave.,Nimitz Fwy S,Oakland,Alameda,CA,94606,US,US/Pacific,KOAK,06/22/2016 01:53:00,57.9,Partly Cloudy
+A-829,Source2,2,Right hand shoulder blocked due to accident on CA-4 Eastbound at Exit 29 Hillcrest Ave.,CA-4 E,Antioch,Contra Costa,CA,94509,US,US/Pacific,KCCR,06/22/2016 01:53:00,62.1,Clear
+A-830,Source2,2,Lane blocked due to accident on Howell Mountain Rd both ways at Falls Rd.,Howell Mountain Rd S,Angwin,Napa,CA,94508-9650,US,US/Pacific,KSTS,06/22/2016 01:53:00,52,Clear
+A-831,Source2,3,Right hand shoulder blocked due to accident on I-680 Northbound at Exit 48 Sunnyvale Ave.,I-680 S,Walnut Creek,Contra Costa,CA,94597,US,US/Pacific,KCCR,06/22/2016 01:53:00,62.1,Clear
+A-832,Source2,3,Right lane blocked due to accident and vehicles spun around on I-680 Northbound at Exits 1B 1C Jackson Ave.,I-680 N,San Jose,Santa Clara,CA,95116,US,US/Pacific,KRHV,06/22/2016 07:47:00,64.4,Clear
+A-833,Source2,2,Right hand shoulder blocked due to accident on CA-87 Guadalupe Fwy Southbound at County Hwy-G8 Almaden Expy.,Almaden Expy,San Jose,Santa Clara,CA,95125,US,US/Pacific,KSJC,06/22/2016 03:53:00,59,Clear
+A-834,Source2,3,One lane blocked due to accident on I-80 Eastbound at Exit 4A Treasure Is.,San Francisco-Oakland Bay Brg E,San Francisco,San Francisco,CA,94130,US,US/Pacific,KOAK,06/22/2016 04:53:00,55.9,Mostly Cloudy
+A-835,Source2,2,Accident on Princeton St both ways at Bianca Ln.,Princeton St,Hayward,Alameda,CA,94541-3811,US,US/Pacific,KHWD,06/22/2016 05:54:00,57,Partly Cloudy
+A-836,Source2,3,Accident on I-880 Southbound at Exit 19 CA-84 Thornton Ave.,Nimitz Fwy S,Newark,Alameda,CA,94560,US,US/Pacific,KPAO,06/22/2016 06:47:00,57.2,Haze
+A-837,Source2,2,Right hand shoulder blocked due to accident on US-101 Redwood Hwy Southbound at US-101 Redwood Hwy.,Redwood Hwy S,Novato,Marin,CA,94945,US,US/Pacific,KDVO,06/22/2016 06:55:00,50,Clear
+A-838,Source2,2,Shoulder blocked on exit ramp due to accident on US-101 Northbound at Exits 419A 419B Bayshore Hwy.,US-101 N,Burlingame,San Mateo,CA,94010,US,US/Pacific,KSFO,06/22/2016 06:56:00,55.9,Partly Cloudy
+A-839,Source2,3,Right hand shoulder blocked due to accident on I-5 Southbound at Exits 521 521A Garden Hwy.,Garden Hwy,Sacramento,Sacramento,CA,95833,US,US/Pacific,KMCC,06/22/2016 07:15:00,64.4,Clear
+A-840,Source2,3,#6 lane blocked and right hand shoulder blocked due to accident on I-680 Southbound after Exit 20 Andrade Rd.,Andrade Rd,Sunol,Alameda,CA,94586,US,US/Pacific,KLVK,06/22/2016 07:53:00,62.1,Clear
+A-841,Source2,2,Fuel spillage on Greenstone Rd at Studebaker Rd.,Greenstone Rd,Placerville,El Dorado,CA,95667-8245,US,US/Pacific,KPVF,06/22/2016 08:35:00,77,Clear
+A-842,Source2,3,Right hand shoulder blocked due to accident on I-80 Westbound near Exits 43 44A Abernathy Rd.,Abernathy Rd,Fairfield,Solano,CA,94534,US,US/Pacific,KAPC,06/22/2016 08:54:00,62.1,Clear
+A-843,Source2,2,Accident on Graham Hill Rd at Lockewood Ln.,Graham Hill Rd,Scotts Valley,Santa Cruz,CA,95066-4304,US,US/Pacific,KWVI,06/22/2016 09:14:00,57,Overcast
+A-844,Source2,3,Left lane blocked due to accident on I-580 Eastbound after Exit 55 Vasco Rd.,I-580 E,Livermore,Alameda,CA,94551,US,US/Pacific,KLVK,06/22/2016 08:53:00,66,Clear
+A-845,Source2,2,One lane blocked due to accident on CA-26 at Wimer Rd.,N Wimer Rd,Linden,San Joaquin,CA,95236-9425,US,US/Pacific,KSCK,06/22/2016 09:55:00,80.1,Clear
+A-846,Source2,2,Accident on Cabrillo Ave at County Hwy-G2 Lawrence Expy.,Cabrillo Ave,Santa Clara,Santa Clara,CA,95051,US,US/Pacific,KSJC,06/22/2016 09:53:00,70,Clear
+A-847,Source2,3,#2 &amp; #3 lane blocked due to accident on I-80 Westbound at I-80 Exit 20 / Richmond Pkwy.,Richmond Pkwy,San Pablo,Contra Costa,CA,94806,US,US/Pacific,KCCR,06/22/2016 09:53:00,72,Clear
+A-848,Source2,3,Middle lane blocked due to accident on I-80 Westbound before Exit 22 Pinole Valley Rd.,Pinole Valley Rd,Pinole,Contra Costa,CA,94564,US,US/Pacific,KCCR,06/22/2016 09:53:00,72,Clear
+A-849,Source2,2,Right hand shoulder blocked due to accident on CA-84 Woodside Rd Northbound before Exit 408 / CA-84 Woodside Rd.,Woodside Rd,Redwood City,San Mateo,CA,94063,US,US/Pacific,KSQL,06/22/2016 09:47:00,66.2,Partly Cloudy
+A-850,Source2,2,Accident on US-50 Eastbound at Exit 15 Mather Field Rd.,US-50 E,Rancho Cordova,Sacramento,CA,95670,US,US/Pacific,KMHR,06/22/2016 09:45:00,73.4,Clear
+A-851,Source2,3,Right hand shoulder blocked due to accident on I-880 Southbound at Exit 23 Alvarado Niles Rd.,Alvarado Niles Rd,Union City,Alameda,CA,94587,US,US/Pacific,KHWD,06/22/2016 09:54:00,61,Partly Cloudy
+A-852,Source2,2,Accident on CA-4 Eastbound near CA-242.,CA-4 E,Concord,Contra Costa,CA,94520,US,US/Pacific,KCCR,06/22/2016 09:53:00,72,Clear
+A-853,Source2,3,Accident on I-580 Westbound near I-680.,I-580 W,Dublin,Alameda,CA,94568,US,US/Pacific,KLVK,06/22/2016 09:53:00,70,Clear
+A-854,Source2,3,#1 &amp; #2 lane blocked due to accident on I-80 Westbound at Greenback Ln.,I-80 W,Sacramento,Sacramento,CA,95841,US,US/Pacific,KMCC,06/22/2016 10:15:00,75.2,Clear
+A-855,Source2,2,Slow lane blocked due to accident on CA-92 Half Moon Bay Rd Eastbound at Canada Rd.,Canada Rd,Redwood City,San Mateo,CA,94062,US,US/Pacific,KSQL,06/22/2016 10:47:00,66.2,Partly Cloudy
+A-856,Source2,2,Accident on Blanco Rd at Davis Rd.,W Blanco Rd,Salinas,Monterey,CA,93901,US,US/Pacific,KSNS,06/22/2016 09:53:00,64,Clear
+A-857,Source2,3,Accident on I-880 Northbound at Broadway.,I-880 S,Oakland,Alameda,CA,94607,US,US/Pacific,KOAK,06/22/2016 10:53:00,61,Mostly Cloudy
+A-858,Source2,3,Right hand shoulder blocked due to accident on I-5 Northbound at Exit 515 Seamas Ave.,I-5 N,Sacramento,Sacramento,CA,95822,US,US/Pacific,KSAC,06/22/2016 10:53:00,77,Clear
+A-859,Source2,2,Right hand shoulder blocked due to accident on US-101 Redwood Hwy Southbound at Ignacio Blvd.,US-101 S,Novato,Marin,CA,94949,US,US/Pacific,KDVO,06/22/2016 10:55:00,69.8,Clear
+A-860,Source2,2,Slow lane blocked due to accident on CA-37 Sears Point Rd Westbound at CA-121 Arnold Dr.,Sears Point Rd,Petaluma,Sonoma,CA,94954,US,US/Pacific,KO69,06/22/2016 10:55:00,68,Clear
+A-861,Source2,3,Middle lane blocked due to accident on I-80 Westbound at Exit 14B Carlson Blvd.,I-80 E,Richmond,Contra Costa,CA,94804,US,US/Pacific,KCCR,06/22/2016 10:53:00,75,Clear
+A-862,Source2,2,Gore point obstructed due to accident on CA-24 Westbound after Exit 7A / Fish Ranch Rd.,Fish Ranch Rd,Orinda,Contra Costa,CA,94563,US,US/Pacific,KCCR,06/22/2016 10:53:00,75,Clear
+A-863,Source2,2,Accident on Old San Jose Rd at Oneill Ln.,Old San Jose Rd,Soquel,Santa Cruz,CA,95073,US,US/Pacific,KWVI,06/22/2016 10:53:00,66.9,Clear
+A-864,Source2,2,Accident on Lighthouse Ave at Reeside Ave.,Reeside Ave,Monterey,Monterey,CA,93940-1809,US,US/Pacific,KMRY,06/22/2016 10:54:00,57.9,Scattered Clouds
+A-865,Source2,3,Right hand shoulder blocked due to accident on I-580 Westbound after Airway Blvd.,Airway Blvd,Livermore,Alameda,CA,94551,US,US/Pacific,KLVK,06/22/2016 10:53:00,75,Clear
+A-866,Source2,2,Accident on Blanco Rd at Hitchcock Rd.,W Blanco Rd,Salinas,Monterey,CA,93908-9235,US,US/Pacific,KSNS,06/22/2016 10:53:00,63,Clear
+A-867,Source2,3,Accident on I-80 Eastbound near Georgia St.,Georgia St,Vallejo,Solano,CA,94590,US,US/Pacific,KAPC,06/22/2016 10:54:00,69.1,Clear
+A-868,Source2,3,Right hand shoulder blocked and slow lane blocked due to accident on I-680 Southbound before Mission Blvd.,I-680 S,Fremont,Alameda,CA,94539,US,US/Pacific,KNUQ,06/22/2016 10:56:00,66.9,Clear
+A-869,Source2,3,#3 &amp; #4 lane blocked due to accident on I-680 Southbound before Exit 8 / CA-237.,E Calaveras Blvd,Milpitas,Santa Clara,CA,95035,US,US/Pacific,KSJC,06/22/2016 10:53:00,72,Clear
+A-870,Source2,3,Accident and spillage on I-680 Southbound after CA-84 Calaveras Rd.,I-680 S,Sunol,Alameda,CA,94586,US,US/Pacific,KLVK,06/22/2016 10:53:00,75,Clear
+A-871,Source2,3,Right hand shoulder blocked due to accident on I-80 Westbound near Exit 24 Willow Ave.,I-80 E,Hercules,Contra Costa,CA,94547,US,US/Pacific,KCCR,06/22/2016 10:53:00,75,Clear
+A-872,Source2,3,Right hand shoulder blocked due to accident on I-880 Northbound at Exit 36 / Hegenberger Rd / Edes Ave.,I-880 N,Oakland,Alameda,CA,94621,US,US/Pacific,KOAK,06/22/2016 11:10:00,62.1,Scattered Clouds
+A-873,Source2,3,Right hand shoulder blocked due to accident on I-680 Southbound before Exit 56 / Marina Vista Ave.,I-680 S,Martinez,Contra Costa,CA,94553,US,US/Pacific,KCCR,06/22/2016 10:53:00,75,Clear
+A-874,Source2,3,Accident on I-680 Southbound at Exit 22 Koopman Rd.,I-680 S,Sunol,Alameda,CA,94586,US,US/Pacific,KLVK,06/22/2016 11:53:00,78.1,Clear
+A-875,Source2,2,Accident on CA-1 Southbound at Fremont Blvd.,California Ave,Seaside,Monterey,CA,93955,US,US/Pacific,KMRY,06/22/2016 11:01:00,57.9,Overcast
+A-876,Source2,2,HOV lane blocked due to accident on US-101 Northbound before Exit 383 Tully Rd.,Bayshore Fwy S,San Jose,Santa Clara,CA,95121,US,US/Pacific,KRHV,06/22/2016 11:50:00,77,Clear
+A-877,Source2,2,Accident on CA-99 Northbound at Exits 294A 294B 47th Ave.,CA-99 N,Sacramento,Sacramento,CA,95823,US,US/Pacific,KSAC,06/22/2016 10:53:00,77,Clear
+A-878,Source2,3,Accident on I-80 Eastbound at Exits 94A 94B Watt Ave.,I-80 E,Sacramento,Sacramento,CA,95821,US,US/Pacific,KMCC,06/22/2016 11:15:00,80.6,Clear
+A-879,Source2,2,Accident on US-50 Westbound at Exit 11 Watt Ave.,El Dorado Fwy W,Sacramento,Sacramento,CA,95826,US,US/Pacific,KMHR,06/22/2016 11:46:00,82.4,Clear
+A-880,Source2,3,Right hand shoulder blocked due to accident on I-580 Westbound at Exit 63 Grant Line Rd.,I-580 W,Tracy,Alameda,CA,95377,US,US/Pacific,KLVK,06/22/2016 11:53:00,78.1,Clear
+A-881,Source2,3,Accident on I-80 Westbound at Exit 22 Pinole Valley Rd.,Pinole Valley Rd,Pinole,Contra Costa,CA,94564,US,US/Pacific,KCCR,06/22/2016 11:53:00,78.1,Clear
+A-882,Source2,2,Right hand shoulder blocked due to accident on CA-85 Southbound at Exits 19A 19B / Homestead Rd.,Homestead Rd,Cupertino,Santa Clara,CA,95014,US,US/Pacific,KNUQ,06/22/2016 11:56:00,69.1,Clear
+A-883,Source2,2,Right hand shoulder blocked due to accident on CA-85 Northbound after Exit 14 Saratoga Ave.,Norman Y Mineta Hwy,Saratoga,Santa Clara,CA,95070,US,US/Pacific,KSJC,06/22/2016 11:53:00,72,Clear
+A-884,Source2,2,Accident on East Pkwy at Florin Rd.,East Pkwy,Sacramento,Sacramento,CA,95823-3131,US,US/Pacific,KSAC,06/22/2016 11:53:00,81,Clear
+A-885,Source2,2,Accident on Waterman Rd at Elk Grove Blvd.,Elk Grove Blvd,Elk Grove,Sacramento,CA,95624-2101,US,US/Pacific,KSAC,06/22/2016 11:53:00,81,Clear
+A-886,Source2,3,Right hand shoulder blocked due to accident on I-680 Southbound at CA-24.,Mt Diablo Blvd,Walnut Creek,Contra Costa,CA,94597,US,US/Pacific,KCCR,06/22/2016 12:53:00,81,Clear
+A-887,Source2,2,Accident on Carlton Ave near Fremont St.,Carlton Ave,Stockton,San Joaquin,CA,95203-1941,US,US/Pacific,KSCK,06/22/2016 11:55:00,88,Clear
+A-888,Source2,3,Accident on I-80 Westbound at Exit 24 Willow Ave.,I-80 E,Hercules,Contra Costa,CA,94547,US,US/Pacific,KCCR,06/22/2016 12:53:00,81,Clear
+A-889,Source2,3,Right hand shoulder blocked due to accident on I-238 Northbound at I-880.,Nimitz Fwy S,San Leandro,Alameda,CA,94579,US,US/Pacific,KHWD,06/22/2016 12:54:00,64,Clear
+A-890,Source2,3,#1 lane blocked due to accident on I-280 Northbound at Exit 11 De Anza Blvd.,N De Anza Blvd,Cupertino,Santa Clara,CA,95014,US,US/Pacific,KNUQ,06/22/2016 12:56:00,69.1,Clear
+A-891,Source2,2,Accident on County Hwy-G4 Montague Expy Eastbound near US-101.,Bayshore Fwy S,Santa Clara,Santa Clara,CA,95054,US,US/Pacific,KSJC,06/22/2016 12:53:00,73.9,Clear
+A-892,Source2,2,#2 &amp; #3 lane blocked due to accident on US-101 Southbound at Harney Way.,Bayshore Fwy S,Brisbane,San Mateo,CA,94005,US,US/Pacific,KSFO,06/22/2016 12:56:00,63,Partly Cloudy
+A-893,Source2,3,Accident on I-80 Eastbound at Exit 36 American Canyon Rd.,I-80 E,American Canyon,Solano,CA,94503,US,US/Pacific,KAPC,06/22/2016 12:54:00,73.9,Clear
+A-894,Source2,3,#1 &amp; #2 lane blocked due to accident on I-880 Southbound at I-880 Exit 41A / Oak St.,Nimitz Fwy S,Oakland,Alameda,CA,94607,US,US/Pacific,KOAK,06/22/2016 12:53:00,64.9,Partly Cloudy
+A-895,Source2,2,Shoulder blocked due to accident on CA-85 Northbound at Exit 14 Saratoga Ave.,Norman Y Mineta Hwy,Saratoga,Santa Clara,CA,95070,US,US/Pacific,KSJC,06/22/2016 12:53:00,73.9,Clear
+A-896,Source2,3,Accident on I-280 Southbound at Exit 55 Pennsylvania Ave.,I-280 S,San Francisco,San Francisco,CA,94107,US,US/Pacific,KOAK,06/22/2016 12:53:00,64.9,Partly Cloudy
+A-897,Source2,3,Accident on I-880 Southbound at Exit 41A Oak St.,I-880 N,Oakland,Alameda,CA,94607,US,US/Pacific,KOAK,06/22/2016 12:53:00,64.9,Partly Cloudy
+A-898,Source2,2,Accident on CA-24 Eastbound at Exit 9 Camino Pablo.,CA-24 E,Orinda,Contra Costa,CA,94563,US,US/Pacific,KCCR,06/22/2016 12:53:00,81,Clear
+A-899,Source2,2,Accident on Stockton Blvd at Massie Cir.,Suncountry Ln,Sacramento,Sacramento,CA,95823,US,US/Pacific,KSAC,06/22/2016 12:53:00,84,Clear
+A-900,Source2,2,Accident on US-101 Southbound at Exit 414B CA-92.,Bayshore Fwy S,San Mateo,San Mateo,CA,94403,US,US/Pacific,KSQL,06/22/2016 13:54:00,71.6,Partly Cloudy
+A-901,Source2,2,Accident on Hurley Way at Oak Terrace Ct.,Hurley Way,Sacramento,Sacramento,CA,95825-3608,US,US/Pacific,KMCC,06/22/2016 13:35:00,89.6,Clear
+A-902,Source2,3,Accident on I-880 Northbound at Exit 37 66th Ave.,I-880 N,Oakland,Alameda,CA,94601,US,US/Pacific,KOAK,06/22/2016 13:53:00,64.9,Partly Cloudy
+A-903,Source2,2,Accident on Blum Rd at CA-4.,Blum Rd,Martinez,Contra Costa,CA,94553-4308,US,US/Pacific,KCCR,06/22/2016 13:53:00,82.9,Clear
+A-904,Source2,3,Right hand shoulder blocked due to accident on I-80 Westbound near Exit 89 Northgate Blvd.,I-80 W,Sacramento,Sacramento,CA,95834,US,US/Pacific,KMCC,06/22/2016 13:55:00,89.6,Clear
+A-905,Source2,3,Shoulder blocked on entry ramp due to accident on I-80 Bus Capital City Fwy Northbound at Fulton Ave.,Capital City Fwy E,Sacramento,Sacramento,CA,95821,US,US/Pacific,KMCC,06/22/2016 13:55:00,89.6,Clear
+A-906,Source2,3,Accident on I-880 Southbound at Exit 21 CA-84.,Nimitz Fwy S,Newark,Alameda,CA,94560,US,US/Pacific,KPAO,06/22/2016 13:47:00,69.8,Clear
+A-907,Source2,2,Right hand shoulder blocked due to accident on CA-99 Northbound at Exit 281 Dillard Rd.,CA-99 N,Wilton,Sacramento,CA,95693,US,US/Pacific,KMHR,06/22/2016 13:45:00,89.6,Clear
+A-908,Source2,3,Right hand shoulder blocked due to accident on I-5 Northbound near Exit 516 Sutterville Rd.,I-5 N,Sacramento,Sacramento,CA,95818,US,US/Pacific,KSAC,06/22/2016 13:53:00,87.1,Clear
+A-909,Source2,2,Accident on Willow Pass Rd at Port Chicago Hwy.,Port Chicago Hwy,Pittsburg,Contra Costa,CA,94565,US,US/Pacific,KCCR,06/22/2016 14:53:00,84,Clear
+A-910,Source2,2,Accident on CA-49 Golden Center Fwy Southbound at McKnight Way.,Golden Center Fwy S,Grass Valley,Nevada,CA,95949,US,US/Pacific,KGOO,06/22/2016 14:25:00,84.2,Clear
+A-911,Source2,2,Accident on Soquel Dr between CA-1 and Hospital Dr.,Commercial Xing,Santa Cruz,Santa Cruz,CA,95065,US,US/Pacific,KWVI,06/22/2016 14:53:00,71.1,Clear
+A-912,Source2,2,Accident on CA-238 Mission Blvd Southbound at I-680.,Mission Rd,Fremont,Alameda,CA,94539,US,US/Pacific,KNUQ,06/22/2016 14:56:00,70,Clear
+A-913,Source2,2,Accident on CA-12 at Thornton Rd.,W Highway 12,Lodi,San Joaquin,CA,95242,US,US/Pacific,KSCK,06/22/2016 14:55:00,95,Clear
+A-914,Source2,2,Accident on CA-116 Arnold Dr at CA-121 Arnold Dr.,Bonneau Rd,Sonoma,Sonoma,CA,95476-9229,US,US/Pacific,KO69,06/22/2016 14:55:00,75.2,Clear
+A-915,Source2,2,One lane blocked due to accident on Walerga Rd at Oakhollow Dr.,Oakhollow Dr,Sacramento,Sacramento,CA,95842,US,US/Pacific,KMCC,06/22/2016 15:15:00,93.2,Clear
+A-916,Source2,3,Accident on I-80 Westbound at Exits 2B 2C Harrison St.,James Lick Fwy N,San Francisco,San Francisco,CA,94107,US,US/Pacific,KOAK,06/22/2016 15:53:00,66,Partly Cloudy
+A-917,Source2,3,Accident on I-880 Northbound at Exit 3 Airport Blvd.,I-880 N,San Jose,Santa Clara,CA,95110,US,US/Pacific,KSJC,06/22/2016 15:53:00,75,Clear
+A-918,Source2,2,Accident on CA-49 Grass Valley Hwy near Masters Ct.,Grass Valley Hwy,Auburn,Placer,CA,95603-2520,US,US/Pacific,KAUN,06/22/2016 15:55:00,91.4,Clear
+A-919,Source2,3,Accident on CA-65 Southbound at Exits 306A 306B I-80.,CA-65 N,Roseville,Placer,CA,95678,US,US/Pacific,KMCC,06/22/2016 15:55:00,93.2,Clear
+A-920,Source2,2,Accident on Lake Vera Purdon Rd near Marigold Way.,Lake Vera Purdon Rd,Nevada City,Nevada,CA,95959-9455,US,US/Pacific,KGOO,06/22/2016 15:45:00,84.2,Clear
+A-921,Source2,3,Lane blocked due to accident on I-680 Northbound at Exit 6 County Hwy-G4 Montague Expy.,I-680 S,Milpitas,Santa Clara,CA,95035,US,US/Pacific,KSJC,06/22/2016 16:53:00,73,Clear
+A-922,Source2,2,Accident on Hillsdale Blvd at Diablo Dr.,Hillsdale Blvd,Sacramento,Sacramento,CA,95842-3102,US,US/Pacific,KMCC,06/22/2016 16:35:00,93.2,Clear
+A-923,Source2,2,Accident on Auburn Blvd near Palm Ave.,Auburn Blvd,Sacramento,Sacramento,CA,95841-2806,US,US/Pacific,KMCC,06/22/2016 16:55:00,93.2,Clear
+A-924,Source2,2,Accident on County Hwy-E14 Greenback Ln at Illinois Ave.,Illinois Ave,Orangevale,Sacramento,CA,95662,US,US/Pacific,KMCC,06/22/2016 16:35:00,93.2,Clear
+A-925,Source2,2,Accident on Alta Sierra Dr at Meyer Way.,Meyer Way,Grass Valley,Nevada,CA,95949-6817,US,US/Pacific,KGOO,06/22/2016 16:45:00,86,Clear
+A-926,Source2,3,Right hand shoulder blocked due to accident on I-80 Eastbound at Exit 75 Chiles Rd.,I-80 E,Davis,Yolo,CA,95618,US,US/Pacific,KEDU,06/22/2016 17:55:00,89.6,Clear
+A-927,Source2,2,Accident on Fremont Blvd Northbound at Decoto Rd.,Fremont Blvd,Fremont,Alameda,CA,94555,US,US/Pacific,KHWD,06/22/2016 17:54:00,63,Clear
+A-928,Source2,3,Right hand shoulder blocked due to accident on I-80 Westbound at Exit 123 Bell Rd.,I-80 E,Auburn,Placer,CA,95603,US,US/Pacific,KAUN,06/22/2016 17:55:00,91.4,Clear
+A-929,Source2,2,Accident on CA-49 Grass Valley Hwy Northbound at Hulbert Way.,Hulbert Way,Auburn,Placer,CA,95603,US,US/Pacific,KAUN,06/22/2016 18:15:00,91.4,Clear
+A-930,Source2,3,Accident on I-280 Eastbound at Exits 4 5A Parkmoor Ave.,Parkmoor Ave,San Jose,Santa Clara,CA,95126-3429,US,US/Pacific,KSJC,06/22/2016 17:53:00,72,Clear
+A-931,Source2,3,Lane blocked due to accident on I-280 Southbound at Exits 4 5A Parkmoor Ave.,I-280 S,San Jose,Santa Clara,CA,95126,US,US/Pacific,KSJC,06/22/2016 18:53:00,71.1,Clear
+A-932,Source2,3,Accident on I-80 I-580 Westbound at Exit 19A I-80 I-580.,I-580 W,Emeryville,Alameda,CA,94608,US,US/Pacific,KOAK,06/22/2016 18:53:00,63,Partly Cloudy
+A-933,Source2,3,Accident on I-380 Eastbound at Exit 6A US-101.,Bayshore Fwy S,South San Francisco,San Mateo,CA,94080,US,US/Pacific,KSFO,06/22/2016 18:56:00,62.1,Partly Cloudy
+A-934,Source2,3,Accident on I-580 Eastbound at Exit 37 Castro Valley Blvd.,I-580 E,Castro Valley,Alameda,CA,94552,US,US/Pacific,KHWD,06/22/2016 18:54:00,64,Clear
+A-935,Source2,3,Accident on I-680 Southbound at Exits 42A 42B Stone Valley Rd.,I-680 S,Alamo,Contra Costa,CA,94507,US,US/Pacific,KCCR,06/22/2016 18:53:00,75.9,Clear
+A-936,Source2,2,Right hand shoulder blocked due to accident on CA-99 Northbound at Exit 284 County Hwy-E2 Grant Line Rd.,CA-99 N,Elk Grove,Sacramento,CA,95624,US,US/Pacific,KSAC,06/22/2016 18:53:00,84,Clear
+A-937,Source2,3,Accident on I-80 Westbound at Exit 91 Raley Blvd.,I-80 W,Sacramento,Sacramento,CA,95838,US,US/Pacific,KMCC,06/22/2016 19:15:00,86,Clear
+A-938,Source2,3,Accident on I-80 Eastbound at Exits 70 71 Old Davis Rd. On the median.,I-80 E,Davis,Solano,CA,95616,US,US/Pacific,KEDU,06/22/2016 19:35:00,84.2,Clear
+A-939,Source2,3,One lane blocked due to accident on I-80 Bus Capital City Fwy Eastbound at Exits 6A 6B 6C 298B US-50.,US-50 E,Sacramento,Sacramento,CA,95817,US,US/Pacific,KSAC,06/22/2016 19:53:00,78.1,Clear
+A-940,Source2,3,Right hand shoulder blocked due to accident on I-5 Southbound at Exits 518 519A CA-99 CA-16.,I-5 S,Sacramento,Sacramento,CA,95818,US,US/Pacific,KSAC,06/22/2016 19:53:00,78.1,Clear
+A-941,Source2,3,Accident on Bell Rd at Quartz Dr.,Bell Rd,Auburn,Placer,CA,95603,US,US/Pacific,KAUN,06/22/2016 19:35:00,87.8,Clear
+A-942,Source2,3,One lane blocked due to accident on I-80 Eastbound at Exit 85 El Camino Ave.,I-80 E,Sacramento,Sacramento,CA,95833,US,US/Pacific,KMCC,06/22/2016 19:55:00,82.4,Clear
+A-943,Source2,3,Accident on I-5 Northbound at Exit 460 CA-120. On the median.,I-5 N,Lathrop,San Joaquin,CA,95330,US,US/Pacific,KSCK,06/22/2016 19:55:00,81,Clear
+A-944,Source2,3,Accident on I-5 Northbound at Exit 465 Roth Rd.,I-5 N,Lathrop,San Joaquin,CA,95330,US,US/Pacific,KSCK,06/22/2016 19:55:00,81,Clear
+A-945,Source2,3,One lane blocked due to accident on I-80 Eastbound at Exit 90 Norwood Ave.,I-80 E,Sacramento,Sacramento,CA,95838,US,US/Pacific,KMCC,06/22/2016 19:55:00,82.4,Clear
+A-946,Source2,2,Accident on Coach Ln at Cameron Park Dr.,Cameron Park Dr,Cameron Park,El Dorado,CA,95682-8412,US,US/Pacific,KPVF,06/22/2016 20:15:00,75.2,Clear
+A-947,Source2,2,Accident on CA-132 Vernalis Rd near Koster Rd.,S Koster Rd,Tracy,San Joaquin,CA,95304,US,US/Pacific,KSCK,06/22/2016 19:55:00,81,Clear
+A-948,Source2,3,Accident on I-280 Eastbound at Exit 6 Winchester Blvd.,Moorpark Ave,San Jose,Santa Clara,CA,95117,US,US/Pacific,KSJC,06/22/2016 20:53:00,64,Clear
+A-949,Source2,3,Accident on I-80 Eastbound at Exit 106 CA-65.,I-80 E,Roseville,Placer,CA,95661,US,US/Pacific,KMCC,06/22/2016 20:55:00,77,Clear
+A-950,Source2,2,Accident on CA-49 Golden Center Fwy Northbound at Exit 183 / Brunswick Rd.,Golden Center Fwy N,Grass Valley,Nevada,CA,95945,US,US/Pacific,KGOO,06/22/2016 21:05:00,75.2,Clear
+A-951,Source2,2,Accident on Watt Ave near Winona Way.,Winona Way,North Highlands,Sacramento,CA,95660,US,US/Pacific,KMCC,06/22/2016 21:35:00,75.2,Clear
+A-952,Source2,3,Accident on I-380 Eastbound at Exit 5 CA-82 El Camino Real.,I-380 E,San Bruno,San Mateo,CA,94066,US,US/Pacific,KSFO,06/22/2016 21:56:00,57,Partly Cloudy
+A-953,Source2,3,Accident on I-880 Northbound at Exit 22 Fremont Blvd.,I-880 N,Fremont,Alameda,CA,94555,US,US/Pacific,KHWD,06/22/2016 21:54:00,59,Clear
+A-954,Source2,2,Accident on Ardendale Ln at Watt Ave.,Watt Ave,Sacramento,Sacramento,CA,95825-1404,US,US/Pacific,KMCC,06/22/2016 22:15:00,71.6,Clear
+A-955,Source2,2,Accident on CA-121 Arnold Dr Northbound at CA-121 Fremont Dr.,Bonneau Rd,Sonoma,Sonoma,CA,95476-9229,US,US/Pacific,KO69,06/22/2016 22:15:00,53.6,Mostly Cloudy
+A-956,Source2,3,Multi-vehicle accident on I-80 Eastbound at Exits 2B 2C Harrison St.,James Lick Fwy N,San Francisco,San Francisco,CA,94105,US,US/Pacific,KOAK,06/22/2016 21:53:00,59,Partly Cloudy
+A-957,Source2,2,Accident on CA-99 Southbound at Exit 225B Tuolumne Blvd.,Tuolumne Blvd,Modesto,Stanislaus,CA,95351,US,US/Pacific,KMOD,06/22/2016 22:53:00,78.1,Clear
+A-958,Source2,2,Accident on Feldspar Ln at Gold Hill Rd.,Feldspar Ln,Placerville,El Dorado,CA,95667-9403,US,US/Pacific,KPVF,06/22/2016 22:35:00,69.8,Clear
+A-959,Source2,3,Right hand shoulder blocked due to accident now on the shoulder on I-80 Westbound in Fairfield.,I-80 W,Fairfield,Solano,CA,94534,US,US/Pacific,KAPC,06/22/2016 23:54:00,55.9,Light Rain
+A-960,Source2,3,Queueing traffic and right hand shoulder blocked due to serious multi-vehicle accident and accident now on the shoulder on I-280 Southbound at Exit 2A 4th St. On the median.,I-280 S,San Jose,Santa Clara,CA,95112,US,US/Pacific,KSJC,06/22/2016 23:53:00,59,Clear
+A-961,Source2,1,Accident on Banta Rd at Brichetto Rd.,W F St,Tracy,San Joaquin,CA,95304,US,US/Pacific,KSCK,06/22/2016 23:55:00,66,Clear
+A-962,Source2,2,Queueing traffic and Slow lane blocked due to accident on US-101 Southbound at Exits 391A 391B Trimble Rd.,Trimble Rd,San Jose,Santa Clara,CA,95131,US,US/Pacific,KSJC,06/23/2016 00:53:00,59,Clear
+A-963,Source2,3,Lane blocked due to accident on I-280 Southbound at Exit 20 County Hwy-G3 Page Mill Rd.,I-280 S,Los Altos,Santa Clara,CA,94022,US,US/Pacific,KNUQ,06/23/2016 01:56:00,55.9,Clear
+A-964,Source2,2,Lane blocked due to accident on Santa Maria Ave both ways at Mabel Ave.,Santa Maria Ave,Castro Valley,Alameda,CA,94546-3462,US,US/Pacific,KHWD,06/23/2016 01:28:00,57,Scattered Clouds
+A-965,Source2,3,Lane blocked due to accident on I-880 Southbound at Exits 1A 1B 1C Stevens Creek Blvd.,I-880 S,San Jose,Santa Clara,CA,95128,US,US/Pacific,KSJC,06/23/2016 01:53:00,57.9,Clear
+A-966,Source2,3,Lane blocked due to accident on I-680 Northbound at Exit 29 Stoneridge Dr.,I-680 S,Pleasanton,Alameda,CA,94588,US,US/Pacific,KLVK,06/23/2016 02:53:00,55,Clear
+A-967,Source2,3,Lane blocked due to accident and vehicles spun around on I-680 Northbound at Exit 26 Bernal Ave.,I-680 S,Pleasanton,Alameda,CA,94566,US,US/Pacific,KLVK,06/23/2016 01:53:00,55.9,Clear
+A-968,Source2,3,Right hand shoulder blocked due to accident on I-580 Eastbound at Exits 29 29A Golf Links Rd.,I-580 E,Oakland,Alameda,CA,94605,US,US/Pacific,KOAK,06/23/2016 02:53:00,55.9,Overcast
+A-969,Source2,3,Right hand shoulder blocked due to accident on I-80 Westbound at Scales.,I-80 W,Fairfield,Solano,CA,94534,US,US/Pacific,KAPC,06/23/2016 02:54:00,54,Light Rain
+A-970,Source2,2,Lane blocked due to accident on US-101 Southbound before Exits 433 433B 433C San Francisco-Oakland Bay Bridge.,San Bruno Ave,San Francisco,San Francisco,CA,94103,US,US/Pacific,KSFO,06/23/2016 03:56:00,54,Partly Cloudy
+A-971,Source2,2,Lane blocked due to accident on Catalina Dr both ways at Kenmore Ct.,Catalina Dr,Castro Valley,Alameda,CA,94546-4451,US,US/Pacific,KHWD,06/23/2016 03:54:00,57,Mostly Cloudy
+A-972,Source2,3,Right hand shoulder blocked due to accident on I-80 I-580 Eastbound at Exit 12 I-580.,I-580 W,Berkeley,Alameda,CA,94710,US,US/Pacific,KOAK,06/23/2016 05:53:00,55.9,Mostly Cloudy
+A-973,Source2,2,#1 &amp; #2 lane blocked due to accident on US-101 Southbound at Exit 432 Cesar Chavez.,James Lick Fwy S,San Francisco,San Francisco,CA,94107,US,US/Pacific,KOAK,06/23/2016 06:53:00,57.9,Scattered Clouds
+A-974,Source2,2,Right hand shoulder blocked due to accident on CA-120 Eastbound at Exit 1B I-5.,CA-120 E,Lathrop,San Joaquin,CA,95330,US,US/Pacific,KSCK,06/23/2016 07:55:00,68,Clear
+A-975,Source2,2,Accident on CA-65 Northbound at Exit 314 Lincoln Blvd. On the median.,CA-65 S,Lincoln,Placer,CA,95648,US,US/Pacific,KLHM,06/23/2016 07:15:00,64.4,Clear
+A-976,Source2,2,Accident on CA-99 Southbound at Exit 246 County Hwy-J9 French Camp Rd.,CA-99 S,Stockton,San Joaquin,CA,95206,US,US/Pacific,KSCK,06/23/2016 06:55:00,62.1,Clear
+A-977,Source2,3,Right hand shoulder blocked due to accident on I-280 Northbound between Exits 34 35 / CA-35 Skyline Blvd and Exit 36 / Golf Course Dr.,I-280 S,Burlingame,San Mateo,CA,94010,US,US/Pacific,KSFO,06/23/2016 08:56:00,59,Partly Cloudy
+A-978,Source2,3,Right hand shoulder blocked due to accident on I-880 Northbound after Bascom Ave.,N Bascom Ave,San Jose,Santa Clara,CA,95128,US,US/Pacific,KSJC,06/23/2016 08:53:00,64,Clear
+A-979,Source2,2,Right hand shoulder blocked due to accident on CA-25 Southbound after Bolsa Rd.,State Highway 25,Gilroy,Santa Clara,CA,95020,US,US/Pacific,KE16,06/23/2016 08:55:00,64.4,Clear
+A-980,Source2,2,Accident on Garfield Ave at Madison Ave.,Madison Ave,Sacramento,Sacramento,CA,95841-3111,US,US/Pacific,KMCC,06/23/2016 08:55:00,68,Clear
+A-981,Source2,3,#1 lane blocked due to accident on I-80 Westbound near Exit 41 / Suisun Valley Rd.,Suisun Valley Rd,Fairfield,Solano,CA,94534,US,US/Pacific,KAPC,06/23/2016 09:54:00,66,Clear
+A-982,Source2,3,Accident on I-680 Southbound at King Rd.,S King Rd,San Jose,Santa Clara,CA,95116,US,US/Pacific,KRHV,06/23/2016 08:47:00,66.2,Clear
+A-983,Source2,3,Accident on I-5 Southbound at Exit 460 CA-120.,I-5 S,Lathrop,San Joaquin,CA,95330,US,US/Pacific,KSCK,06/23/2016 08:55:00,72,Clear
+A-984,Source2,2,Accident on County Hwy-E3 Sierra College Blvd at Old Auburn Rd.,Sierra College Blvd,Roseville,Placer,CA,95661-5922,US,US/Pacific,KMCC,06/23/2016 09:35:00,71.6,Clear
+A-985,Source2,2,Right hand shoulder blocked due to accident on US-101 Southbound before Exit 474 / Washington St.,E Washington St,Petaluma,Sonoma,CA,94952,US,US/Pacific,KO69,06/23/2016 09:35:00,64.4,Clear
+A-986,Source2,3,Right hand shoulder blocked due to accident on I-80 Westbound before Exit 96 Madison Ave.,I-80 E,Sacramento,Sacramento,CA,95841,US,US/Pacific,KMCC,06/23/2016 09:35:00,71.6,Clear
+A-987,Source2,2,Accident on Sexton Rd near Arthur Rd.,Arthur Rd,Escalon,San Joaquin,CA,95320-9764,US,US/Pacific,KMOD,06/23/2016 09:53:00,79,Clear
+A-988,Source2,3,Right hand shoulder blocked due to accident on I-280 Southbound before I-280 Exit 52 / San Jose Ave.,John F Foran Fwy,San Francisco,San Francisco,CA,94112,US,US/Pacific,KSFO,06/23/2016 09:56:00,61,Partly Cloudy
+A-989,Source2,3,Right hand shoulder blocked due to accident on I-280 Northbound at Exits 4 5A / Parkmoor Ave.,Meridian Ave,San Jose,Santa Clara,CA,95126,US,US/Pacific,KSJC,06/23/2016 09:53:00,68,Clear
+A-990,Source2,3,Middle lane blocked due to accident on I-280 Northbound before 11th St.,S 11th St,San Jose,Santa Clara,CA,95112,US,US/Pacific,KSJC,06/23/2016 09:53:00,68,Clear
+A-991,Source2,2,Lane blocked due to accident on Byron Hwy at Kellogg Creek Rd.,Kellogg Creek Rd,Byron,Contra Costa,CA,94514-2216,US,US/Pacific,KLVK,06/23/2016 09:53:00,71.1,Clear
+A-992,Source2,2,Accident on Boyington Rd at I-80.,Penryn Rd,Penryn,Placer,CA,95663-9603,US,US/Pacific,KAUN,06/23/2016 09:55:00,78.8,Clear
+A-993,Source2,2,Accident on Bancroft Rd Eastbound at Minert Rd.,Bancroft Rd,Walnut Creek,Contra Costa,CA,94598-1003,US,US/Pacific,KCCR,06/23/2016 09:53:00,75,Clear
+A-994,Source2,3,Right hand shoulder blocked due to accident on I-680 Southbound at Exit 26 Bernal Ave.,I-680 S,Pleasanton,Alameda,CA,94566,US,US/Pacific,KLVK,06/23/2016 09:53:00,71.1,Clear
+A-995,Source2,3,Left hand shoulder blocked due to accident on I-80 Westbound at Exit 78 Chiles Rd.,I-80 W,Davis,Yolo,CA,95618,US,US/Pacific,KEDU,06/23/2016 10:15:00,75.2,Clear
+A-996,Source2,2,#4 lane blocked due to accident on CA-4 Westbound before Exit 19 / San Marco Blvd.,Willow Pass Rd,Pittsburg,Contra Costa,CA,94565,US,US/Pacific,KCCR,06/23/2016 10:53:00,78.1,Clear
+A-997,Source2,3,Right hand shoulder blocked due to accident on I-680 Southbound before Bernal Ave.,I-680 S,Pleasanton,Alameda,CA,94566,US,US/Pacific,KLVK,06/23/2016 09:53:00,71.1,Clear
+A-998,Source2,2,Accident on County Hwy-E14 Elkhorn Blvd at 32nd St.,32nd St,North Highlands,Sacramento,CA,95660,US,US/Pacific,KMCC,06/23/2016 10:35:00,77,Clear
+A-999,Source2,2,Accident on County Hwy-E14 Greenback Ln at Garfield Ave.,Garfield Ave,Citrus Heights,Sacramento,CA,95621,US,US/Pacific,KMCC,06/23/2016 10:35:00,77,Clear
+A-1000,Source2,2,Accident on US-50 Westbound near Exits 30 30A 30B Latrobe Rd.,Latrobe Rd,El Dorado Hills,El Dorado,CA,95762,US,US/Pacific,KMHR,06/23/2016 10:46:00,77,Clear
+A-1001,Source2,3,#3 lane blocked due to accident on I-580 Eastbound after I-580 Exit 48 / El Charro Rd.,Fallon Rd,Pleasanton,Alameda,CA,94588,US,US/Pacific,KLVK,06/23/2016 10:53:00,75.9,Clear
+A-1002,Source2,3,Accident on I-680 Southbound after Alum Rock Ave. On the median.,I-680 S,San Jose,Santa Clara,CA,95116,US,US/Pacific,KRHV,06/23/2016 10:50:00,75.2,Clear
+A-1003,Source2,2,Accident on Florin Rd at Florin Perkins Rd.,French Rd,Sacramento,Sacramento,CA,95828,US,US/Pacific,KSAC,06/23/2016 10:53:00,78.1,Clear
+A-1004,Source2,2,Accident on US-50 Eastbound at Exit 15 Mather Field Rd.,US-50 E,Rancho Cordova,Sacramento,CA,95670,US,US/Pacific,KMHR,06/23/2016 10:46:00,77,Clear
+A-1005,Source2,2,Right hand shoulder blocked due to accident on US-101 Southbound before Willow Rd.,Bayshore Fwy S,Menlo Park,San Mateo,CA,94025,US,US/Pacific,KPAO,06/23/2016 10:47:00,68,Clear
+A-1006,Source2,3,Accident on I-580 Westbound after Airway Blvd. On the median.,Airway Blvd,Livermore,Alameda,CA,94551,US,US/Pacific,KLVK,06/23/2016 10:53:00,75.9,Clear
+A-1007,Source2,3,Right hand shoulder blocked due to accident on I-80 Westbound near Green Valley Rd.,I-80 W,Fairfield,Solano,CA,94534,US,US/Pacific,KAPC,06/23/2016 10:54:00,70,Clear
+A-1008,Source2,2,Slow traffic and right hand shoulder blocked due to accident on CA-99 Sacramento Fwy Northbound at Exit 296 Fruitridge Rd.,Fruitridge Rd,Sacramento,Sacramento,CA,95824,US,US/Pacific,KSAC,06/23/2016 10:53:00,78.1,Clear
+A-1009,Source2,2,Lane blocked on exit ramp and slow traffic due to accident on CA-99 Northbound at Exits 294A 294B 47th Ave.,CA-99 S,Sacramento,Sacramento,CA,95823,US,US/Pacific,KSAC,06/23/2016 10:53:00,78.1,Clear
+A-1010,Source2,2,#1 lane blocked due to accident on US-101 Southbound before Silver Ave.,I-280 S,San Francisco,San Francisco,CA,94134,US,US/Pacific,KSFO,06/23/2016 10:56:00,64,Partly Cloudy
+A-1011,Source2,2,Right hand shoulder blocked due to accident on CA-84 Woodside Rd Northbound at Woodside Rd.,Woodside Rd,Redwood City,San Mateo,CA,94063,US,US/Pacific,KSQL,06/23/2016 10:47:00,66.2,Clear
+A-1012,Source2,3,Accident on I-880 Northbound before CA-92 Jackson St.,Nimitz Fwy S,Hayward,Alameda,CA,94545,US,US/Pacific,KHWD,06/23/2016 10:54:00,70,Clear
+A-1013,Source2,3,Right hand shoulder blocked due to accident on I-580 Eastbound before Exit 65 I-205.,I-580 W,Tracy,Alameda,CA,95391,US,US/Pacific,KLVK,06/23/2016 10:53:00,75.9,Clear
+A-1014,Source2,3,Accident on I-80 Eastbound at Exit 102 Cirby Way.,Riverside Ave,Roseville,Placer,CA,95661,US,US/Pacific,KMCC,06/23/2016 11:15:00,80.6,Clear
+A-1015,Source2,3,Accident on I-280 Northbound before Alemany Blvd. On the median.,Alemany Blvd,San Francisco,San Francisco,CA,94134,US,US/Pacific,KSFO,06/23/2016 10:56:00,64,Partly Cloudy
+A-1016,Source2,3,#1 lane blocked due to accident on I-80 Eastbound before MacDonald Ave.,MacDonald Ave,Richmond,Contra Costa,CA,94805,US,US/Pacific,KCCR,06/23/2016 11:53:00,82,Clear
+A-1017,Source2,3,Accident on I-80 Eastbound before Potrero Ave.,Potrero Ave,El Cerrito,Contra Costa,CA,94530,US,US/Pacific,KCCR,06/23/2016 11:53:00,82,Clear
+A-1018,Source2,3,Right hand shoulder blocked due to accident on I-280 Southbound at San Bruno Ave.,I-280 S,San Bruno,San Mateo,CA,94066,US,US/Pacific,KSFO,06/23/2016 11:56:00,66.9,Clear
+A-1019,Source2,2,Accident on CA-237 Westbound before Zanker Rd. On the median.,CA-237 W,San Jose,Santa Clara,CA,95134,US,US/Pacific,KSJC,06/23/2016 11:53:00,78.1,Clear
+A-1020,Source2,3,Right hand shoulder blocked due to accident on I-580 Westbound before Isabel Ave.,Isabel Ave,Livermore,Alameda,CA,94551,US,US/Pacific,KLVK,06/23/2016 11:53:00,81,Clear
+A-1021,Source2,2,Right hand shoulder blocked due to accident on CA-92 Westbound at Exit 12C Delaware St.,J Arthur Younger Fwy W,San Mateo,San Mateo,CA,94402,US,US/Pacific,KSQL,06/23/2016 11:50:00,71.6,Clear
+A-1022,Source2,2,Accident on US-101 Northbound at Exit 433A Vermont St.,17th St,San Francisco,San Francisco,CA,94103,US,US/Pacific,KSFO,06/23/2016 11:56:00,66.9,Clear
+A-1023,Source2,3,Accident on I-80 Westbound at Exits 8A 8B I-880.,I-80 W,Oakland,Alameda,CA,94607,US,US/Pacific,KOAK,06/23/2016 11:53:00,68,Clear
+A-1024,Source2,3,Accident on I-580 Eastbound at Seminary Avenue.,I-580 W,Oakland,Alameda,CA,94605,US,US/Pacific,KOAK,06/23/2016 11:53:00,68,Clear
+A-1025,Source2,2,Accident on County Hwy-G4 San Tomas Expy both ways at CA-82 El Camino Real.,San Tomas Expy,Santa Clara,Santa Clara,CA,95050,US,US/Pacific,KSJC,06/23/2016 11:53:00,78.1,Clear
+A-1026,Source2,3,Accident on I-880 Northbound at Exits 4B 4C US-101.,I-880 S,San Jose,Santa Clara,CA,95112,US,US/Pacific,KSJC,06/23/2016 11:53:00,78.1,Clear
+A-1027,Source2,2,Accident and animals on road on CA-1 Southbound at Munras Ave.,CA-1 S,Monterey,Monterey,CA,93940,US,US/Pacific,KMRY,06/23/2016 11:54:00,61,Clear
+A-1028,Source2,3,#2 lane blocked due to accident on I-580 Westbound at Springtown Blvd.,I-580 E,Livermore,Alameda,CA,94551,US,US/Pacific,KLVK,06/23/2016 11:53:00,81,Clear
+A-1029,Source2,3,Accident on I-580 Westbound at Exit 55 Vasco Rd.,I-580 W,Livermore,Alameda,CA,94551,US,US/Pacific,KLVK,06/23/2016 11:53:00,81,Clear
+A-1030,Source2,3,Accident on I-280 Southbound at Exit 27 Farm Hill Blvd.,Junipero Serra Fwy N,Redwood City,San Mateo,CA,94062,US,US/Pacific,KSQL,06/23/2016 12:50:00,75.2,Clear
+A-1031,Source2,2,Accident on Boyes Blvd both ways at Riverside Dr.,Boyes Blvd,Sonoma,Sonoma,CA,95476-3710,US,US/Pacific,KO69,06/23/2016 11:55:00,77,Clear
+A-1032,Source2,2,Right hand shoulder blocked due to accident on US-101 Northbound at Exit 367 Cochrane Rd.,S Valley Fwy S,Morgan Hill,Santa Clara,CA,95037,US,US/Pacific,KE16,06/23/2016 11:55:00,82.4,Clear
+A-1033,Source2,2,Right hand shoulder blocked due to accident on CA-92 San Mateo Rd Westbound near Quarry Rd.,San Mateo Rd,Half Moon Bay,San Mateo,CA,94019-7112,US,US/Pacific,KHAF,06/23/2016 12:55:00,60.8,Clear
+A-1034,Source2,2,Right hand shoulder blocked due to accident on CA-12 both ways at Scally Rd.,State Highway 12,Suisun City,Solano,CA,94585,US,US/Pacific,KSUU,06/23/2016 12:58:00,85.3,Clear
+A-1035,Source2,2,Accident on CA-12 at CA-160.,State Highway 160,Isleton,Sacramento,CA,95641-9792,US,US/Pacific,KSUU,06/23/2016 12:58:00,85.3,Clear
+A-1036,Source2,2,Accident on US-50 Eastbound at Exit 9 Hornet Dr.,Howe Ave,Sacramento,Sacramento,CA,95826,US,US/Pacific,KMHR,06/23/2016 12:45:00,84.2,Clear
+A-1037,Source2,2,Accident on US-101 Northbound at Exit 389B Brokaw Rd.,N 1st St,San Jose,Santa Clara,CA,95112,US,US/Pacific,KSJC,06/23/2016 12:53:00,80.1,Clear
+A-1038,Source2,3,Accident on I-580 Westbound at Exit 48 El Charro Rd.,Fallon Rd,Pleasanton,Alameda,CA,94588,US,US/Pacific,KLVK,06/23/2016 12:53:00,82.9,Clear
+A-1039,Source2,2,Accident on Bianchi Ln both ways at Harper St.,Bianchi Ln,Santa Cruz,Santa Cruz,CA,95062-3056,US,US/Pacific,KWVI,06/23/2016 13:53:00,77,Clear
+A-1040,Source2,3,Accident on I-580 Westbound at Exit 50 CA-84 Airway Blvd.,Airway Blvd,Livermore,Alameda,CA,94551,US,US/Pacific,KLVK,06/23/2016 13:53:00,86,Clear
+A-1041,Source2,2,Accident on CA-12 both ways at CA-160.,State Highway 160,Isleton,Sacramento,CA,95641-9792,US,US/Pacific,KSUU,06/23/2016 13:58:00,88,Partly Cloudy
+A-1042,Source2,3,Accident on I-80 Westbound at Exit 92 Winters St.,Winters St,Sacramento,Sacramento,CA,95838,US,US/Pacific,KMCC,06/23/2016 11:55:00,80.6,Clear
+A-1043,Source2,2,Accident on Hillsdale Blvd at Madison Ave.,Hillsdale Blvd,Sacramento,Sacramento,CA,95842-3522,US,US/Pacific,KMCC,06/23/2016 11:55:00,80.6,Clear
+A-1044,Source2,3,# 2 lane blocked due to accident on I-680 Southbound at Monument Blvd.,Monument Blvd,Pleasant Hill,Contra Costa,CA,94523,US,US/Pacific,KCCR,06/23/2016 13:53:00,89.1,Clear
+A-1045,Source2,2,Right hand shoulder blocked due to accident on CA-17 Santa Cruz Hwy Northbound at Alma College Rd.,Santa Cruz Hwy,Los Gatos,Santa Cruz,CA,95033-9123,US,US/Pacific,KSJC,06/23/2016 13:53:00,80.1,Clear
+A-1046,Source2,2,Accident on Mountain House Pkwy at Schulte Rd.,W Schulte Rd,Tracy,San Joaquin,CA,95377,US,US/Pacific,KLVK,06/23/2016 13:53:00,86,Clear
+A-1047,Source2,2,Accident on County Hwy-J4 Grant Line Rd at Tracy Blvd.,N Tracy Blvd,Tracy,San Joaquin,CA,95376,US,US/Pacific,KSCK,06/23/2016 13:55:00,91,Clear
+A-1048,Source2,2,Accident on CA-26 at County Hwy-J6 Escalon Bellota Rd.,E Highway 26,Linden,San Joaquin,CA,95236-9427,US,US/Pacific,KSCK,06/23/2016 13:55:00,91,Clear
+A-1049,Source2,3,Right hand shoulder blocked due to accident on I-80 Westbound at Exit 22 Pinole Valley Rd.,Pinole Valley Rd,Pinole,Contra Costa,CA,94564,US,US/Pacific,KCCR,06/23/2016 13:53:00,89.1,Clear
+A-1050,Source2,2,Right hand shoulder blocked due to accident on CA-121 Fremont Dr both ways at Napa Rd.,Fremont Dr,Sonoma,Sonoma,CA,95476-9705,US,US/Pacific,KO69,06/23/2016 11:55:00,77,Clear
+A-1051,Source2,3,Accident on I-80 Eastbound at Exit 100 Antelope Rd.,I-80 E,Citrus Heights,Sacramento,CA,95621,US,US/Pacific,KMCC,06/23/2016 11:55:00,80.6,Clear
+A-1052,Source2,2,Accident on Rollingwood Dr both ways at Fordham St.,Fordham St,San Pablo,Contra Costa,CA,94806-3161,US,US/Pacific,KCCR,06/23/2016 14:53:00,87.1,Clear
+A-1053,Source2,2,Accident on CA-113 at Exit 29 County Hwy-E6 Covell Blvd.,W Covell Blvd,Davis,Yolo,CA,95616,US,US/Pacific,KEDU,06/23/2016 13:35:00,86,Clear
+A-1054,Source2,2,Accident on San Juan Ave at Winding Way.,San Juan Ave,Fair Oaks,Sacramento,CA,95628-5522,US,US/Pacific,KMHR,06/23/2016 14:45:00,91.4,Clear
+A-1055,Source2,2,Right hand shoulder blocked due to accident on CA-121 Sonoma Hwy both ways at Cuttings Wharf Rd.,Sonoma Hwy,Napa,Napa,CA,94559-9749,US,US/Pacific,KAPC,06/23/2016 14:54:00,84,Clear
+A-1056,Source2,2,#1 lane blocked due to accident on CA-85 Northbound at I-280.,Norman Y Mineta Hwy,Cupertino,Santa Clara,CA,95014,US,US/Pacific,KNUQ,06/23/2016 14:56:00,79,Clear
+A-1057,Source2,3,Right hand shoulder blocked due to accident on I-680 Northbound at Exits 30A 30B I-580.,I-580 E,Pleasanton,Alameda,CA,94588,US,US/Pacific,KLVK,06/23/2016 14:53:00,86,Clear
+A-1058,Source2,3,Queueing traffic due to accident on I-80 Eastbound at Exit 75 Chiles Rd.,I-80 E,Davis,Yolo,CA,95618,US,US/Pacific,KEDU,06/23/2016 13:35:00,86,Clear
+A-1059,Source2,3,Queueing traffic due to accident on I-5 Northbound at Exit 522 / I-80 Exit 86.,I-80 E,Sacramento,Sacramento,CA,95833,US,US/Pacific,KMCC,06/23/2016 18:55:00,86,Clear
+A-1060,Source2,2,Accident on US-50 Eastbound at Exit 8A / 59th St / St.,El Dorado Fwy W,Sacramento,Sacramento,CA,95819,US,US/Pacific,KSAC,06/23/2016 15:53:00,90,Clear
+A-1061,Source2,3,Accident on I-80 at Exit 88 / Truxel Rd.,Truxel Rd,Sacramento,Sacramento,CA,95834,US,US/Pacific,KMCC,06/23/2016 18:55:00,86,Clear
+A-1062,Source2,3,Accident on I-205 Eastbound at Exit 9 MacArthur Dr. On the median.,I-205 E,Tracy,San Joaquin,CA,95304,US,US/Pacific,KSCK,06/23/2016 17:55:00,89.1,Clear
+A-1063,Source2,3,Accident on I-80 Eastbound at Exit 89 Northgate Blvd.,Northgate Blvd,Sacramento,Sacramento,CA,95834,US,US/Pacific,KMCC,06/23/2016 18:55:00,86,Clear
+A-1064,Source2,3,Accident on I-5 Southbound at Exit 498 / County Hwy-E13 Twin Cities Rd.,I-5 S,Elk Grove,Sacramento,CA,95757,US,US/Pacific,KSAC,06/23/2016 18:53:00,81,Clear
+A-1065,Source2,3,Accident on I-5 Southbound at Exit 474B / Country Club Blvd / Plymouth Rd.,I-5 S,Stockton,San Joaquin,CA,95203,US,US/Pacific,KSCK,06/23/2016 18:55:00,84,Clear
+A-1066,Source2,3,Accident on I-80 Westbound at Exit 18 San Pablo Dam Rd.,I-80 W,San Pablo,Contra Costa,CA,94806,US,US/Pacific,KCCR,06/23/2016 18:53:00,78.1,Clear
+A-1067,Source2,2,Accident on 27th St at Martin Luther King Jr Way.,27th St,Oakland,Alameda,CA,94612-1110,US,US/Pacific,KOAK,06/23/2016 18:53:00,70,Clear
+A-1068,Source2,3,Accident on I-5 Southbound at Exit 525B / CA-99 Exit 306. On the median.,CA-16 E,Sacramento,Sacramento,CA,95835,US,US/Pacific,KSMF,06/23/2016 18:53:00,87.1,Clear
+A-1069,Source2,2,Accident on CA-92 Jackson St Northbound at Exit 25B Hesperian Blvd.,W Jackson St,Hayward,Alameda,CA,94545,US,US/Pacific,KHWD,06/23/2016 19:54:00,64.9,Clear
+A-1070,Source2,3,Accident on I-580 Eastbound at Exit 55 Vasco Rd.,I-580 E,Livermore,Alameda,CA,94551,US,US/Pacific,KLVK,06/23/2016 19:53:00,68,Clear
+A-1071,Source2,3,Accident on I-80 Eastbound at Exit 78 / Chiles Rd / Road 32A.,I-80 E,Davis,Yolo,CA,95618,US,US/Pacific,KEDU,06/23/2016 19:35:00,82.4,Clear
+A-1072,Source2,3,Queueing traffic due to accident on I-5 Southbound in Sacramento.,I-5 S,Elk Grove,Sacramento,CA,95757,US,US/Pacific,KSAC,06/23/2016 19:53:00,75.9,Clear
+A-1073,Source2,3,Accident on I-5 Northbound at Exit 472 / CA-4 Exits 65A 65B / CA-4 Ort J Lofthus Fwy Exits 65A-B 66A.,Ort J Lofthus Fwy W,Stockton,San Joaquin,CA,95203,US,US/Pacific,KSCK,06/23/2016 19:55:00,77,Clear
+A-1074,Source2,3,Accident on I-380 Eastbound at Exit 6A US-101.,Bayshore Fwy S,South San Francisco,San Mateo,CA,94080,US,US/Pacific,KSFO,06/23/2016 22:32:00,57.9,Scattered Clouds
+A-1075,Source2,3,Accident on I-280 Southbound at Exits 3A 3B Bird Ave.,I-280 S,San Jose,Santa Clara,CA,95125,US,US/Pacific,KSJC,06/23/2016 22:53:00,64,Clear
+A-1076,Source2,2,Accident on Thurber Ln at Cabrillo Ave.,Thurber Ln,Santa Cruz,Santa Cruz,CA,95065-1145,US,US/Pacific,KWVI,06/23/2016 23:53:00,59,Clear
+A-1077,Source2,3,One lane blocked due to accident on I-80 Westbound at Exit 140 Rollins Lake Rd.,I-80 E,Colfax,Placer,CA,95713,US,US/Pacific,KGOO,06/24/2016 00:05:00,66.2,Clear
+A-1078,Source2,2,Right hand shoulder blocked due to accident on CA-13 Warren Fwy Northbound at Exit 1C Aliso Ave.,Redwood Rd,Oakland,Alameda,CA,94619,US,US/Pacific,KOAK,06/24/2016 01:37:00,57.9,Mostly Cloudy
+A-1079,Source2,2,Lane blocked due to accident on CA-113 Rio Dixon Rd at Creed Rd.,Creed Rd,Suisun City,Solano,CA,94585,US,US/Pacific,KSUU,06/24/2016 01:58:00,61,Clear
+A-1080,Source2,2,Middle lane blocked due to multi-vehicle accident on US-101 Van Ness Ave Northbound at Exits 434A 434B 13th St.,S Van Ness Ave,San Francisco,San Francisco,CA,94103-3714,US,US/Pacific,KSFO,06/24/2016 01:56:00,55.9,Overcast
+A-1081,Source2,3,Lane blocked due to accident on I-280 Northbound before Exits 54 54A 54B US-101.,I-280 S,San Francisco,San Francisco,CA,94134,US,US/Pacific,KSFO,06/24/2016 01:56:00,55.9,Overcast
+A-1082,Source2,3,Lane blocked due to accident on I-680 Northbound before Exit 47 San Luis Rd.,I-680 N,Walnut Creek,Contra Costa,CA,94597,US,US/Pacific,KCCR,06/24/2016 01:53:00,62.1,Clear
+A-1083,Source2,2,Accident on Eastside Rd at Grapevine Ln.,Eastside Rd,Windsor,Sonoma,CA,95492,US,US/Pacific,KSTS,06/24/2016 02:53:00,54,Clear
+A-1084,Source2,2,Accident on Siesta Way at CA-12 Sonoma Hwy.,Highway 12,Sonoma,Sonoma,CA,95476-4423,US,US/Pacific,KO69,06/24/2016 03:15:00,51.8,Clear
+A-1085,Source2,3,Lane blocked on entry ramp due to accident on I-80 Eastbound at Exits 2B 2C Harrison St.,James Lick Fwy N,San Francisco,San Francisco,CA,94105,US,US/Pacific,KOAK,06/24/2016 03:39:00,57,Overcast
+A-1086,Source2,2,Accident on Dixon Ave both ways at Pedrick Rd.,Dixon Ave E,Dixon,Solano,CA,95620-9685,US,US/Pacific,KEDU,06/24/2016 05:35:00,55.4,Clear
+A-1087,Source2,3,Left hand shoulder blocked due to accident on I-80 Westbound at Exits 8A 8B I-880.,I-80 W,Oakland,Alameda,CA,94607,US,US/Pacific,KOAK,06/24/2016 05:53:00,57,Overcast
+A-1088,Source2,3,Right hand shoulder blocked due to accident on I-280 Northbound at Exit 29 Edgewood Rd.,Junipero Serra Fwy N,Redwood City,San Mateo,CA,94062,US,US/Pacific,KSQL,06/24/2016 06:15:00,57.2,Clear
+A-1089,Source2,2,#2 lane blocked due to accident on CA-4 Eastbound after I-680.,I-680 S,Martinez,Contra Costa,CA,94553,US,US/Pacific,KCCR,06/24/2016 07:53:00,63,Clear
+A-1090,Source2,3,Slow lane blocked due to accident on I-680 Southbound before Exit 18B / Sheridan Rd.,Sheridan Rd,Sunol,Alameda,CA,94586,US,US/Pacific,KLVK,06/24/2016 07:53:00,59,Clear
+A-1091,Source2,3,Left lane blocked due to accident on I-80 Eastbound on Oakland Bay Bridge.,I-80 W,Oakland,Alameda,CA,94607,US,US/Pacific,KOAK,06/24/2016 07:53:00,57,Mostly Cloudy
+A-1092,Source2,2,Accident on CA-85 Northbound before CA-17. On the median.,CA-85 S,Los Gatos,Santa Clara,CA,95032,US,US/Pacific,KSJC,06/24/2016 08:53:00,64,Partly Cloudy
+A-1093,Source2,3,Accident on I-680 Southbound at Andrade Rd.,Andrade Rd,Sunol,Alameda,CA,94586,US,US/Pacific,KLVK,06/24/2016 08:53:00,63,Clear
+A-1094,Source2,2,Right hand shoulder blocked due to accident on US-101 Southbound before McKee Rd.,Bayshore Fwy S,San Jose,Santa Clara,CA,95116,US,US/Pacific,KRHV,06/24/2016 07:52:00,62.6,Clear
+A-1095,Source2,2,Accident on Stockton Blvd at Yosemite Ave.,Stockton Blvd,Sacramento,Sacramento,CA,95820-4021,US,US/Pacific,KSAC,06/24/2016 08:53:00,66.9,Clear
+A-1096,Source2,2,Accident on Gates Rd at Beckwith Rd.,N Gates Rd,Modesto,Stanislaus,CA,95358,US,US/Pacific,KMOD,06/24/2016 08:53:00,72,Clear
+A-1097,Source2,3,#2 3 &amp; 4 lane blocked due to accident on I-880 Northbound before Thornton Ave.,Thornton Ave,Fremont,Alameda,CA,94536,US,US/Pacific,KPAO,06/24/2016 09:03:00,62.6,Scattered Clouds
+A-1098,Source2,3,One lane blocked due to accident on I-80 Westbound at Exit 109 County Hwy-E3 Sierra College Blvd.,Sierra College Blvd,Rocklin,Placer,CA,95677,US,US/Pacific,KLHM,06/24/2016 09:15:00,71.6,Clear
+A-1099,Source2,2,Right hand shoulder blocked due to accident on I-80 Eastbound after Hiddenbrooke Pkwy.,I-80 E,American Canyon,Solano,CA,94503,US,US/Pacific,KAPC,06/24/2016 09:54:00,64,Clear
+A-1100,Source2,3,#2 lane blocked due to accident on I-80 Westbound before Carlson Blvd.,I-80 E,Richmond,Contra Costa,CA,94804,US,US/Pacific,KCCR,06/24/2016 09:53:00,73,Clear
+A-1101,Source2,3,Left hand shoulder blocked due to accident on I-5 Northbound at Exit 504 Hood Franklin Rd.,I-5 N,Elk Grove,Sacramento,CA,95757,US,US/Pacific,KSAC,06/24/2016 09:53:00,72,Clear
+A-1102,Source2,3,Left hand shoulder blocked due to accident on I-80 Bus Capital City Fwy Southbound at Exit 14B Watt Ave.,Capital City Fwy W,Sacramento,Sacramento,CA,95821,US,US/Pacific,KMCC,06/24/2016 11:35:00,80.6,Clear
+A-1103,Source2,2,Accident on Watt Ave Southbound before I-80 Bus Capital City Fwy.,Capital City Fwy E,Sacramento,Sacramento,CA,95841,US,US/Pacific,KMCC,06/24/2016 11:35:00,80.6,Clear
+A-1104,Source2,3,Middle lane blocked due to accident on I-80 Westbound at Exits 8A 8B I-880.,I-80 W,Oakland,Alameda,CA,94607,US,US/Pacific,KOAK,06/24/2016 09:53:00,61,Scattered Clouds
+A-1105,Source2,3,Accident on I-680 Southbound at Exits 1B 1C King Rd.,I-680 S,San Jose,Santa Clara,CA,95116,US,US/Pacific,KRHV,06/24/2016 09:47:00,68,Clear
+A-1106,Source2,3,Left lane blocked due to accident on I-80 Westbound at Exit 14B Carlson Blvd.,I-80 E,Richmond,Contra Costa,CA,94804,US,US/Pacific,KCCR,06/24/2016 09:53:00,73,Clear
+A-1107,Source2,2,Accident on Florin Rd at CA-99.,Florin Rd,Sacramento,Sacramento,CA,95823,US,US/Pacific,KSAC,06/24/2016 09:53:00,72,Clear
+A-1108,Source2,3,Right hand shoulder blocked due to accident on I-80 Westbound before El Portal Dr.,El Portal Dr,San Pablo,Contra Costa,CA,94806,US,US/Pacific,KCCR,06/24/2016 10:53:00,75.9,Clear
+A-1109,Source2,2,Accident on Carrie Dr at Dog Bar Rd.,Dog Bar Rd,Grass Valley,Nevada,CA,95949-6436,US,US/Pacific,KGOO,06/24/2016 11:45:00,75.2,Clear
+A-1110,Source2,3,Accident on I-280 Northbound before CA-92.,I-280 S,Redwood City,San Mateo,CA,94062,US,US/Pacific,KSQL,06/24/2016 10:55:00,66.2,Clear
+A-1111,Source2,2,Right hand shoulder blocked due to accident on CA-68 Monterey Salinas Hwy Westbound at Corral de Tierra Rd.,Monterey Salinas Hwy,Salinas,Monterey,CA,93908-9326,US,US/Pacific,KSNS,06/24/2016 10:53:00,63,Clear
+A-1112,Source2,2,Right hand shoulder blocked due to accident on US-50 Eastbound at Exits 8 8B 65th St.,US-50 E,Sacramento,Sacramento,CA,95820,US,US/Pacific,KSAC,06/24/2016 10:53:00,75,Clear
+A-1113,Source2,2,Shoulder blocked due to accident on Douglas Rd at Mather Blvd.,Mather Blvd,Mather,Sacramento,CA,95655-2903,US,US/Pacific,KMHR,06/24/2016 10:46:00,73.4,Clear
+A-1114,Source2,2,Right hand shoulder blocked due to accident on CA-237 Westbound before Lawrence Expy.,Lawrence Expy,Sunnyvale,Santa Clara,CA,94089,US,US/Pacific,KNUQ,06/24/2016 10:56:00,68,Clear
+A-1115,Source2,3,Right hand shoulder blocked due to accident on I-280 Northbound from 4th St to 10th St.,S 11th St,San Jose,Santa Clara,CA,95112,US,US/Pacific,KSJC,06/24/2016 10:53:00,70,Clear

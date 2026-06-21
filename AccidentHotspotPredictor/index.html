@@ -1,0 +1,283 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Accident Hotspot - Web Demo</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    body { font-family: Arial, sans-serif; margin: 12px; background:#f6f7fb; color:#212121; }
+    h1 { margin: 4px 0 12px 0; font-size: 22px; }
+    .row { display:flex; gap:12px; align-items:flex-start; }
+    .col { background:white; border-radius:8px; padding:12px; box-shadow:0 1px 6px rgba(0,0,0,0.06); }
+    .left { flex: 1 1 360px; max-width: 420px; }
+    .right { flex: 2 1 720px; min-width: 420px; }
+    #map { height: 420px; border-radius:6px; }
+    canvas { background:white; border-radius:6px; padding:8px; }
+    .control { margin-bottom:8px; }
+    label { font-weight:600; display:block; margin-bottom:6px; }
+    .summary { margin-top:8px; font-size:14px; color:#333; }
+    .small { font-size:12px; color:#666; margin-top:6px; }
+    button { background:#2d7ef7; color:white; border:none; padding:8px 12px; border-radius:6px; cursor:pointer; }
+    button:disabled { opacity:0.5; cursor:default; }
+    .predict-box { margin-top:10px; padding:10px; background:#f3f6ff; border-radius:6px; }
+    .popup { font-size:13px; }
+  </style>
+</head>
+<body>
+
+  <h1>Accident Hotspot — Web Demo</h1>
+
+  <div class="row">
+    <div class="col left">
+      <div class="control">
+        <label>Upload accidents CSV</label>
+        <input id="fileInput" type="file" accept=".csv" />
+        <div class="small">Required columns: <code>City</code>, <code>Severity</code>, <code>Temperature(F)</code>, <code>Weather_Condition</code> (other columns allowed)</div>
+      </div>
+
+      <div class="control">
+        <label>Quick Controls</label>
+        <button id="btnProcess" disabled>Process & Visualize</button>
+        <button id="btnDownload" disabled style="margin-left:8px;">Download Summary CSV</button>
+      </div>
+
+      <div class="summary" id="summary">No file uploaded.</div>
+
+      <div class="predict-box">
+        <label>Predict Severity (simple demo)</label>
+        <select id="citySelect" style="width:100%; padding:6px; margin-bottom:8px;"></select>
+        <input id="tempInput" type="number" placeholder="Temperature (°F)" style="width:100%; padding:6px; margin-bottom:8px;" />
+        <button id="btnPredict" disabled>Predict (city-average)</button>
+        <div id="predResult" style="margin-top:8px; font-weight:600;"></div>
+        <div class="small">Prediction method: uses chosen city's historical average severity (demo only)</div>
+      </div>
+    </div>
+
+    <div class="col right">
+      <div id="map"></div>
+      <div style="display:flex; gap:12px; margin-top:12px;">
+        <canvas id="barChart" width="400" height="220"></canvas>
+        <canvas id="pieChart" width="300" height="220"></canvas>
+      </div>
+      <div style="margin-top:12px;">
+        <canvas id="scatterChart" width="800" height="220"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- Libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <script>
+  // ====== Helper utilities ======
+  function showSummary(text) { document.getElementById('summary').innerHTML = text; }
+
+  // Simple CSV -> array parser using PapaParse
+  let rawData = null;
+  document.getElementById('fileInput').addEventListener('change', (ev) => {
+    const f = ev.target.files[0];
+    if(!f) return;
+    Papa.parse(f, {
+      header: true,
+      skipEmptyLines: true,
+      complete: function(results) {
+        rawData = results.data.map(r => {
+          // normalize keys: trim
+          const out = {};
+          for(const k in r) out[k.trim()] = (r[k] || '').trim();
+          return out;
+        });
+        showSummary(`Loaded ${rawData.length} rows. Click "Process & Visualize".`);
+        document.getElementById('btnProcess').disabled = false;
+      }
+    });
+  });
+
+  // ====== Map setup ======
+  const map = L.map('map', { attributionControl: false }).setView([20, 78], 4); // default center
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18 }).addTo(map);
+  let markersLayer = L.layerGroup().addTo(map);
+
+  // ====== Charts placeholders ======
+  let barChart = null, pieChart = null, scatterChart = null;
+
+  // ====== Processing & Visualization ======
+  async function processAndVisualize() {
+    if(!rawData || rawData.length === 0) { alert('Upload CSV first'); return; }
+
+    // Ensure required fields exist
+    const sample = rawData[0];
+    const hasCity = 'City' in sample;
+    const hasSeverity = 'Severity' in sample;
+    const hasTemp = 'Temperature(F)' in sample;
+    const hasWeather = 'Weather_Condition' in sample;
+    if(!hasCity || !hasSeverity) {
+      alert('CSV must contain "City" and "Severity" columns.');
+      return;
+    }
+
+    // Normalize numeric severity and temperature
+    const rows = rawData.map(r => {
+      return {
+        City: r['City'] || 'Unknown',
+        Severity: Number(r['Severity']) || 0,
+        Temperature: hasTemp ? Number(r['Temperature(F)']) || null : null,
+        Weather: hasWeather ? (r['Weather_Condition'] || 'Unknown') : 'Unknown',
+        Raw: r
+      };
+    });
+
+    // basic stats
+    const total = rows.length;
+    const avgSeverity = (rows.reduce((s,r)=>s+r.Severity,0) / (total||1)).toFixed(2);
+
+    // city aggregations
+    const cityAgg = {};
+    rows.forEach(r=>{
+      if(!cityAgg[r.City]) cityAgg[r.City] = { count:0, sumSeverity:0, temps: [] };
+      cityAgg[r.City].count++;
+      cityAgg[r.City].sumSeverity += r.Severity;
+      if(r.Temperature!==null) cityAgg[r.City].temps.push(r.Temperature);
+    });
+
+    const cityStats = Object.keys(cityAgg).map(c => ({
+      City: c,
+      Count: cityAgg[c].count,
+      AvgSeverity: +(cityAgg[c].sumSeverity / cityAgg[c].count).toFixed(2)
+    })).sort((a,b)=>b.Count - a.Count);
+
+    // weather counts
+    const weatherCounts = {};
+    rows.forEach(r => { weatherCounts[r.Weather] = (weatherCounts[r.Weather]||0) + 1; });
+
+    // populate city select for prediction
+    const citySelect = document.getElementById('citySelect');
+    citySelect.innerHTML = '';
+    cityStats.forEach(s => {
+      const opt = document.createElement('option'); opt.value = s.City; opt.text = `${s.City} (${s.Count})`;
+      citySelect.appendChild(opt);
+    });
+    document.getElementById('btnPredict').disabled = false;
+
+    // show summary
+    showSummary(`<b>Total rows:</b> ${total} &nbsp;&nbsp; <b>Avg Severity:</b> ${avgSeverity} &nbsp;&nbsp; <b>Unique cities:</b> ${cityStats.length}`);
+
+    // ===== Draw Bar Chart: top 10 cities by count =====
+    const topCities = cityStats.slice(0,10);
+    const barCtx = document.getElementById('barChart').getContext('2d');
+    if(barChart) barChart.destroy();
+    barChart = new Chart(barCtx, {
+      type: 'bar',
+      data: {
+        labels: topCities.map(x=>x.City),
+        datasets: [{ label:'Accident Count', data: topCities.map(x=>x.Count), backgroundColor: 'rgba(200,50,50,0.8)' }]
+      },
+      options: { indexAxis: 'y', scales: { x: { beginAtZero:true } } }
+    });
+
+    // ===== Draw Pie Chart: top weather conditions =====
+    const topWeather = Object.entries(weatherCounts).sort((a,b)=>b[1]-a[1]).slice(0,6);
+    const pieCtx = document.getElementById('pieChart').getContext('2d');
+    if(pieChart) pieChart.destroy();
+    pieChart = new Chart(pieCtx, {
+      type: 'pie',
+      data: {
+        labels: topWeather.map(x=>x[0]),
+        datasets: [{ data: topWeather.map(x=>x[1]), backgroundColor: ['#ff6b6b','#ff8c42','#ffd166','#6be7ff','#6b8cff','#a86bff'] }]
+      }
+    });
+
+    // ===== Draw Scatter: Temperature vs Severity =====
+    const scatterCtx = document.getElementById('scatterChart').getContext('2d');
+    if(scatterChart) scatterChart.destroy();
+    const scatterData = rows.filter(r=>r.Temperature!==null).map(r=>({ x:r.Temperature, y:r.Severity }));
+    scatterChart = new Chart(scatterCtx, {
+      type: 'scatter',
+      data: { datasets: [{ label:'Temp vs Severity', data: scatterData, pointBackgroundColor:'crimson', pointRadius:6 }] },
+      options: { scales: { x: { title: { display:true, text:'Temperature (°F)' } }, y: { title:{display:true, text:'Severity'} , ticks:{stepSize:1} } } }
+    });
+
+    // ===== Map: geocode top N cities and place markers =====
+    markersLayer.clearLayers();
+    const topForMap = cityStats.slice(0, 12); // limit geocoding calls
+    // center map roughly to first geocode if possible
+    const geocodePromises = topForMap.map(async (ct, idx) => {
+      const query = encodeURIComponent(ct.City + (rows[0].Raw.State ? (', ' + rows[0].Raw.State) : ''));
+      const url = `https://nominatim.openstreetmap.org/search?format=json&q=${query}&limit=1`;
+      try {
+        const resp = await fetch(url, { headers: { 'User-Agent': 'AccidentHotspotDemo/1.0 (email@example.com)' } });
+        const j = await resp.json();
+        if(j && j.length>0) {
+          const item = j[0];
+          return { city: ct.City, lat: Number(item.lat), lon: Number(item.lon), count: ct.Count, avgSeverity: ct.AvgSeverity };
+        }
+      } catch(e) { /* ignore */ }
+      // fallback - random coords within a bounding box centered at 20,78
+      const lat = 20 + (Math.random()-0.5)*10;
+      const lon = 78 + (Math.random()-0.5)*18;
+      return { city: ct.City, lat, lon, count: ct.Count, avgSeverity: ct.AvgSeverity, fallback:true };
+    });
+
+    // wait for geocodes
+    const geocoded = await Promise.all(geocodePromises);
+
+    // place markers
+    geocoded.forEach(g=>{
+      const color = g.avgSeverity >= 3 ? '#9b111e' : (g.avgSeverity >= 2 ? '#ff7b00' : '#ffca3a');
+      const radius = Math.max(6, Math.min(40, g.count / 2 + g.avgSeverity * 3));
+      const marker = L.circleMarker([g.lat, g.lon], { radius, color, fill:true, fillColor:color, fillOpacity:0.6 });
+      marker.bindPopup(`<div class="popup"><b>${g.city}</b><br>Accidents: ${g.count}<br>Avg Severity: ${g.avgSeverity}${g.fallback ? '<br><i>approx location</i>' : ''}</div>`);
+      marker.addTo(markersLayer);
+    });
+
+    if(geocoded.length>0) {
+      map.setView([geocoded[0].lat, geocoded[0].lon], 6);
+    }
+
+    // enable download summary
+    document.getElementById('btnDownload').disabled = false;
+    // save aggregation for download / prediction
+    window._cityStats = cityStats;
+    window._rows = rows;
+    document.getElementById('btnProcess').disabled = true;
+  }
+
+  document.getElementById('btnProcess').addEventListener('click', processAndVisualize);
+
+  // ===== Download summary CSV =====
+  document.getElementById('btnDownload').addEventListener('click', () => {
+    const stats = window._cityStats || [];
+    let csv = 'City,Count,AvgSeverity\n';
+    stats.forEach(s => csv += `${JSON.stringify(s.City)},${s.Count},${s.AvgSeverity}\n`);
+    const blob = new Blob([csv], { type: 'text/csv' });
+    const a = document.createElement('a'); a.href = URL.createObjectURL(blob);
+    a.download = 'city_summary.csv'; a.click();
+  });
+
+  // ===== Simple prediction demo (city-average) =====
+  document.getElementById('btnPredict').addEventListener('click', () => {
+    const city = document.getElementById('citySelect').value;
+    const temp = Number(document.getElementById('tempInput').value);
+    if(!window._cityStats) return alert('Process data first');
+    const stats = window._cityStats.find(s=>s.City === city);
+    if(!stats) return alert('City stats not found');
+    // simple rule: predicted = round(city avg severity) optionally adjusted by temp
+    let pred = Math.round(stats.AvgSeverity);
+    if(!isNaN(temp)) {
+      if(temp > 100) pred = Math.min(4, pred + 1);
+      else if(temp < 32) pred = Math.max(0, pred - 1);
+    }
+    document.getElementById('predResult').innerText = `Predicted Severity: ${pred} (city avg ${stats.AvgSeverity})`;
+  });
+
+  // disable predict until processed
+  document.getElementById('btnPredict').disabled = true;
+  document.getElementById('btnProcess').addEventListener('click', ()=>{ document.getElementById('btnPredict').disabled = false; });
+
+  </script>
+</body>
+</html>
