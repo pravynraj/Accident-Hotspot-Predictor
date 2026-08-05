@@ -182,6 +182,6 @@ This project is developed for educational and learning purposes.
 
 ## 👨‍💻 Author
 
-**Praveen Raj**
+
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
